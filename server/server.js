@@ -13,6 +13,7 @@ connectDB();
 
 const app = express();
 
+
 // Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true })); // For form data parsing
@@ -20,7 +21,7 @@ app.use(express.urlencoded({ extended: true })); // For form data parsing
 
 app.use(
   cors({
-    origin: ["http://localhost:3000", "http://127.0.0.1:7860/predict", "http://127.0.0.1:7860"], // Allow both variants
+    origin: ["http://localhost:3000", "http://127.0.0.1:8000/predict", "http://127.0.0.1:8000"], // Allow both variants
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
   })

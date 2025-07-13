@@ -1,0 +1,2329 @@
+Filename,Age,Gender,Chest Location,Diagnosis,encoded_diagnosis
+101_1b1_Al_sc_Meditron.wav,3.0,F,Anterior Left (A L),urti,13
+101_1b1_Pr_sc_Meditron.wav,3.0,F,Posterior Right (P R),urti,13
+102_1b1_Ar_sc_Meditron.wav,0.75,F,Anterior Right (A R),healthy,5
+103_2b2_Ar_mc_LittC2SE.wav,70.0,F,Anterior Right (A R),asthma,0
+104_1b1_Al_sc_Litt3200.wav,70.0,F,Anterior Left (A L),copd,4
+104_1b1_Ar_sc_Litt3200.wav,70.0,F,Anterior Right (A R),copd,4
+104_1b1_Ll_sc_Litt3200.wav,70.0,F,Lateral Left (L L),copd,4
+104_1b1_Lr_sc_Litt3200.wav,70.0,F,Lateral Right (L R),copd,4
+104_1b1_Pl_sc_Litt3200.wav,70.0,F,Posterior Left (P L),copd,4
+104_1b1_Pr_sc_Litt3200.wav,70.0,F,Posterior Right (P R),copd,4
+105_1b1_Tc_sc_Meditron.wav,7.0,F,Trachea (Tc),urti,13
+106_2b1_Pl_mc_LittC2SE.wav,73.0,F,Posterior Left (P L),copd,4
+106_2b1_Pr_mc_LittC2SE.wav,73.0,F,Posterior Right (P R),copd,4
+107_2b3_Al_mc_AKGC417L.wav,75.0,F,Anterior Left (A L),copd,4
+107_2b3_Ar_mc_AKGC417L.wav,75.0,F,Anterior Right (A R),copd,4
+107_2b3_Ll_mc_AKGC417L.wav,75.0,F,Lateral Left (L L),copd,4
+107_2b3_Lr_mc_AKGC417L.wav,75.0,F,Lateral Right (L R),copd,4
+107_2b3_Pl_mc_AKGC417L.wav,75.0,F,Posterior Left (P L),copd,4
+107_2b3_Pr_mc_AKGC417L.wav,75.0,F,Posterior Right (P R),copd,4
+107_2b3_Tc_mc_AKGC417L.wav,75.0,F,Trachea (Tc),copd,4
+107_2b4_Al_mc_AKGC417L.wav,75.0,F,Anterior Left (A L),copd,4
+107_2b4_Ar_mc_AKGC417L.wav,75.0,F,Anterior Right (A R),copd,4
+107_2b4_Ll_mc_AKGC417L.wav,75.0,F,Lateral Left (L L),copd,4
+107_2b4_Lr_mc_AKGC417L.wav,75.0,F,Lateral Right (L R),copd,4
+107_2b4_Pl_mc_AKGC417L.wav,75.0,F,Posterior Left (P L),copd,4
+107_2b4_Pr_mc_AKGC417L.wav,75.0,F,Posterior Right (P R),copd,4
+107_2b4_Tc_mc_AKGC417L.wav,75.0,F,Trachea (Tc),copd,4
+107_2b5_Al_mc_AKGC417L.wav,75.0,F,Anterior Left (A L),copd,4
+107_2b5_Ar_mc_AKGC417L.wav,75.0,F,Anterior Right (A R),copd,4
+107_2b5_Ll_mc_AKGC417L.wav,75.0,F,Lateral Left (L L),copd,4
+107_2b5_Lr_mc_AKGC417L.wav,75.0,F,Lateral Right (L R),copd,4
+107_2b5_Pl_mc_AKGC417L.wav,75.0,F,Posterior Left (P L),copd,4
+107_2b5_Pr_mc_AKGC417L.wav,75.0,F,Posterior Right (P R),copd,4
+107_2b5_Tc_mc_AKGC417L.wav,75.0,F,Trachea (Tc),copd,4
+107_3p2_Al_mc_AKGC417L.wav,75.0,F,Anterior Left (A L),copd,4
+107_3p2_Ar_mc_AKGC417L.wav,75.0,F,Anterior Right (A R),copd,4
+107_3p2_Ll_mc_AKGC417L.wav,75.0,F,Lateral Left (L L),copd,4
+107_3p2_Lr_mc_AKGC417L.wav,75.0,F,Lateral Right (L R),copd,4
+107_3p2_Pl_mc_AKGC417L.wav,75.0,F,Posterior Left (P L),copd,4
+107_3p2_Pr_mc_AKGC417L.wav,75.0,F,Posterior Right (P R),copd,4
+107_3p2_Tc_mc_AKGC417L.wav,75.0,F,Trachea (Tc),copd,4
+108_1b1_Al_sc_Meditron.wav,3.0,M,Anterior Left (A L),lrti,9
+109_1b1_Al_sc_Litt3200.wav,84.0,F,Anterior Left (A L),copd,4
+109_1b1_Ar_sc_Litt3200.wav,84.0,F,Anterior Right (A R),copd,4
+109_1b1_Ll_sc_Litt3200.wav,84.0,F,Lateral Left (L L),copd,4
+109_1b1_Lr_sc_Litt3200.wav,84.0,F,Lateral Right (L R),copd,4
+109_1b1_Pl_sc_Litt3200.wav,84.0,F,Posterior Left (P L),copd,4
+109_1b1_Pr_sc_Litt3200.wav,84.0,F,Posterior Right (P R),copd,4
+110_1b1_Pr_sc_Meditron.wav,75.0,M,Posterior Right (P R),copd,4
+110_1p1_Al_sc_Meditron.wav,75.0,M,Anterior Left (A L),copd,4
+110_1p1_Ll_sc_Meditron.wav,75.0,M,Lateral Left (L L),copd,4
+110_1p1_Lr_sc_Meditron.wav,75.0,M,Lateral Right (L R),copd,4
+110_1p1_Pr_sc_Meditron.wav,75.0,M,Posterior Right (P R),copd,4
+111_1b2_Tc_sc_Meditron.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b3_Tc_sc_Meditron.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+112_1b1_Ar_sc_Meditron.wav,60.0,M,Anterior Right (A R),copd,4
+112_1b1_Lr_sc_Meditron.wav,60.0,M,Lateral Right (L R),copd,4
+112_1p1_Ll_sc_Litt3200.wav,60.0,M,Lateral Left (L L),copd,4
+112_1p1_Pl_sc_Litt3200.wav,60.0,M,Posterior Left (P L),copd,4
+112_1p1_Pr_sc_Litt3200.wav,60.0,M,Posterior Right (P R),copd,4
+113_1b1_Al_sc_Litt3200.wav,58.0,M,Anterior Left (A L),copd,4
+113_1b1_Ar_sc_Litt3200.wav,58.0,M,Anterior Right (A R),copd,4
+113_1b1_Ll_sc_Litt3200.wav,58.0,M,Lateral Left (L L),copd,4
+113_1b1_Lr_sc_Litt3200.wav,58.0,M,Lateral Right (L R),copd,4
+113_1b1_Pl_sc_Litt3200.wav,58.0,M,Posterior Left (P L),copd,4
+113_1b1_Pr_sc_Litt3200.wav,58.0,M,Posterior Right (P R),copd,4
+114_1b4_Al_mc_AKGC417L.wav,77.0,M,Anterior Left (A L),copd,4
+114_1b4_Ar_mc_AKGC417L.wav,77.0,M,Anterior Right (A R),copd,4
+114_1b4_Lr_mc_AKGC417L.wav,77.0,M,Lateral Right (L R),copd,4
+114_1b4_Pl_mc_AKGC417L.wav,77.0,M,Posterior Left (P L),copd,4
+114_1b4_Pr_mc_AKGC417L.wav,77.0,M,Posterior Right (P R),copd,4
+115_1b1_Ar_sc_Meditron.wav,0.58,M,Anterior Right (A R),lrti,9
+116_1b2_Pl_sc_Meditron.wav,56.0,M,Posterior Left (P L),bronchiectasis,2
+116_1b2_Tc_sc_Meditron.wav,56.0,M,Trachea (Tc),bronchiectasis,2
+117_1b2_Tc_mc_LittC2SE.wav,68.0,M,Trachea (Tc),copd,4
+117_1b3_Tc_mc_LittC2SE.wav,68.0,M,Trachea (Tc),copd,4
+118_1b1_Al_sc_Litt3200.wav,81.0,M,Anterior Left (A L),copd,4
+118_1b1_Ar_sc_Litt3200.wav,81.0,M,Anterior Right (A R),copd,4
+118_1b1_Ll_sc_Litt3200.wav,81.0,M,Lateral Left (L L),copd,4
+118_1b1_Lr_sc_Litt3200.wav,81.0,M,Lateral Right (L R),copd,4
+118_1b1_Pl_sc_Litt3200.wav,81.0,M,Posterior Left (P L),copd,4
+118_1b1_Pr_sc_Litt3200.wav,81.0,M,Posterior Right (P R),copd,4
+119_1b1_Ar_sc_Meditron.wav,2.0,F,Anterior Right (A R),urti,13
+120_1b1_Al_sc_Meditron.wav,78.0,M,Anterior Left (A L),copd,4
+120_1b1_Ar_sc_Meditron.wav,78.0,M,Anterior Right (A R),copd,4
+120_1b1_Lr_sc_Meditron.wav,78.0,M,Lateral Right (L R),copd,4
+120_1b1_Pl_sc_Meditron.wav,78.0,M,Posterior Left (P L),copd,4
+120_1b1_Pr_sc_Meditron.wav,78.0,M,Posterior Right (P R),copd,4
+121_1b1_Tc_sc_Meditron.wav,13.0,F,Trachea (Tc),healthy,5
+121_1p1_Tc_sc_Meditron.wav,13.0,F,Trachea (Tc),healthy,5
+122_2b1_Al_mc_LittC2SE.wav,66.0,M,Anterior Left (A L),pneumonia,12
+122_2b1_Ar_mc_LittC2SE.wav,66.0,M,Anterior Right (A R),pneumonia,12
+122_2b1_Tc_mc_LittC2SE.wav,66.0,M,Trachea (Tc),pneumonia,12
+122_2b2_Al_mc_LittC2SE.wav,66.0,M,Anterior Left (A L),pneumonia,12
+122_2b2_Ar_mc_LittC2SE.wav,66.0,M,Anterior Right (A R),pneumonia,12
+122_2b2_Tc_mc_LittC2SE.wav,66.0,M,Trachea (Tc),pneumonia,12
+122_2b3_Al_mc_LittC2SE.wav,66.0,M,Anterior Left (A L),pneumonia,12
+122_2b3_Ar_mc_LittC2SE.wav,66.0,M,Anterior Right (A R),pneumonia,12
+122_2b3_Tc_mc_LittC2SE.wav,66.0,M,Trachea (Tc),pneumonia,12
+123_1b1_Al_sc_Meditron.wav,5.0,M,Anterior Left (A L),healthy,5
+124_1b1_Al_sc_Litt3200.wav,65.0,M,Anterior Left (A L),copd,4
+124_1b1_Ar_sc_Litt3200.wav,65.0,M,Anterior Right (A R),copd,4
+124_1b1_Ll_sc_Litt3200.wav,65.0,M,Lateral Left (L L),copd,4
+124_1b1_Lr_sc_Litt3200.wav,65.0,M,Lateral Right (L R),copd,4
+124_1b1_Pl_sc_Litt3200.wav,65.0,M,Posterior Left (P L),copd,4
+124_1b1_Pr_sc_Litt3200.wav,65.0,M,Posterior Right (P R),copd,4
+125_1b1_Tc_sc_Meditron.wav,14.0,M,Trachea (Tc),healthy,5
+126_1b1_Al_sc_Meditron.wav,1.0,F,Anterior Left (A L),healthy,5
+127_1b1_Ar_sc_Meditron.wav,2.0,M,Anterior Right (A R),healthy,5
+128_1b3_Tc_mc_LittC2SE.wav,65.0,F,Trachea (Tc),copd,4
+129_1b1_Ar_sc_Meditron.wav,6.0,M,Anterior Right (A R),urti,13
+130_1p2_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_1p2_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_1p2_Ll_mc_AKGC417L.wav,85.0,F,Lateral Left (L L),copd,4
+130_1p2_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_1p2_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_1p2_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_1p2_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_1p3_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_1p3_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_1p3_Ll_mc_AKGC417L.wav,85.0,F,Lateral Left (L L),copd,4
+130_1p3_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_1p3_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_1p3_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_1p3_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_1p4_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_1p4_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_1p4_Ll_mc_AKGC417L.wav,85.0,F,Lateral Left (L L),copd,4
+130_1p4_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_1p4_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_1p4_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_1p4_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_2b2_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_2b2_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_2b2_Ll_mc_AKGC417L.wav,85.0,F,Lateral Left (L L),copd,4
+130_2b2_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_2b2_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_2b2_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_2b2_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_2b3_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_2b3_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_2b3_Ll_mc_AKGC417L.wav,85.0,F,Lateral Left (L L),copd,4
+130_2b3_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_2b3_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_2b3_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_2b3_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_2b4_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_2b4_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_2b4_Ll_mc_AKGC417L.wav,85.0,F,Lateral Left (L L),copd,4
+130_2b4_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_2b4_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_2p3_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_2p5_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_2p5_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_2p5_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_2p5_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_2p5_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_2p5_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_3b3_Ll_mc_AKGC417L.wav,85.0,F,Lateral Left (L L),copd,4
+130_3b4_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_3b4_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_3b4_Lr_mc_AKGC417L.wav,85.0,F,Lateral Right (L R),copd,4
+130_3b4_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_3b4_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_3p2_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_3p2_Ar_mc_AKGC417L.wav,85.0,F,Anterior Right (A R),copd,4
+130_3p2_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_3p2_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_3p2_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_3p3_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_3p3_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_3p3_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_3p3_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+130_3p4_Al_mc_AKGC417L.wav,85.0,F,Anterior Left (A L),copd,4
+130_3p4_Pl_mc_AKGC417L.wav,85.0,F,Posterior Left (P L),copd,4
+130_3p4_Pr_mc_AKGC417L.wav,85.0,F,Posterior Right (P R),copd,4
+130_3p4_Tc_mc_AKGC417L.wav,85.0,F,Trachea (Tc),copd,4
+131_1b1_Al_sc_Meditron.wav,3.0,M,Anterior Left (A L),urti,13
+132_2b1_Lr_mc_LittC2SE.wav,71.0,M,Lateral Right (L R),copd,4
+132_2b2_Lr_mc_LittC2SE.wav,71.0,M,Lateral Right (L R),copd,4
+133_2p2_Al_mc_AKGC417L.wav,68.0,M,Anterior Left (A L),copd,4
+133_2p2_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+133_2p2_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+133_2p2_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+133_2p3_Al_mc_AKGC417L.wav,68.0,M,Anterior Left (A L),copd,4
+133_2p3_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+133_2p3_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+133_2p3_Pr_mc_AKGC417L.wav,68.0,M,Posterior Right (P R),copd,4
+133_2p3_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+133_2p4_Al_mc_AKGC417L.wav,68.0,M,Anterior Left (A L),copd,4
+133_2p4_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+133_2p4_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+133_2p4_Pr_mc_AKGC417L.wav,68.0,M,Posterior Right (P R),copd,4
+133_2p4_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+133_3p2_Al_mc_AKGC417L.wav,68.0,M,Anterior Left (A L),copd,4
+133_3p2_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+133_3p2_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+133_3p2_Pr_mc_AKGC417L.wav,68.0,M,Posterior Right (P R),copd,4
+133_3p4_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+134_2b1_Al_mc_LittC2SE.wav,61.0,M,Anterior Left (A L),copd,4
+134_2b1_Ar_mc_LittC2SE.wav,61.0,M,Anterior Right (A R),copd,4
+134_2b2_Al_mc_LittC2SE.wav,61.0,M,Anterior Left (A L),copd,4
+134_2b2_Ar_mc_LittC2SE.wav,61.0,M,Anterior Right (A R),copd,4
+134_2b3_Ar_mc_LittC2SE.wav,61.0,M,Anterior Right (A R),copd,4
+135_2b1_Al_mc_LittC2SE.wav,70.0,M,Anterior Left (A L),pneumonia,12
+135_2b1_Ar_mc_LittC2SE.wav,70.0,M,Anterior Right (A R),pneumonia,12
+135_2b1_Pl_mc_LittC2SE.wav,70.0,M,Posterior Left (P L),pneumonia,12
+135_2b1_Tc_mc_LittC2SE.wav,70.0,M,Trachea (Tc),pneumonia,12
+135_2b2_Al_mc_LittC2SE.wav,70.0,M,Anterior Left (A L),pneumonia,12
+135_2b2_Ar_mc_LittC2SE.wav,70.0,M,Anterior Right (A R),pneumonia,12
+135_2b2_Pl_mc_LittC2SE.wav,70.0,M,Posterior Left (P L),pneumonia,12
+135_2b2_Tc_mc_LittC2SE.wav,70.0,M,Trachea (Tc),pneumonia,12
+135_2b3_Al_mc_LittC2SE.wav,70.0,M,Anterior Left (A L),pneumonia,12
+135_2b3_Ar_mc_LittC2SE.wav,70.0,M,Anterior Right (A R),pneumonia,12
+135_2b3_Pl_mc_LittC2SE.wav,70.0,M,Posterior Left (P L),pneumonia,12
+135_2b3_Pr_mc_LittC2SE.wav,70.0,M,Posterior Right (P R),pneumonia,12
+135_2b3_Tc_mc_LittC2SE.wav,70.0,M,Trachea (Tc),pneumonia,12
+136_1b1_Ar_sc_Meditron.wav,5.0,M,Anterior Right (A R),healthy,5
+137_1b1_Ar_sc_Meditron.wav,4.0,M,Anterior Right (A R),urti,13
+137_1b1_Ll_sc_Meditron.wav,4.0,M,Lateral Left (L L),urti,13
+138_1p2_Al_mc_AKGC417L.wav,56.0,F,Anterior Left (A L),copd,4
+138_1p2_Ar_mc_AKGC417L.wav,56.0,F,Anterior Right (A R),copd,4
+138_1p2_Ll_mc_AKGC417L.wav,56.0,F,Lateral Left (L L),copd,4
+138_1p2_Lr_mc_AKGC417L.wav,56.0,F,Lateral Right (L R),copd,4
+138_1p2_Pl_mc_AKGC417L.wav,56.0,F,Posterior Left (P L),copd,4
+138_1p2_Pr_mc_AKGC417L.wav,56.0,F,Posterior Right (P R),copd,4
+138_1p2_Tc_mc_AKGC417L.wav,56.0,F,Trachea (Tc),copd,4
+138_1p3_Al_mc_AKGC417L.wav,56.0,F,Anterior Left (A L),copd,4
+138_1p3_Ar_mc_AKGC417L.wav,56.0,F,Anterior Right (A R),copd,4
+138_1p3_Ll_mc_AKGC417L.wav,56.0,F,Lateral Left (L L),copd,4
+138_1p3_Lr_mc_AKGC417L.wav,56.0,F,Lateral Right (L R),copd,4
+138_1p3_Pl_mc_AKGC417L.wav,56.0,F,Posterior Left (P L),copd,4
+138_1p3_Pr_mc_AKGC417L.wav,56.0,F,Posterior Right (P R),copd,4
+138_1p3_Tc_mc_AKGC417L.wav,56.0,F,Trachea (Tc),copd,4
+138_1p4_Ar_mc_AKGC417L.wav,56.0,F,Anterior Right (A R),copd,4
+138_1p4_Ll_mc_AKGC417L.wav,56.0,F,Lateral Left (L L),copd,4
+138_1p4_Lr_mc_AKGC417L.wav,56.0,F,Lateral Right (L R),copd,4
+138_1p4_Pl_mc_AKGC417L.wav,56.0,F,Posterior Left (P L),copd,4
+138_1p4_Pr_mc_AKGC417L.wav,56.0,F,Posterior Right (P R),copd,4
+138_1p4_Tc_mc_AKGC417L.wav,56.0,F,Trachea (Tc),copd,4
+138_2p2_Al_mc_AKGC417L.wav,56.0,F,Anterior Left (A L),copd,4
+138_2p2_Ar_mc_AKGC417L.wav,56.0,F,Anterior Right (A R),copd,4
+138_2p2_Ll_mc_AKGC417L.wav,56.0,F,Lateral Left (L L),copd,4
+138_2p2_Lr_mc_AKGC417L.wav,56.0,F,Lateral Right (L R),copd,4
+138_2p2_Pl_mc_AKGC417L.wav,56.0,F,Posterior Left (P L),copd,4
+138_2p2_Pr_mc_AKGC417L.wav,56.0,F,Posterior Right (P R),copd,4
+138_2p2_Tc_mc_AKGC417L.wav,56.0,F,Trachea (Tc),copd,4
+139_1b1_Al_sc_Litt3200.wav,61.0,M,Anterior Left (A L),copd,4
+139_1b1_Ar_sc_Litt3200.wav,61.0,M,Anterior Right (A R),copd,4
+139_1b1_Ll_sc_Litt3200.wav,61.0,M,Lateral Left (L L),copd,4
+139_1b1_Lr_sc_Litt3200.wav,61.0,M,Lateral Right (L R),copd,4
+139_1b1_Pl_sc_Litt3200.wav,61.0,M,Posterior Left (P L),copd,4
+139_1b1_Pr_sc_Litt3200.wav,61.0,M,Posterior Right (P R),copd,4
+140_2b2_Ll_mc_LittC2SE.wav,79.0,F,Lateral Left (L L),pneumonia,12
+140_2b2_Tc_mc_LittC2SE.wav,79.0,F,Trachea (Tc),pneumonia,12
+140_2b3_Ll_mc_LittC2SE.wav,79.0,F,Lateral Left (L L),pneumonia,12
+140_2b3_Tc_mc_LittC2SE.wav,79.0,F,Trachea (Tc),pneumonia,12
+141_1b1_Pr_mc_LittC2SE.wav,66.0,M,Posterior Right (P R),copd,4
+141_1b2_Ar_mc_LittC2SE.wav,66.0,M,Anterior Right (A R),copd,4
+141_1b2_Lr_mc_LittC2SE.wav,66.0,M,Lateral Right (L R),copd,4
+141_1b2_Pr_mc_LittC2SE.wav,66.0,M,Posterior Right (P R),copd,4
+141_1b2_Tc_mc_LittC2SE.wav,66.0,M,Trachea (Tc),copd,4
+141_1b3_Al_mc_LittC2SE.wav,66.0,M,Anterior Left (A L),copd,4
+141_1b3_Ar_mc_LittC2SE.wav,66.0,M,Anterior Right (A R),copd,4
+141_1b3_Pr_mc_LittC2SE.wav,66.0,M,Posterior Right (P R),copd,4
+142_1b1_Pl_mc_LittC2SE.wav,78.0,M,Posterior Left (P L),copd,4
+143_1b1_Al_sc_Meditron.wav,0.25,F,Anterior Left (A L),healthy,5
+144_1b1_Al_sc_Meditron.wav,3.0,M,Anterior Left (A L),healthy,5
+144_1b1_Tc_sc_Meditron.wav,3.0,M,Trachea (Tc),healthy,5
+145_2b2_Al_mc_AKGC417L.wav,69.0,M,Anterior Left (A L),copd,4
+145_2b2_Ar_mc_AKGC417L.wav,69.0,M,Anterior Right (A R),copd,4
+145_2b2_Lr_mc_AKGC417L.wav,69.0,M,Lateral Right (L R),copd,4
+145_2b2_Pr_mc_AKGC417L.wav,69.0,M,Posterior Right (P R),copd,4
+145_3b2_Ar_mc_AKGC417L.wav,69.0,M,Anterior Right (A R),copd,4
+145_3b2_Lr_mc_AKGC417L.wav,69.0,M,Lateral Right (L R),copd,4
+145_3b4_Pl_mc_AKGC417L.wav,69.0,M,Posterior Left (P L),copd,4
+146_2b2_Pl_mc_AKGC417L.wav,67.0,M,Posterior Left (P L),copd,4
+146_2b4_Al_mc_AKGC417L.wav,67.0,M,Anterior Left (A L),copd,4
+146_2b4_Ar_mc_AKGC417L.wav,67.0,M,Anterior Right (A R),copd,4
+146_2b4_Ll_mc_AKGC417L.wav,67.0,M,Lateral Left (L L),copd,4
+146_2b4_Lr_mc_AKGC417L.wav,67.0,M,Lateral Right (L R),copd,4
+146_2b4_Pr_mc_AKGC417L.wav,67.0,M,Posterior Right (P R),copd,4
+146_8p3_Al_mc_AKGC417L.wav,67.0,M,Anterior Left (A L),copd,4
+146_8p3_Ar_mc_AKGC417L.wav,67.0,M,Anterior Right (A R),copd,4
+146_8p3_Lr_mc_AKGC417L.wav,67.0,M,Lateral Right (L R),copd,4
+146_8p3_Pl_mc_AKGC417L.wav,67.0,M,Posterior Left (P L),copd,4
+146_8p3_Pr_mc_AKGC417L.wav,67.0,M,Posterior Right (P R),copd,4
+147_1b2_Tc_mc_AKGC417L.wav,77.0,M,Trachea (Tc),copd,4
+147_1b3_Tc_mc_AKGC417L.wav,77.0,M,Trachea (Tc),copd,4
+147_1b4_Tc_mc_AKGC417L.wav,77.0,M,Trachea (Tc),copd,4
+147_2b2_Al_mc_AKGC417L.wav,77.0,M,Anterior Left (A L),copd,4
+147_2b2_Ar_mc_AKGC417L.wav,77.0,M,Anterior Right (A R),copd,4
+147_2b2_Pl_mc_AKGC417L.wav,77.0,M,Posterior Left (P L),copd,4
+147_2b3_Al_mc_AKGC417L.wav,77.0,M,Anterior Left (A L),copd,4
+147_2b3_Ar_mc_AKGC417L.wav,77.0,M,Anterior Right (A R),copd,4
+147_2b3_Ll_mc_AKGC417L.wav,77.0,M,Lateral Left (L L),copd,4
+147_2b3_Lr_mc_AKGC417L.wav,77.0,M,Lateral Right (L R),copd,4
+147_2b3_Pl_mc_AKGC417L.wav,77.0,M,Posterior Left (P L),copd,4
+147_2b4_Al_mc_AKGC417L.wav,77.0,M,Anterior Left (A L),copd,4
+147_2b4_Ar_mc_AKGC417L.wav,77.0,M,Anterior Right (A R),copd,4
+147_2b4_Ll_mc_AKGC417L.wav,77.0,M,Lateral Left (L L),copd,4
+147_2b4_Lr_mc_AKGC417L.wav,77.0,M,Lateral Right (L R),copd,4
+147_2b4_Pl_mc_AKGC417L.wav,77.0,M,Posterior Left (P L),copd,4
+148_1b1_Al_sc_Meditron.wav,4.0,M,Anterior Left (A L),urti,13
+149_1b1_Al_sc_Meditron.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Lr_sc_Meditron.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Pl_sc_Meditron.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+150_1b2_Al_sc_Meditron.wav,0.67,F,Anterior Left (A L),urti,13
+151_2p2_Al_mc_AKGC417L.wav,75.0,M,Anterior Left (A L),copd,4
+151_2p2_Ar_mc_AKGC417L.wav,75.0,M,Anterior Right (A R),copd,4
+151_2p2_Ll_mc_AKGC417L.wav,75.0,M,Lateral Left (L L),copd,4
+151_2p2_Lr_mc_AKGC417L.wav,75.0,M,Lateral Right (L R),copd,4
+151_2p2_Pl_mc_AKGC417L.wav,75.0,M,Posterior Left (P L),copd,4
+151_2p2_Pr_mc_AKGC417L.wav,75.0,M,Posterior Right (P R),copd,4
+151_2p2_Tc_mc_AKGC417L.wav,75.0,M,Trachea (Tc),copd,4
+151_2p3_Al_mc_AKGC417L.wav,75.0,M,Anterior Left (A L),copd,4
+151_2p3_Ar_mc_AKGC417L.wav,75.0,M,Anterior Right (A R),copd,4
+151_2p3_Ll_mc_AKGC417L.wav,75.0,M,Lateral Left (L L),copd,4
+151_2p3_Lr_mc_AKGC417L.wav,75.0,M,Lateral Right (L R),copd,4
+151_2p3_Pl_mc_AKGC417L.wav,75.0,M,Posterior Left (P L),copd,4
+151_2p3_Pr_mc_AKGC417L.wav,75.0,M,Posterior Right (P R),copd,4
+151_2p3_Tc_mc_AKGC417L.wav,75.0,M,Trachea (Tc),copd,4
+151_2p4_Al_mc_AKGC417L.wav,75.0,M,Anterior Left (A L),copd,4
+151_2p4_Ar_mc_AKGC417L.wav,75.0,M,Anterior Right (A R),copd,4
+151_2p4_Ll_mc_AKGC417L.wav,75.0,M,Lateral Left (L L),copd,4
+151_2p4_Lr_mc_AKGC417L.wav,75.0,M,Lateral Right (L R),copd,4
+151_2p4_Pl_mc_AKGC417L.wav,75.0,M,Posterior Left (P L),copd,4
+151_2p4_Pr_mc_AKGC417L.wav,75.0,M,Posterior Right (P R),copd,4
+151_2p4_Tc_mc_AKGC417L.wav,75.0,M,Trachea (Tc),copd,4
+151_3p2_Al_mc_AKGC417L.wav,75.0,M,Anterior Left (A L),copd,4
+151_3p2_Ar_mc_AKGC417L.wav,75.0,M,Anterior Right (A R),copd,4
+151_3p2_Lr_mc_AKGC417L.wav,75.0,M,Lateral Right (L R),copd,4
+151_3p2_Pl_mc_AKGC417L.wav,75.0,M,Posterior Left (P L),copd,4
+151_3p2_Pr_mc_AKGC417L.wav,75.0,M,Posterior Right (P R),copd,4
+151_3p2_Tc_mc_AKGC417L.wav,75.0,M,Trachea (Tc),copd,4
+151_3p3_Ll_mc_AKGC417L.wav,75.0,M,Lateral Left (L L),copd,4
+152_1b1_Al_sc_Meditron.wav,16.0,M,Anterior Left (A L),healthy,5
+153_1b1_Al_sc_Meditron.wav,3.0,M,Anterior Left (A L),healthy,5
+154_1b3_Al_mc_AKGC417L.wav,65.0,M,Anterior Left (A L),copd,4
+154_1b3_Ar_mc_AKGC417L.wav,65.0,M,Anterior Right (A R),copd,4
+154_1b3_Ll_mc_AKGC417L.wav,65.0,M,Lateral Left (L L),copd,4
+154_1b3_Lr_mc_AKGC417L.wav,65.0,M,Lateral Right (L R),copd,4
+154_1b3_Pl_mc_AKGC417L.wav,65.0,M,Posterior Left (P L),copd,4
+154_1b3_Pr_mc_AKGC417L.wav,65.0,M,Posterior Right (P R),copd,4
+154_1b3_Tc_mc_AKGC417L.wav,65.0,M,Trachea (Tc),copd,4
+154_2b4_Al_mc_AKGC417L.wav,65.0,M,Anterior Left (A L),copd,4
+154_2b4_Ar_mc_AKGC417L.wav,65.0,M,Anterior Right (A R),copd,4
+154_2b4_Ll_mc_AKGC417L.wav,65.0,M,Lateral Left (L L),copd,4
+154_2b4_Lr_mc_AKGC417L.wav,65.0,M,Lateral Right (L R),copd,4
+154_2b4_Pl_mc_AKGC417L.wav,65.0,M,Posterior Left (P L),copd,4
+154_2b4_Pr_mc_AKGC417L.wav,65.0,M,Posterior Right (P R),copd,4
+154_2b4_Tc_mc_AKGC417L.wav,65.0,M,Trachea (Tc),copd,4
+154_3b3_Al_mc_AKGC417L.wav,65.0,M,Anterior Left (A L),copd,4
+154_3b3_Ar_mc_AKGC417L.wav,65.0,M,Anterior Right (A R),copd,4
+154_3b3_Ll_mc_AKGC417L.wav,65.0,M,Lateral Left (L L),copd,4
+154_4b4_Al_mc_AKGC417L.wav,65.0,M,Anterior Left (A L),copd,4
+154_4b4_Ar_mc_AKGC417L.wav,65.0,M,Anterior Right (A R),copd,4
+154_4b4_Ll_mc_AKGC417L.wav,65.0,M,Lateral Left (L L),copd,4
+154_4b4_Lr_mc_AKGC417L.wav,65.0,M,Lateral Right (L R),copd,4
+154_4b4_Pl_mc_AKGC417L.wav,65.0,M,Posterior Left (P L),copd,4
+154_4b4_Pr_mc_AKGC417L.wav,65.0,M,Posterior Right (P R),copd,4
+155_2b1_Al_mc_LittC2SE.wav,69.0,M,Anterior Left (A L),copd,4
+156_2b3_Al_mc_AKGC417L.wav,80.0,M,Anterior Left (A L),copd,4
+156_2b3_Ar_mc_AKGC417L.wav,80.0,M,Anterior Right (A R),copd,4
+156_2b3_Ll_mc_AKGC417L.wav,80.0,M,Lateral Left (L L),copd,4
+156_2b3_Lr_mc_AKGC417L.wav,80.0,M,Lateral Right (L R),copd,4
+156_2b3_Pl_mc_AKGC417L.wav,80.0,M,Posterior Left (P L),copd,4
+156_2b3_Pr_mc_AKGC417L.wav,80.0,M,Posterior Right (P R),copd,4
+156_5b3_Al_mc_AKGC417L.wav,80.0,M,Anterior Left (A L),copd,4
+156_5b3_Ar_mc_AKGC417L.wav,80.0,M,Anterior Right (A R),copd,4
+156_5b3_Ll_mc_AKGC417L.wav,80.0,M,Lateral Left (L L),copd,4
+156_5b3_Lr_mc_AKGC417L.wav,80.0,M,Lateral Right (L R),copd,4
+156_5b3_Pl_mc_AKGC417L.wav,80.0,M,Posterior Left (P L),copd,4
+156_5b3_Pr_mc_AKGC417L.wav,80.0,M,Posterior Right (P R),copd,4
+156_8b3_Al_mc_AKGC417L.wav,80.0,M,Anterior Left (A L),copd,4
+156_8b3_Ar_mc_AKGC417L.wav,80.0,M,Anterior Right (A R),copd,4
+156_8b3_Ll_mc_AKGC417L.wav,80.0,M,Lateral Left (L L),copd,4
+156_8b3_Lr_mc_AKGC417L.wav,80.0,M,Lateral Right (L R),copd,4
+156_8b3_Pl_mc_AKGC417L.wav,80.0,M,Posterior Left (P L),copd,4
+157_1b1_Al_sc_Meditron.wav,62.0,M,Anterior Left (A L),copd,4
+157_1b1_Ar_sc_Meditron.wav,62.0,M,Anterior Right (A R),copd,4
+157_1b1_Lr_sc_Meditron.wav,62.0,M,Lateral Right (L R),copd,4
+157_1b1_Pl_sc_Meditron.wav,62.0,M,Posterior Left (P L),copd,4
+157_1b1_Pr_sc_Meditron.wav,62.0,M,Posterior Right (P R),copd,4
+158_1b3_Ar_mc_LittC2SE.wav,63.0,M,Anterior Right (A R),copd,4
+158_1p2_Al_mc_AKGC417L.wav,63.0,M,Anterior Left (A L),copd,4
+158_1p2_Ar_mc_AKGC417L.wav,63.0,M,Anterior Right (A R),copd,4
+158_1p2_Ll_mc_AKGC417L.wav,63.0,M,Lateral Left (L L),copd,4
+158_1p2_Lr_mc_AKGC417L.wav,63.0,M,Lateral Right (L R),copd,4
+158_1p2_Pl_mc_AKGC417L.wav,63.0,M,Posterior Left (P L),copd,4
+158_1p2_Pr_mc_AKGC417L.wav,63.0,M,Posterior Right (P R),copd,4
+158_1p2_Tc_mc_AKGC417L.wav,63.0,M,Trachea (Tc),copd,4
+158_1p3_Al_mc_AKGC417L.wav,63.0,M,Anterior Left (A L),copd,4
+158_1p3_Ar_mc_AKGC417L.wav,63.0,M,Anterior Right (A R),copd,4
+158_1p3_Ll_mc_AKGC417L.wav,63.0,M,Lateral Left (L L),copd,4
+158_1p3_Lr_mc_AKGC417L.wav,63.0,M,Lateral Right (L R),copd,4
+158_1p3_Pl_mc_AKGC417L.wav,63.0,M,Posterior Left (P L),copd,4
+158_1p3_Pr_mc_AKGC417L.wav,63.0,M,Posterior Right (P R),copd,4
+158_1p3_Tc_mc_AKGC417L.wav,63.0,M,Trachea (Tc),copd,4
+158_1p4_Al_mc_AKGC417L.wav,63.0,M,Anterior Left (A L),copd,4
+158_1p4_Ar_mc_AKGC417L.wav,63.0,M,Anterior Right (A R),copd,4
+158_1p4_Lr_mc_AKGC417L.wav,63.0,M,Lateral Right (L R),copd,4
+158_1p4_Pl_mc_AKGC417L.wav,63.0,M,Posterior Left (P L),copd,4
+158_1p4_Pr_mc_AKGC417L.wav,63.0,M,Posterior Right (P R),copd,4
+158_1p4_Tc_mc_AKGC417L.wav,63.0,M,Trachea (Tc),copd,4
+158_2p2_Ar_mc_AKGC417L.wav,63.0,M,Anterior Right (A R),copd,4
+158_2p3_Lr_mc_AKGC417L.wav,63.0,M,Lateral Right (L R),copd,4
+158_2p3_Tc_mc_AKGC417L.wav,63.0,M,Trachea (Tc),copd,4
+159_1b1_Al_sc_Meditron.wav,0.83,F,Anterior Left (A L),healthy,5
+159_1b1_Ar_sc_Meditron.wav,0.83,F,Anterior Right (A R),healthy,5
+159_1b1_Ll_sc_Meditron.wav,0.83,F,Lateral Left (L L),healthy,5
+159_1b1_Pr_sc_Meditron.wav,0.83,F,Posterior Right (P R),healthy,5
+160_1b2_Al_mc_AKGC417L.wav,74.0,M,Anterior Left (A L),copd,4
+160_1b2_Ar_mc_AKGC417L.wav,74.0,M,Anterior Right (A R),copd,4
+160_1b2_Lr_mc_AKGC417L.wav,74.0,M,Lateral Right (L R),copd,4
+160_1b2_Pl_mc_AKGC417L.wav,74.0,M,Posterior Left (P L),copd,4
+160_1b2_Pr_mc_AKGC417L.wav,74.0,M,Posterior Right (P R),copd,4
+160_1b2_Tc_mc_AKGC417L.wav,74.0,M,Trachea (Tc),copd,4
+160_1b3_Al_mc_AKGC417L.wav,74.0,M,Anterior Left (A L),copd,4
+160_1b3_Ar_mc_AKGC417L.wav,74.0,M,Anterior Right (A R),copd,4
+160_1b3_Lr_mc_AKGC417L.wav,74.0,M,Lateral Right (L R),copd,4
+160_1b3_Pl_mc_AKGC417L.wav,74.0,M,Posterior Left (P L),copd,4
+160_1b3_Pr_mc_AKGC417L.wav,74.0,M,Posterior Right (P R),copd,4
+160_1b3_Tc_mc_AKGC417L.wav,74.0,M,Trachea (Tc),copd,4
+160_1b4_Al_mc_AKGC417L.wav,74.0,M,Anterior Left (A L),copd,4
+160_1b4_Ar_mc_AKGC417L.wav,74.0,M,Anterior Right (A R),copd,4
+160_1b4_Lr_mc_AKGC417L.wav,74.0,M,Lateral Right (L R),copd,4
+160_1b4_Pl_mc_AKGC417L.wav,74.0,M,Posterior Left (P L),copd,4
+160_1b4_Pr_mc_AKGC417L.wav,74.0,M,Posterior Right (P R),copd,4
+160_1b4_Tc_mc_AKGC417L.wav,74.0,M,Trachea (Tc),copd,4
+160_2b3_Lr_mc_AKGC417L.wav,74.0,M,Lateral Right (L R),copd,4
+160_2b4_Ar_mc_AKGC417L.wav,74.0,M,Anterior Right (A R),copd,4
+160_2b4_Pl_mc_AKGC417L.wav,74.0,M,Posterior Left (P L),copd,4
+160_2b4_Pr_mc_AKGC417L.wav,74.0,M,Posterior Right (P R),copd,4
+160_2b4_Tc_mc_AKGC417L.wav,74.0,M,Trachea (Tc),copd,4
+161_1b1_Al_sc_Meditron.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+162_1b2_Al_mc_AKGC417L.wav,67.0,F,Anterior Left (A L),copd,4
+162_1b2_Ar_mc_AKGC417L.wav,67.0,F,Anterior Right (A R),copd,4
+162_1b2_Ll_mc_AKGC417L.wav,67.0,F,Lateral Left (L L),copd,4
+162_1b2_Lr_mc_AKGC417L.wav,67.0,F,Lateral Right (L R),copd,4
+162_1b2_Pl_mc_AKGC417L.wav,67.0,F,Posterior Left (P L),copd,4
+162_1b2_Pr_mc_AKGC417L.wav,67.0,F,Posterior Right (P R),copd,4
+162_1b2_Tc_mc_AKGC417L.wav,67.0,F,Trachea (Tc),copd,4
+162_2b2_Al_mc_AKGC417L.wav,67.0,F,Anterior Left (A L),copd,4
+162_2b2_Ar_mc_AKGC417L.wav,67.0,F,Anterior Right (A R),copd,4
+162_2b2_Pl_mc_AKGC417L.wav,67.0,F,Posterior Left (P L),copd,4
+162_2b2_Pr_mc_AKGC417L.wav,67.0,F,Posterior Right (P R),copd,4
+162_2b2_Tc_mc_AKGC417L.wav,67.0,F,Trachea (Tc),copd,4
+162_2b3_Al_mc_AKGC417L.wav,67.0,F,Anterior Left (A L),copd,4
+162_2b3_Ar_mc_AKGC417L.wav,67.0,F,Anterior Right (A R),copd,4
+162_2b3_Lr_mc_AKGC417L.wav,67.0,F,Lateral Right (L R),copd,4
+162_2b3_Pl_mc_AKGC417L.wav,67.0,F,Posterior Left (P L),copd,4
+162_2b3_Pr_mc_AKGC417L.wav,67.0,F,Posterior Right (P R),copd,4
+162_2b3_Tc_mc_AKGC417L.wav,67.0,F,Trachea (Tc),copd,4
+162_2b4_Al_mc_AKGC417L.wav,67.0,F,Anterior Left (A L),copd,4
+162_2b4_Ar_mc_AKGC417L.wav,67.0,F,Anterior Right (A R),copd,4
+162_2b4_Lr_mc_AKGC417L.wav,67.0,F,Lateral Right (L R),copd,4
+162_2b4_Pl_mc_AKGC417L.wav,67.0,F,Posterior Left (P L),copd,4
+162_2b4_Pr_mc_AKGC417L.wav,67.0,F,Posterior Right (P R),copd,4
+162_2b4_Tc_mc_AKGC417L.wav,67.0,F,Trachea (Tc),copd,4
+163_2b2_Al_mc_AKGC417L.wav,62.0,M,Anterior Left (A L),copd,4
+163_2b2_Ar_mc_AKGC417L.wav,62.0,M,Anterior Right (A R),copd,4
+163_2b2_Ll_mc_AKGC417L.wav,62.0,M,Lateral Left (L L),copd,4
+163_2b2_Lr_mc_AKGC417L.wav,62.0,M,Lateral Right (L R),copd,4
+163_2b2_Pl_mc_AKGC417L.wav,62.0,M,Posterior Left (P L),copd,4
+163_2b2_Pr_mc_AKGC417L.wav,62.0,M,Posterior Right (P R),copd,4
+163_2b2_Tc_mc_AKGC417L.wav,62.0,M,Trachea (Tc),copd,4
+163_8b3_Al_mc_AKGC417L.wav,62.0,M,Anterior Left (A L),copd,4
+163_8b3_Ar_mc_AKGC417L.wav,62.0,M,Anterior Right (A R),copd,4
+163_8b3_Ll_mc_AKGC417L.wav,62.0,M,Lateral Left (L L),copd,4
+163_8b3_Lr_mc_AKGC417L.wav,62.0,M,Lateral Right (L R),copd,4
+163_8b3_Pl_mc_AKGC417L.wav,62.0,M,Posterior Left (P L),copd,4
+163_8b3_Pr_mc_AKGC417L.wav,62.0,M,Posterior Right (P R),copd,4
+164_1b1_Ll_sc_Meditron.wav,1.0,M,Lateral Left (L L),urti,13
+165_1b1_Ar_sc_Meditron.wav,2.0,F,Anterior Right (A R),urti,13
+165_1b1_Pl_sc_Meditron.wav,2.0,F,Posterior Left (P L),urti,13
+165_1b1_Pr_sc_Meditron.wav,2.0,F,Posterior Right (P R),urti,13
+166_1p1_Al_sc_Meditron.wav,71.0,M,Anterior Left (A L),copd,4
+166_1p1_Ar_sc_Meditron.wav,71.0,M,Anterior Right (A R),copd,4
+166_1p1_Ll_sc_Meditron.wav,71.0,M,Lateral Left (L L),copd,4
+166_1p1_Pl_sc_Meditron.wav,71.0,M,Posterior Left (P L),copd,4
+166_1p1_Pr_sc_Meditron.wav,71.0,M,Posterior Right (P R),copd,4
+167_1b1_Al_sc_Meditron.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Pr_sc_Meditron.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+168_1b1_Al_sc_Meditron.wav,19.0,F,Anterior Left (A L),bronchiectasis,2
+169_1b1_Lr_sc_Meditron.wav,50.0,F,Lateral Right (L R),bronchiectasis,2
+169_1b2_Ll_sc_Meditron.wav,50.0,F,Lateral Left (L L),bronchiectasis,2
+170_1b2_Al_mc_AKGC417L.wav,79.0,M,Anterior Left (A L),copd,4
+170_1b2_Ar_mc_AKGC417L.wav,79.0,M,Anterior Right (A R),copd,4
+170_1b2_Lr_mc_AKGC417L.wav,79.0,M,Lateral Right (L R),copd,4
+170_1b2_Pl_mc_AKGC417L.wav,79.0,M,Posterior Left (P L),copd,4
+170_1b2_Pr_mc_AKGC417L.wav,79.0,M,Posterior Right (P R),copd,4
+170_1b2_Tc_mc_AKGC417L.wav,79.0,M,Trachea (Tc),copd,4
+170_1b3_Al_mc_AKGC417L.wav,79.0,M,Anterior Left (A L),copd,4
+170_1b3_Ar_mc_AKGC417L.wav,79.0,M,Anterior Right (A R),copd,4
+170_1b3_Ll_mc_AKGC417L.wav,79.0,M,Lateral Left (L L),copd,4
+170_1b3_Lr_mc_AKGC417L.wav,79.0,M,Lateral Right (L R),copd,4
+170_1b3_Pl_mc_AKGC417L.wav,79.0,M,Posterior Left (P L),copd,4
+170_1b3_Pr_mc_AKGC417L.wav,79.0,M,Posterior Right (P R),copd,4
+170_1b3_Tc_mc_AKGC417L.wav,79.0,M,Trachea (Tc),copd,4
+170_1b4_Al_mc_AKGC417L.wav,79.0,M,Anterior Left (A L),copd,4
+170_1b4_Ar_mc_AKGC417L.wav,79.0,M,Anterior Right (A R),copd,4
+170_1b4_Lr_mc_AKGC417L.wav,79.0,M,Lateral Right (L R),copd,4
+170_1b4_Pl_mc_AKGC417L.wav,79.0,M,Posterior Left (P L),copd,4
+170_1b4_Pr_mc_AKGC417L.wav,79.0,M,Posterior Right (P R),copd,4
+170_1b4_Tc_mc_AKGC417L.wav,79.0,M,Trachea (Tc),copd,4
+170_2b2_Al_mc_AKGC417L.wav,79.0,M,Anterior Left (A L),copd,4
+170_2b2_Ar_mc_AKGC417L.wav,79.0,M,Anterior Right (A R),copd,4
+170_2b2_Lr_mc_AKGC417L.wav,79.0,M,Lateral Right (L R),copd,4
+170_2b2_Pl_mc_AKGC417L.wav,79.0,M,Posterior Left (P L),copd,4
+170_2b2_Pr_mc_AKGC417L.wav,79.0,M,Posterior Right (P R),copd,4
+170_2b2_Tc_mc_AKGC417L.wav,79.0,M,Trachea (Tc),copd,4
+171_1b1_Al_sc_Meditron.wav,9.0,M,Anterior Left (A L),healthy,5
+172_1b3_Al_mc_AKGC417L.wav,73.0,M,Anterior Left (A L),copd,4
+172_1b3_Ar_mc_AKGC417L.wav,73.0,M,Anterior Right (A R),copd,4
+172_1b3_Ll_mc_AKGC417L.wav,73.0,M,Lateral Left (L L),copd,4
+172_1b3_Lr_mc_AKGC417L.wav,73.0,M,Lateral Right (L R),copd,4
+172_1b3_Pl_mc_AKGC417L.wav,73.0,M,Posterior Left (P L),copd,4
+172_1b3_Pr_mc_AKGC417L.wav,73.0,M,Posterior Right (P R),copd,4
+172_1b3_Tc_mc_AKGC417L.wav,73.0,M,Trachea (Tc),copd,4
+172_1b4_Al_mc_AKGC417L.wav,73.0,M,Anterior Left (A L),copd,4
+172_1b4_Ar_mc_AKGC417L.wav,73.0,M,Anterior Right (A R),copd,4
+172_1b4_Ll_mc_AKGC417L.wav,73.0,M,Lateral Left (L L),copd,4
+172_1b4_Lr_mc_AKGC417L.wav,73.0,M,Lateral Right (L R),copd,4
+172_1b4_Pl_mc_AKGC417L.wav,73.0,M,Posterior Left (P L),copd,4
+172_1b4_Pr_mc_AKGC417L.wav,73.0,M,Posterior Right (P R),copd,4
+172_1b4_Tc_mc_AKGC417L.wav,73.0,M,Trachea (Tc),copd,4
+172_1b5_Al_mc_AKGC417L.wav,73.0,M,Anterior Left (A L),copd,4
+172_1b5_Ar_mc_AKGC417L.wav,73.0,M,Anterior Right (A R),copd,4
+172_1b5_Ll_mc_AKGC417L.wav,73.0,M,Lateral Left (L L),copd,4
+172_1b5_Lr_mc_AKGC417L.wav,73.0,M,Lateral Right (L R),copd,4
+172_1b5_Pl_mc_AKGC417L.wav,73.0,M,Posterior Left (P L),copd,4
+172_1b5_Pr_mc_AKGC417L.wav,73.0,M,Posterior Right (P R),copd,4
+172_1b5_Tc_mc_AKGC417L.wav,73.0,M,Trachea (Tc),copd,4
+172_2b5_Al_mc_AKGC417L.wav,73.0,M,Anterior Left (A L),copd,4
+172_2b5_Ar_mc_AKGC417L.wav,73.0,M,Anterior Right (A R),copd,4
+172_2b5_Lr_mc_AKGC417L.wav,73.0,M,Lateral Right (L R),copd,4
+172_2b5_Pl_mc_AKGC417L.wav,73.0,M,Posterior Left (P L),copd,4
+172_2b5_Pr_mc_AKGC417L.wav,73.0,M,Posterior Right (P R),copd,4
+172_2b5_Tc_mc_AKGC417L.wav,73.0,M,Trachea (Tc),copd,4
+173_1b1_Al_sc_Meditron.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+174_1p2_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+174_1p2_Ll_mc_AKGC417L.wav,68.0,M,Lateral Left (L L),copd,4
+174_1p2_Lr_mc_AKGC417L.wav,68.0,M,Lateral Right (L R),copd,4
+174_1p2_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+174_1p2_Pr_mc_AKGC417L.wav,68.0,M,Posterior Right (P R),copd,4
+174_1p2_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+174_1p3_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+174_1p3_Ll_mc_AKGC417L.wav,68.0,M,Lateral Left (L L),copd,4
+174_1p3_Lr_mc_AKGC417L.wav,68.0,M,Lateral Right (L R),copd,4
+174_1p3_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+174_1p3_Pr_mc_AKGC417L.wav,68.0,M,Posterior Right (P R),copd,4
+174_1p3_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+174_1p4_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+174_1p4_Ll_mc_AKGC417L.wav,68.0,M,Lateral Left (L L),copd,4
+174_1p4_Lr_mc_AKGC417L.wav,68.0,M,Lateral Right (L R),copd,4
+174_1p4_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+174_1p4_Pr_mc_AKGC417L.wav,68.0,M,Posterior Right (P R),copd,4
+174_1p4_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+174_2p3_Al_mc_AKGC417L.wav,68.0,M,Anterior Left (A L),copd,4
+174_2p3_Ar_mc_AKGC417L.wav,68.0,M,Anterior Right (A R),copd,4
+174_2p3_Pl_mc_AKGC417L.wav,68.0,M,Posterior Left (P L),copd,4
+174_2p3_Pr_mc_AKGC417L.wav,68.0,M,Posterior Right (P R),copd,4
+174_2p3_Tc_mc_AKGC417L.wav,68.0,M,Trachea (Tc),copd,4
+175_1b1_Al_sc_Litt3200.wav,63.0,M,Anterior Left (A L),copd,4
+175_1b1_Ar_sc_Litt3200.wav,63.0,M,Anterior Right (A R),copd,4
+175_1b1_Ll_sc_Litt3200.wav,63.0,M,Lateral Left (L L),copd,4
+175_1b1_Lr_sc_Litt3200.wav,63.0,M,Lateral Right (L R),copd,4
+175_1b1_Pl_sc_Litt3200.wav,63.0,M,Posterior Left (P L),copd,4
+175_1b1_Pr_sc_Litt3200.wav,63.0,M,Posterior Right (P R),copd,4
+176_1b3_Al_mc_AKGC417L.wav,65.0,M,Anterior Left (A L),copd,4
+176_1b3_Ar_mc_AKGC417L.wav,65.0,M,Anterior Right (A R),copd,4
+176_1b3_Ll_mc_AKGC417L.wav,65.0,M,Lateral Left (L L),copd,4
+176_1b3_Lr_mc_AKGC417L.wav,65.0,M,Lateral Right (L R),copd,4
+176_1b3_Pl_mc_AKGC417L.wav,65.0,M,Posterior Left (P L),copd,4
+176_1b3_Pr_mc_AKGC417L.wav,65.0,M,Posterior Right (P R),copd,4
+176_1b3_Tc_mc_AKGC417L.wav,65.0,M,Trachea (Tc),copd,4
+176_1b4_Al_mc_AKGC417L.wav,65.0,M,Anterior Left (A L),copd,4
+176_1b4_Ar_mc_AKGC417L.wav,65.0,M,Anterior Right (A R),copd,4
+176_1b4_Ll_mc_AKGC417L.wav,65.0,M,Lateral Left (L L),copd,4
+176_1b4_Lr_mc_AKGC417L.wav,65.0,M,Lateral Right (L R),copd,4
+176_1b4_Pl_mc_AKGC417L.wav,65.0,M,Posterior Left (P L),copd,4
+176_1b4_Pr_mc_AKGC417L.wav,65.0,M,Posterior Right (P R),copd,4
+176_1b4_Tc_mc_AKGC417L.wav,65.0,M,Trachea (Tc),copd,4
+176_2b3_Al_mc_AKGC417L.wav,65.0,M,Anterior Left (A L),copd,4
+176_2b3_Ar_mc_AKGC417L.wav,65.0,M,Anterior Right (A R),copd,4
+176_2b3_Ll_mc_AKGC417L.wav,65.0,M,Lateral Left (L L),copd,4
+176_2b3_Lr_mc_AKGC417L.wav,65.0,M,Lateral Right (L R),copd,4
+176_2b3_Pl_mc_AKGC417L.wav,65.0,M,Posterior Left (P L),copd,4
+176_2b3_Pr_mc_AKGC417L.wav,65.0,M,Posterior Right (P R),copd,4
+176_2b3_Tc_mc_AKGC417L.wav,65.0,M,Trachea (Tc),copd,4
+177_1b2_Al_mc_AKGC417L.wav,56.0,M,Anterior Left (A L),copd,4
+177_1b2_Ar_mc_AKGC417L.wav,56.0,M,Anterior Right (A R),copd,4
+177_1b2_Lr_mc_AKGC417L.wav,56.0,M,Lateral Right (L R),copd,4
+177_1b2_Pl_mc_AKGC417L.wav,56.0,M,Posterior Left (P L),copd,4
+177_1b2_Pr_mc_AKGC417L.wav,56.0,M,Posterior Right (P R),copd,4
+177_1b2_Tc_mc_AKGC417L.wav,56.0,M,Trachea (Tc),copd,4
+177_1b4_Al_mc_AKGC417L.wav,56.0,M,Anterior Left (A L),copd,4
+177_1b4_Ar_mc_AKGC417L.wav,56.0,M,Anterior Right (A R),copd,4
+177_1b4_Lr_mc_AKGC417L.wav,56.0,M,Lateral Right (L R),copd,4
+177_1b4_Pl_mc_AKGC417L.wav,56.0,M,Posterior Left (P L),copd,4
+177_1b4_Pr_mc_AKGC417L.wav,56.0,M,Posterior Right (P R),copd,4
+177_1b4_Tc_mc_AKGC417L.wav,56.0,M,Trachea (Tc),copd,4
+177_2b4_Al_mc_AKGC417L.wav,56.0,M,Anterior Left (A L),copd,4
+177_2b4_Lr_mc_AKGC417L.wav,56.0,M,Lateral Right (L R),copd,4
+177_2b4_Pl_mc_AKGC417L.wav,56.0,M,Posterior Left (P L),copd,4
+177_2b4_Pr_mc_AKGC417L.wav,56.0,M,Posterior Right (P R),copd,4
+177_2b4_Tc_mc_AKGC417L.wav,56.0,M,Trachea (Tc),copd,4
+178_1b2_Al_mc_AKGC417L.wav,58.0,M,Anterior Left (A L),copd,4
+178_1b2_Ar_mc_AKGC417L.wav,58.0,M,Anterior Right (A R),copd,4
+178_1b2_Lr_mc_AKGC417L.wav,58.0,M,Lateral Right (L R),copd,4
+178_1b2_Pl_mc_AKGC417L.wav,58.0,M,Posterior Left (P L),copd,4
+178_1b2_Pr_mc_AKGC417L.wav,58.0,M,Posterior Right (P R),copd,4
+178_1b2_Tc_mc_AKGC417L.wav,58.0,M,Trachea (Tc),copd,4
+178_1b3_Al_mc_AKGC417L.wav,58.0,M,Anterior Left (A L),copd,4
+178_1b3_Ar_mc_AKGC417L.wav,58.0,M,Anterior Right (A R),copd,4
+178_1b3_Lr_mc_AKGC417L.wav,58.0,M,Lateral Right (L R),copd,4
+178_1b3_Pl_mc_AKGC417L.wav,58.0,M,Posterior Left (P L),copd,4
+178_1b3_Pr_mc_AKGC417L.wav,58.0,M,Posterior Right (P R),copd,4
+178_1b3_Tc_mc_AKGC417L.wav,58.0,M,Trachea (Tc),copd,4
+178_1b6_Al_mc_AKGC417L.wav,58.0,M,Anterior Left (A L),copd,4
+178_1b6_Ar_mc_AKGC417L.wav,58.0,M,Anterior Right (A R),copd,4
+178_1b6_Ll_mc_AKGC417L.wav,58.0,M,Lateral Left (L L),copd,4
+178_1b6_Lr_mc_AKGC417L.wav,58.0,M,Lateral Right (L R),copd,4
+178_1b6_Pl_mc_AKGC417L.wav,58.0,M,Posterior Left (P L),copd,4
+178_1b6_Pr_mc_AKGC417L.wav,58.0,M,Posterior Right (P R),copd,4
+178_1b6_Tc_mc_AKGC417L.wav,58.0,M,Trachea (Tc),copd,4
+178_2b2_Al_mc_AKGC417L.wav,58.0,M,Anterior Left (A L),copd,4
+178_2b2_Ar_mc_AKGC417L.wav,58.0,M,Anterior Right (A R),copd,4
+178_2b2_Lr_mc_AKGC417L.wav,58.0,M,Lateral Right (L R),copd,4
+178_2b2_Pr_mc_AKGC417L.wav,58.0,M,Posterior Right (P R),copd,4
+178_2b2_Tc_mc_AKGC417L.wav,58.0,M,Trachea (Tc),copd,4
+179_1b1_Al_sc_Meditron.wav,10.0,F,Anterior Left (A L),healthy,5
+179_1b1_Tc_sc_Meditron.wav,10.0,F,Trachea (Tc),healthy,5
+180_1b4_Al_mc_AKGC417L.wav,93.0,M,Anterior Left (A L),copd,4
+180_1b4_Ar_mc_AKGC417L.wav,93.0,M,Anterior Right (A R),copd,4
+180_1b4_Lr_mc_AKGC417L.wav,93.0,M,Lateral Right (L R),copd,4
+180_1b4_Pl_mc_AKGC417L.wav,93.0,M,Posterior Left (P L),copd,4
+180_1b4_Pr_mc_AKGC417L.wav,93.0,M,Posterior Right (P R),copd,4
+181_1b1_Ar_mc_LittC2SE.wav,65.0,M,Anterior Right (A R),copd,4
+181_1b1_Tc_mc_LittC2SE.wav,65.0,M,Trachea (Tc),copd,4
+181_1b2_Ar_mc_LittC2SE.wav,65.0,M,Anterior Right (A R),copd,4
+181_1b3_Tc_mc_LittC2SE.wav,65.0,M,Trachea (Tc),copd,4
+182_1b1_Tc_sc_Meditron.wav,11.0,M,Trachea (Tc),healthy,5
+183_1b1_Pl_sc_Meditron.wav,14.0,F,Posterior Left (P L),healthy,5
+183_1b1_Tc_sc_Meditron.wav,14.0,F,Trachea (Tc),healthy,5
+184_1b1_Ar_sc_Meditron.wav,2.0,F,Anterior Right (A R),healthy,5
+185_1b1_Al_sc_Litt3200.wav,75.0,M,Anterior Left (A L),copd,4
+185_1b1_Ar_sc_Litt3200.wav,75.0,M,Anterior Right (A R),copd,4
+185_1b1_Ll_sc_Litt3200.wav,75.0,M,Lateral Left (L L),copd,4
+185_1b1_Lr_sc_Litt3200.wav,75.0,M,Lateral Right (L R),copd,4
+185_1b1_Pl_sc_Litt3200.wav,75.0,M,Posterior Left (P L),copd,4
+185_1b1_Pr_sc_Litt3200.wav,75.0,M,Posterior Right (P R),copd,4
+186_2b2_Al_mc_AKGC417L.wav,71.0,M,Anterior Left (A L),copd,4
+186_2b2_Ar_mc_AKGC417L.wav,71.0,M,Anterior Right (A R),copd,4
+186_2b2_Lr_mc_AKGC417L.wav,71.0,M,Lateral Right (L R),copd,4
+186_2b2_Pl_mc_AKGC417L.wav,71.0,M,Posterior Left (P L),copd,4
+186_2b2_Pr_mc_AKGC417L.wav,71.0,M,Posterior Right (P R),copd,4
+186_2b2_Tc_mc_AKGC417L.wav,71.0,M,Trachea (Tc),copd,4
+186_2b3_Al_mc_AKGC417L.wav,71.0,M,Anterior Left (A L),copd,4
+186_2b3_Ar_mc_AKGC417L.wav,71.0,M,Anterior Right (A R),copd,4
+186_2b3_Lr_mc_AKGC417L.wav,71.0,M,Lateral Right (L R),copd,4
+186_2b3_Pl_mc_AKGC417L.wav,71.0,M,Posterior Left (P L),copd,4
+186_2b3_Pr_mc_AKGC417L.wav,71.0,M,Posterior Right (P R),copd,4
+186_2b3_Tc_mc_AKGC417L.wav,71.0,M,Trachea (Tc),copd,4
+186_2b4_Al_mc_AKGC417L.wav,71.0,M,Anterior Left (A L),copd,4
+186_2b4_Ar_mc_AKGC417L.wav,71.0,M,Anterior Right (A R),copd,4
+186_2b4_Lr_mc_AKGC417L.wav,71.0,M,Lateral Right (L R),copd,4
+186_2b4_Pl_mc_AKGC417L.wav,71.0,M,Posterior Left (P L),copd,4
+186_2b4_Pr_mc_AKGC417L.wav,71.0,M,Posterior Right (P R),copd,4
+186_2b4_Tc_mc_AKGC417L.wav,71.0,M,Trachea (Tc),copd,4
+186_3b3_Al_mc_AKGC417L.wav,71.0,M,Anterior Left (A L),copd,4
+186_3b3_Ar_mc_AKGC417L.wav,71.0,M,Anterior Right (A R),copd,4
+186_3b3_Lr_mc_AKGC417L.wav,71.0,M,Lateral Right (L R),copd,4
+186_3b3_Pl_mc_AKGC417L.wav,71.0,M,Posterior Left (P L),copd,4
+186_3b3_Pr_mc_AKGC417L.wav,71.0,M,Posterior Right (P R),copd,4
+186_3b3_Tc_mc_AKGC417L.wav,71.0,M,Trachea (Tc),copd,4
+187_1b1_Ll_sc_Meditron.wav,0.5,F,Lateral Left (L L),healthy,5
+188_1b1_Al_sc_Meditron.wav,3.0,M,Anterior Left (A L),urti,13
+188_1b1_Ar_sc_Meditron.wav,3.0,M,Anterior Right (A R),urti,13
+188_1b1_Pl_sc_Meditron.wav,3.0,M,Posterior Left (P L),urti,13
+188_1b1_Tc_sc_Meditron.wav,3.0,M,Trachea (Tc),urti,13
+189_1b2_Lr_mc_LittC2SE.wav,75.0,F,Lateral Right (L R),copd,4
+190_1b1_Tc_sc_Meditron.wav,3.0,F,Trachea (Tc),urti,13
+191_2b1_Pl_mc_LittC2SE.wav,74.0,F,Posterior Left (P L),pneumonia,12
+191_2b1_Pr_mc_LittC2SE.wav,74.0,F,Posterior Right (P R),pneumonia,12
+191_2b2_Tc_mc_LittC2SE.wav,74.0,F,Trachea (Tc),pneumonia,12
+192_2b1_Al_mc_LittC2SE.wav,69.0,M,Anterior Left (A L),copd,4
+192_2b1_Ar_mc_LittC2SE.wav,69.0,M,Anterior Right (A R),copd,4
+192_2b2_Al_mc_LittC2SE.wav,69.0,M,Anterior Left (A L),copd,4
+192_2b2_Ar_mc_LittC2SE.wav,69.0,M,Anterior Right (A R),copd,4
+192_2b3_Al_mc_LittC2SE.wav,69.0,M,Anterior Left (A L),copd,4
+192_2b3_Ar_mc_LittC2SE.wav,69.0,M,Anterior Right (A R),copd,4
+193_1b2_Al_mc_AKGC417L.wav,77.0,M,Anterior Left (A L),copd,4
+193_1b2_Ar_mc_AKGC417L.wav,77.0,M,Anterior Right (A R),copd,4
+193_1b2_Ll_mc_AKGC417L.wav,77.0,M,Lateral Left (L L),copd,4
+193_1b2_Pl_mc_AKGC417L.wav,77.0,M,Posterior Left (P L),copd,4
+193_1b2_Pr_mc_AKGC417L.wav,77.0,M,Posterior Right (P R),copd,4
+193_1b2_Tc_mc_AKGC417L.wav,77.0,M,Trachea (Tc),copd,4
+193_1b4_Lr_mc_AKGC417L.wav,77.0,M,Lateral Right (L R),copd,4
+193_7b3_Al_mc_AKGC417L.wav,77.0,M,Anterior Left (A L),copd,4
+193_7b3_Ar_mc_AKGC417L.wav,77.0,M,Anterior Right (A R),copd,4
+193_7b3_Ll_mc_AKGC417L.wav,77.0,M,Lateral Left (L L),copd,4
+193_7b3_Lr_mc_AKGC417L.wav,77.0,M,Lateral Right (L R),copd,4
+193_7b3_Pl_mc_AKGC417L.wav,77.0,M,Posterior Left (P L),copd,4
+193_7b3_Pr_mc_AKGC417L.wav,77.0,M,Posterior Right (P R),copd,4
+193_7b3_Tc_mc_AKGC417L.wav,77.0,M,Trachea (Tc),copd,4
+194_1b1_Lr_sc_Meditron.wav,2.0,M,Lateral Right (L R),healthy,5
+194_1b1_Pr_sc_Meditron.wav,2.0,M,Posterior Right (P R),healthy,5
+195_1b1_Al_sc_Litt3200.wav,67.0,M,Anterior Left (A L),copd,4
+195_1b1_Ar_sc_Litt3200.wav,67.0,M,Anterior Right (A R),copd,4
+195_1b1_Ll_sc_Litt3200.wav,67.0,M,Lateral Left (L L),copd,4
+195_1b1_Lr_sc_Litt3200.wav,67.0,M,Lateral Right (L R),copd,4
+195_1b1_Pl_sc_Litt3200.wav,67.0,M,Posterior Left (P L),copd,4
+195_1b1_Pr_sc_Litt3200.wav,67.0,M,Posterior Right (P R),copd,4
+196_1b1_Pr_sc_Meditron.wav,21.0,F,Posterior Right (P R),bronchiectasis,2
+197_1b1_Al_sc_Meditron.wav,16.0,F,Anterior Left (A L),urti,13
+197_1b1_Tc_sc_Meditron.wav,16.0,F,Trachea (Tc),urti,13
+198_1b5_Al_mc_AKGC417L.wav,71.0,M,Anterior Left (A L),copd,4
+198_1b5_Ar_mc_AKGC417L.wav,71.0,M,Anterior Right (A R),copd,4
+198_1b5_Ll_mc_AKGC417L.wav,71.0,M,Lateral Left (L L),copd,4
+198_1b5_Lr_mc_AKGC417L.wav,71.0,M,Lateral Right (L R),copd,4
+198_1b5_Pl_mc_AKGC417L.wav,71.0,M,Posterior Left (P L),copd,4
+198_1b5_Pr_mc_AKGC417L.wav,71.0,M,Posterior Right (P R),copd,4
+198_1b5_Tc_mc_AKGC417L.wav,71.0,M,Trachea (Tc),copd,4
+198_6p1_Al_mc_AKGC417L.wav,71.0,M,Anterior Left (A L),copd,4
+198_6p1_Ar_mc_AKGC417L.wav,71.0,M,Anterior Right (A R),copd,4
+198_6p1_Ll_mc_AKGC417L.wav,71.0,M,Lateral Left (L L),copd,4
+198_6p1_Lr_mc_AKGC417L.wav,71.0,M,Lateral Right (L R),copd,4
+198_6p1_Pl_mc_AKGC417L.wav,71.0,M,Posterior Left (P L),copd,4
+198_6p1_Pr_mc_AKGC417L.wav,71.0,M,Posterior Right (P R),copd,4
+198_6p1_Tc_mc_AKGC417L.wav,71.0,M,Trachea (Tc),copd,4
+199_2b1_Ll_mc_LittC2SE.wav,71.0,M,Lateral Left (L L),copd,4
+199_2b3_Ll_mc_LittC2SE.wav,71.0,M,Lateral Left (L L),copd,4
+200_2p2_Al_mc_AKGC417L.wav,72.0,F,Anterior Left (A L),copd,4
+200_2p2_Ar_mc_AKGC417L.wav,72.0,F,Anterior Right (A R),copd,4
+200_2p2_Lr_mc_AKGC417L.wav,72.0,F,Lateral Right (L R),copd,4
+200_2p2_Pl_mc_AKGC417L.wav,72.0,F,Posterior Left (P L),copd,4
+200_2p2_Pr_mc_AKGC417L.wav,72.0,F,Posterior Right (P R),copd,4
+200_2p2_Tc_mc_AKGC417L.wav,72.0,F,Trachea (Tc),copd,4
+200_2p3_Al_mc_AKGC417L.wav,72.0,F,Anterior Left (A L),copd,4
+200_2p3_Ar_mc_AKGC417L.wav,72.0,F,Anterior Right (A R),copd,4
+200_2p3_Lr_mc_AKGC417L.wav,72.0,F,Lateral Right (L R),copd,4
+200_2p3_Pl_mc_AKGC417L.wav,72.0,F,Posterior Left (P L),copd,4
+200_2p3_Pr_mc_AKGC417L.wav,72.0,F,Posterior Right (P R),copd,4
+200_2p3_Tc_mc_AKGC417L.wav,72.0,F,Trachea (Tc),copd,4
+200_2p4_Al_mc_AKGC417L.wav,72.0,F,Anterior Left (A L),copd,4
+200_2p4_Ar_mc_AKGC417L.wav,72.0,F,Anterior Right (A R),copd,4
+200_2p4_Lr_mc_AKGC417L.wav,72.0,F,Lateral Right (L R),copd,4
+200_2p4_Pl_mc_AKGC417L.wav,72.0,F,Posterior Left (P L),copd,4
+200_2p4_Pr_mc_AKGC417L.wav,72.0,F,Posterior Right (P R),copd,4
+200_2p4_Tc_mc_AKGC417L.wav,72.0,F,Trachea (Tc),copd,4
+200_3p4_Al_mc_AKGC417L.wav,72.0,F,Anterior Left (A L),copd,4
+200_3p4_Ar_mc_AKGC417L.wav,72.0,F,Anterior Right (A R),copd,4
+200_3p4_Pl_mc_AKGC417L.wav,72.0,F,Posterior Left (P L),copd,4
+200_3p4_Pr_mc_AKGC417L.wav,72.0,F,Posterior Right (P R),copd,4
+200_3p4_Tc_mc_AKGC417L.wav,72.0,F,Trachea (Tc),copd,4
+201_1b1_Al_sc_Meditron.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b1_Ar_sc_Meditron.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b2_Al_sc_Meditron.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b2_Ar_sc_Meditron.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b3_Al_sc_Meditron.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b3_Ar_sc_Meditron.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+202_1b1_Ar_sc_Meditron.wav,2.0,M,Anterior Right (A R),healthy,5
+203_1p2_Al_mc_AKGC417L.wav,57.0,F,Anterior Left (A L),copd,4
+203_1p2_Ar_mc_AKGC417L.wav,57.0,F,Anterior Right (A R),copd,4
+203_1p2_Lr_mc_AKGC417L.wav,57.0,F,Lateral Right (L R),copd,4
+203_1p2_Pl_mc_AKGC417L.wav,57.0,F,Posterior Left (P L),copd,4
+203_1p2_Pr_mc_AKGC417L.wav,57.0,F,Posterior Right (P R),copd,4
+203_1p2_Tc_mc_AKGC417L.wav,57.0,F,Trachea (Tc),copd,4
+203_1p3_Al_mc_AKGC417L.wav,57.0,F,Anterior Left (A L),copd,4
+203_1p3_Ar_mc_AKGC417L.wav,57.0,F,Anterior Right (A R),copd,4
+203_1p3_Pl_mc_AKGC417L.wav,57.0,F,Posterior Left (P L),copd,4
+203_1p3_Pr_mc_AKGC417L.wav,57.0,F,Posterior Right (P R),copd,4
+203_1p3_Tc_mc_AKGC417L.wav,57.0,F,Trachea (Tc),copd,4
+203_1p4_Al_mc_AKGC417L.wav,57.0,F,Anterior Left (A L),copd,4
+203_1p4_Ar_mc_AKGC417L.wav,57.0,F,Anterior Right (A R),copd,4
+203_1p4_Pl_mc_AKGC417L.wav,57.0,F,Posterior Left (P L),copd,4
+203_1p4_Pr_mc_AKGC417L.wav,57.0,F,Posterior Right (P R),copd,4
+203_1p4_Tc_mc_AKGC417L.wav,57.0,F,Trachea (Tc),copd,4
+203_2p3_Al_mc_AKGC417L.wav,57.0,F,Anterior Left (A L),copd,4
+203_2p3_Ar_mc_AKGC417L.wav,57.0,F,Anterior Right (A R),copd,4
+203_2p3_Pl_mc_AKGC417L.wav,57.0,F,Posterior Left (P L),copd,4
+203_2p3_Pr_mc_AKGC417L.wav,57.0,F,Posterior Right (P R),copd,4
+203_2p3_Tc_mc_AKGC417L.wav,57.0,F,Trachea (Tc),copd,4
+204_2b5_Al_mc_AKGC417L.wav,66.0,M,Anterior Left (A L),copd,4
+204_2b5_Ar_mc_AKGC417L.wav,66.0,M,Anterior Right (A R),copd,4
+204_2b5_Ll_mc_AKGC417L.wav,66.0,M,Lateral Left (L L),copd,4
+204_7p5_Al_mc_AKGC417L.wav,66.0,M,Anterior Left (A L),copd,4
+204_7p5_Ar_mc_AKGC417L.wav,66.0,M,Anterior Right (A R),copd,4
+204_7p5_Ll_mc_AKGC417L.wav,66.0,M,Lateral Left (L L),copd,4
+204_7p5_Lr_mc_AKGC417L.wav,66.0,M,Lateral Right (L R),copd,4
+204_7p5_Pr_mc_AKGC417L.wav,66.0,M,Posterior Right (P R),copd,4
+204_7p5_Tc_mc_AKGC417L.wav,66.0,M,Trachea (Tc),copd,4
+205_1b3_Al_mc_AKGC417L.wav,45.0,M,Anterior Left (A L),copd,4
+205_1b3_Ar_mc_AKGC417L.wav,45.0,M,Anterior Right (A R),copd,4
+205_1b3_Ll_mc_AKGC417L.wav,45.0,M,Lateral Left (L L),copd,4
+205_1b3_Lr_mc_AKGC417L.wav,45.0,M,Lateral Right (L R),copd,4
+205_1b3_Pl_mc_AKGC417L.wav,45.0,M,Posterior Left (P L),copd,4
+205_1b3_Pr_mc_AKGC417L.wav,45.0,M,Posterior Right (P R),copd,4
+205_2b2_Pr_mc_AKGC417L.wav,45.0,M,Posterior Right (P R),copd,4
+205_2b3_Al_mc_AKGC417L.wav,45.0,M,Anterior Left (A L),copd,4
+205_2b3_Ar_mc_AKGC417L.wav,45.0,M,Anterior Right (A R),copd,4
+205_2b3_Ll_mc_AKGC417L.wav,45.0,M,Lateral Left (L L),copd,4
+205_2b4_Pl_mc_AKGC417L.wav,45.0,M,Posterior Left (P L),copd,4
+205_3b4_Al_mc_AKGC417L.wav,45.0,M,Anterior Left (A L),copd,4
+205_3b4_Ar_mc_AKGC417L.wav,45.0,M,Anterior Right (A R),copd,4
+205_3b4_Pl_mc_AKGC417L.wav,45.0,M,Posterior Left (P L),copd,4
+205_3b4_Pr_mc_AKGC417L.wav,45.0,M,Posterior Right (P R),copd,4
+205_4b2_Al_mc_AKGC417L.wav,45.0,M,Anterior Left (A L),copd,4
+205_4b2_Ar_mc_AKGC417L.wav,45.0,M,Anterior Right (A R),copd,4
+205_4b2_Lr_mc_AKGC417L.wav,45.0,M,Lateral Right (L R),copd,4
+205_4b2_Pl_mc_AKGC417L.wav,45.0,M,Posterior Left (P L),copd,4
+205_4b2_Pr_mc_AKGC417L.wav,45.0,M,Posterior Right (P R),copd,4
+206_1b1_Ar_sc_Meditron.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Pl_sc_Meditron.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+207_2b2_Al_mc_AKGC417L.wav,63.0,F,Anterior Left (A L),copd,4
+207_2b2_Ar_mc_AKGC417L.wav,63.0,F,Anterior Right (A R),copd,4
+207_2b2_Pl_mc_AKGC417L.wav,63.0,F,Posterior Left (P L),copd,4
+207_2b2_Pr_mc_AKGC417L.wav,63.0,F,Posterior Right (P R),copd,4
+207_2b2_Tc_mc_AKGC417L.wav,63.0,F,Trachea (Tc),copd,4
+207_2b3_Al_mc_AKGC417L.wav,63.0,F,Anterior Left (A L),copd,4
+207_2b3_Ar_mc_AKGC417L.wav,63.0,F,Anterior Right (A R),copd,4
+207_2b3_Pl_mc_AKGC417L.wav,63.0,F,Posterior Left (P L),copd,4
+207_2b3_Pr_mc_AKGC417L.wav,63.0,F,Posterior Right (P R),copd,4
+207_2b3_Tc_mc_AKGC417L.wav,63.0,F,Trachea (Tc),copd,4
+207_2b4_Al_mc_AKGC417L.wav,63.0,F,Anterior Left (A L),copd,4
+207_2b4_Ar_mc_AKGC417L.wav,63.0,F,Anterior Right (A R),copd,4
+207_2b4_Pl_mc_AKGC417L.wav,63.0,F,Posterior Left (P L),copd,4
+207_2b4_Pr_mc_AKGC417L.wav,63.0,F,Posterior Right (P R),copd,4
+207_2b4_Tc_mc_AKGC417L.wav,63.0,F,Trachea (Tc),copd,4
+207_3b2_Al_mc_AKGC417L.wav,63.0,F,Anterior Left (A L),copd,4
+207_3b2_Ar_mc_AKGC417L.wav,63.0,F,Anterior Right (A R),copd,4
+207_3b2_Lr_mc_AKGC417L.wav,63.0,F,Lateral Right (L R),copd,4
+207_3b2_Pl_mc_AKGC417L.wav,63.0,F,Posterior Left (P L),copd,4
+207_3b2_Pr_mc_AKGC417L.wav,63.0,F,Posterior Right (P R),copd,4
+207_3b2_Tc_mc_AKGC417L.wav,63.0,F,Trachea (Tc),copd,4
+208_1b1_Ll_sc_Meditron.wav,5.0,F,Lateral Left (L L),healthy,5
+209_1b1_Tc_sc_Meditron.wav,14.0,F,Trachea (Tc),healthy,5
+210_1b1_Al_sc_Meditron.wav,1.0,F,Anterior Left (A L),urti,13
+210_1b1_Ar_sc_Meditron.wav,1.0,F,Anterior Right (A R),urti,13
+211_1p2_Ar_mc_AKGC417L.wav,70.0,F,Anterior Right (A R),copd,4
+211_1p2_Pl_mc_AKGC417L.wav,70.0,F,Posterior Left (P L),copd,4
+211_1p2_Pr_mc_AKGC417L.wav,70.0,F,Posterior Right (P R),copd,4
+211_1p3_Ar_mc_AKGC417L.wav,70.0,F,Anterior Right (A R),copd,4
+211_1p5_Ar_mc_AKGC417L.wav,70.0,F,Anterior Right (A R),copd,4
+211_2p2_Tc_mc_AKGC417L.wav,70.0,F,Trachea (Tc),copd,4
+211_2p3_Tc_mc_AKGC417L.wav,70.0,F,Trachea (Tc),copd,4
+211_2p4_Tc_mc_AKGC417L.wav,70.0,F,Trachea (Tc),copd,4
+212_2b2_Tc_mc_LittC2SE.wav,83.0,M,Trachea (Tc),copd,4
+213_1p2_Al_mc_AKGC417L.wav,58.0,F,Anterior Left (A L),copd,4
+213_1p2_Ar_mc_AKGC417L.wav,58.0,F,Anterior Right (A R),copd,4
+213_1p2_Lr_mc_AKGC417L.wav,58.0,F,Lateral Right (L R),copd,4
+213_1p2_Pl_mc_AKGC417L.wav,58.0,F,Posterior Left (P L),copd,4
+213_1p2_Pr_mc_AKGC417L.wav,58.0,F,Posterior Right (P R),copd,4
+213_1p2_Tc_mc_AKGC417L.wav,58.0,F,Trachea (Tc),copd,4
+213_1p3_Al_mc_AKGC417L.wav,58.0,F,Anterior Left (A L),copd,4
+213_1p3_Ar_mc_AKGC417L.wav,58.0,F,Anterior Right (A R),copd,4
+213_1p3_Pl_mc_AKGC417L.wav,58.0,F,Posterior Left (P L),copd,4
+213_1p3_Pr_mc_AKGC417L.wav,58.0,F,Posterior Right (P R),copd,4
+213_1p5_Al_mc_AKGC417L.wav,58.0,F,Anterior Left (A L),copd,4
+213_1p5_Ar_mc_AKGC417L.wav,58.0,F,Anterior Right (A R),copd,4
+213_1p5_Pl_mc_AKGC417L.wav,58.0,F,Posterior Left (P L),copd,4
+213_1p5_Pr_mc_AKGC417L.wav,58.0,F,Posterior Right (P R),copd,4
+213_1p5_Tc_mc_AKGC417L.wav,58.0,F,Trachea (Tc),copd,4
+213_2p2_Al_mc_AKGC417L.wav,58.0,F,Anterior Left (A L),copd,4
+213_2p2_Ar_mc_AKGC417L.wav,58.0,F,Anterior Right (A R),copd,4
+213_2p2_Pl_mc_AKGC417L.wav,58.0,F,Posterior Left (P L),copd,4
+213_2p2_Pr_mc_AKGC417L.wav,58.0,F,Posterior Right (P R),copd,4
+213_2p2_Tc_mc_AKGC417L.wav,58.0,F,Trachea (Tc),copd,4
+214_1b1_Ar_sc_Meditron.wav,5.0,M,Anterior Right (A R),healthy,5
+215_1b2_Ar_sc_Meditron.wav,56.0,F,Anterior Right (A R),bronchiectasis,2
+215_1b3_Tc_sc_Meditron.wav,56.0,F,Trachea (Tc),bronchiectasis,2
+216_1b1_Al_sc_Meditron.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+217_1b1_Tc_sc_Meditron.wav,12.0,F,Trachea (Tc),healthy,5
+218_1b1_Al_sc_Meditron.wav,75.0,M,Anterior Left (A L),copd,4
+218_1b1_Ar_sc_Meditron.wav,75.0,M,Anterior Right (A R),copd,4
+218_1b1_Lr_sc_Meditron.wav,75.0,M,Lateral Right (L R),copd,4
+218_1b1_Pl_sc_Meditron.wav,75.0,M,Posterior Left (P L),copd,4
+218_1b1_Pr_sc_Meditron.wav,75.0,M,Posterior Right (P R),copd,4
+218_1p1_Ar_sc_Litt3200.wav,75.0,M,Anterior Right (A R),copd,4
+218_1p1_Pl_sc_Litt3200.wav,75.0,M,Posterior Left (P L),copd,4
+218_1p1_Pr_sc_Litt3200.wav,75.0,M,Posterior Right (P R),copd,4
+219_2b1_Ar_mc_LittC2SE.wav,81.0,M,Anterior Right (A R),pneumonia,12
+219_2b1_Tc_mc_LittC2SE.wav,81.0,M,Trachea (Tc),pneumonia,12
+219_2b2_Ar_mc_LittC2SE.wav,81.0,M,Anterior Right (A R),pneumonia,12
+219_2b2_Tc_mc_LittC2SE.wav,81.0,M,Trachea (Tc),pneumonia,12
+219_2b3_Tc_mc_LittC2SE.wav,81.0,M,Trachea (Tc),pneumonia,12
+220_1b1_Tc_mc_LittC2SE.wav,66.0,M,Trachea (Tc),copd,4
+220_1b2_Al_mc_LittC2SE.wav,66.0,M,Anterior Left (A L),copd,4
+221_2b1_Al_mc_LittC2SE.wav,74.0,F,Anterior Left (A L),copd,4
+221_2b1_Ar_mc_LittC2SE.wav,74.0,F,Anterior Right (A R),copd,4
+221_2b1_Lr_mc_LittC2SE.wav,74.0,F,Lateral Right (L R),copd,4
+221_2b1_Pl_mc_LittC2SE.wav,74.0,F,Posterior Left (P L),copd,4
+221_2b2_Al_mc_LittC2SE.wav,74.0,F,Anterior Left (A L),copd,4
+221_2b2_Ar_mc_LittC2SE.wav,74.0,F,Anterior Right (A R),copd,4
+221_2b2_Lr_mc_LittC2SE.wav,74.0,F,Lateral Right (L R),copd,4
+221_2b2_Pl_mc_LittC2SE.wav,74.0,F,Posterior Left (P L),copd,4
+221_2b3_Al_mc_LittC2SE.wav,74.0,F,Anterior Left (A L),copd,4
+221_2b3_Ar_mc_LittC2SE.wav,74.0,F,Anterior Right (A R),copd,4
+221_2b3_Lr_mc_LittC2SE.wav,74.0,F,Lateral Right (L R),copd,4
+221_2b3_Pr_mc_LittC2SE.wav,74.0,F,Posterior Right (P R),copd,4
+222_1b1_Ar_sc_Meditron.wav,60.0,M,Anterior Right (A R),copd,4
+222_1b1_Lr_sc_Meditron.wav,60.0,M,Lateral Right (L R),copd,4
+222_1b1_Pr_sc_Meditron.wav,60.0,M,Posterior Right (P R),copd,4
+223_1b1_Al_sc_Meditron.wav,,,Anterior Left (A L),copd,4
+223_1b1_Ar_sc_Meditron.wav,,,Anterior Right (A R),copd,4
+223_1b1_Ll_sc_Meditron.wav,,,Lateral Left (L L),copd,4
+223_1b1_Lr_sc_Meditron.wav,,,Lateral Right (L R),copd,4
+223_1b1_Pl_sc_Meditron.wav,,,Posterior Left (P L),copd,4
+223_1b1_Pr_sc_Meditron.wav,,,Posterior Right (P R),copd,4
+224_1b1_Tc_sc_Meditron.wav,10.0,F,Trachea (Tc),healthy,5
+224_1b2_Al_sc_Meditron.wav,10.0,F,Anterior Left (A L),healthy,5
+225_1b1_Pl_sc_Meditron.wav,0.83,M,Posterior Left (P L),healthy,5
+226_1b1_Al_sc_Meditron.wav,4.0,M,Anterior Left (A L),pneumonia,12
+226_1b1_Ll_sc_Meditron.wav,4.0,M,Lateral Left (L L),pneumonia,12
+226_1b1_Pl_sc_LittC2SE.wav,4.0,M,Posterior Left (P L),pneumonia,12
+"BP100_N,N,P R M,70,F.wav",70.0,F,Posterior Right Middle (P R M),healthy,5
+"BP101_Asthma,E W,P L M,12,F.wav",12.0,F,Posterior Left Middle (P L M),asthma,0
+"BP102_N,N,P L L,41,M.wav",41.0,M,Posterior Left Lower (P L L),healthy,5
+"BP103_N,N,P R U,81,F.wav",81.0,F,Posterior Right Upper (P R U),healthy,5
+"BP104_Asthma,E W,P L U,45,F.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"BP105_Lung Fibrosis,Crep,A U R,44,M.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP106_Asthma,E W,P L U,45,F.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"BP107_Asthma,E W,P L U,59,F.wav",59.0,F,Posterior Left Upper (P L U),asthma,0
+"BP108_COPD,E W,P R L ,63,M.wav",63.0,M,Posterior Right Lower (P R L),copd,4
+"BP109_N,N,P L M,26,M.wav",26.0,M,Posterior Left Middle (P L M),healthy,5
+"BP10_Asthma,E W,P R U,59,M.wav",59.0,M,Posterior Right Upper (P R U),asthma,0
+"BP110_COPD,E W,P L L,62,M.wav",62.0,M,Posterior Left Lower (P L L),copd,4
+"BP111_COPD,E W,P R L ,51,M.wav",51.0,M,Posterior Right Lower (P R L),copd,4
+"BP112_N,N,P L M,30,M.wav",30.0,M,Posterior Left Middle (P L M),healthy,5
+"BP11_Heart Failure,C,P L L,53,M.wav",53.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP12_Asthma,E W,P L L,50,F.wav",50.0,F,Posterior Left Lower (P L L),asthma,0
+"BP13_Heart Failure,C,P L L,55,M.wav",55.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP14_Heart Failure,C,A R M,54,M.wav",54.0,M,Anterior Right Middle (A R M),heart failure,6
+"BP15_Asthma,E W,P R U,49,F.wav",49.0,F,Posterior Right Upper (P R U),asthma,0
+"BP16_heart failure,C,P R U,56,M.wav",56.0,M,Posterior Right Upper (P R U),heart failure,6
+"BP17_COPD,E W,A R M,57,M.wav",57.0,M,Anterior Right Middle (A R M),copd,4
+"BP18_pneumonia,C,P R U,57,M.wav",57.0,M,Posterior Right Upper (P R U),pneumonia,12
+"BP19_heart failure,C,P R U,70,F.wav",70.0,F,Posterior Right Upper (P R U),heart failure,6
+"BP1_Asthma,I E W,P L L,70,M.wav",70.0,M,Posterior Left Lower (P L L),asthma,0
+"BP20_Asthma and lung fibrosis,C,A R M,90,M.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP21_BRON,Crep,P R L ,20,M.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"BP22_BRON,Crep,P R U,24,M.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"BP23_Lung Fibrosis,Crep,P R L ,50,M.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP24_heart failure,Crep,P R L ,76,F.wav",76.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP25_copd,E W,P L L,76,M.wav",76.0,M,Posterior Left Lower (P L L),copd,4
+"BP26_Lung Fibrosis,Crep,P,90,F.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP27_asthma,E W,P R M,53,F.wav",53.0,F,Posterior Right Middle (P R M),asthma,0
+"BP28_BRON,Crep,P L U,68,F.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"BP29_heart failure,Crep,P L L,57,M.wav",57.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP2_Asthma,E W,P L L R,52,F.wav",52.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"BP30_N,N,P R M,18,F.wav",18.0,F,Posterior Right Middle (P R M),healthy,5
+"BP31_N,N,P L M,27,F.wav",27.0,F,Posterior Left Middle (P L M),healthy,5
+"BP32_N,N,A R L,30,M.wav",30.0,M,Anterior Right Lower (A R L),healthy,5
+"BP33_Asthma,E W,P R M,43,F.wav",43.0,F,Posterior Right Middle (P R M),asthma,0
+"BP34_heart failure,Crep,P R M,78,F.wav",78.0,F,Posterior Right Middle (P R M),heart failure,6
+"BP35_Asthma,E W,A R L,38,M.wav",38.0,M,Anterior Right Lower (A R L),asthma,0
+"BP36_pneumonia,Crep,P R M,36,F.wav",36.0,F,Posterior Right Middle (P R M),pneumonia,12
+"BP37_pneumonia,Crep,A R L,70,F.wav",70.0,F,Anterior Right Lower (A R L),pneumonia,12
+"BP38_Asthma,E W,P R M,38,M.wav",38.0,M,Posterior Right Middle (P R M),asthma,0
+"BP39_heart failure,Crep,P R L ,67,M.wav",67.0,M,Posterior Right Lower (P R L),heart failure,6
+"BP3_Asthma,I E W,P L L R,50,F.wav",50.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"BP40_heart failure,Crep,A R M,26,M.wav",26.0,M,Anterior Right Middle (A R M),heart failure,6
+"BP41_pneumonia,Crep,P R M,51,M.wav",51.0,M,Posterior Right Middle (P R M),pneumonia,12
+"BP42_heart failure,Crep,P L L,56,M.wav",56.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP43_asthma,E W,P L M,15,M.wav",15.0,M,Posterior Left Middle (P L M),asthma,0
+"BP44_asthma,E W,P R U,40,M.wav",40.0,M,Posterior Right Upper (P R U),asthma,0
+"BP45_heart failure,Crep,P R L ,30,M.wav",30.0,M,Posterior Right Lower (P R L),heart failure,6
+"BP46_asthma,E W,P L U,41,F.wav",41.0,F,Posterior Left Upper (P L U),asthma,0
+"BP47_asthma,E W,P L M,60,M.wav",60.0,M,Posterior Left Middle (P L M),asthma,0
+"BP48_N,N,P L U,31,M.wav",31.0,M,Posterior Left Upper (P L U),healthy,5
+"BP49_N,N,P R M,21,M.wav",21.0,M,Posterior Right Middle (P R M),healthy,5
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP50_N,N,P R L ,27,M.wav",27.0,M,Posterior Right Lower (P R L),healthy,5
+"BP51_N,N,P L M,30,M.wav",30.0,M,Posterior Left Middle (P L M),healthy,5
+"BP52_Lung Fibrosis,Crep,P L L,76,F.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP53_asthma,E W,P R M,72,F.wav",72.0,F,Posterior Right Middle (P R M),asthma,0
+"BP54_heart failure,Crep,P R L ,73,F.wav",73.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP55_asthma,E W,P R U,72,F.wav",72.0,F,Posterior Right Upper (P R U),asthma,0
+"BP56_asthma,E W,P R M,56,F.wav",56.0,F,Posterior Right Middle (P R M),asthma,0
+"BP57_COPD,E W,P R L ,42,M.wav",42.0,M,Posterior Right Lower (P R L),copd,4
+"BP58_asthma,E W,P L M,40,M.wav",40.0,M,Posterior Left Middle (P L M),asthma,0
+"BP59_heart failure,Crep,P R L ,83,F.wav",83.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP60_heart failure,Crep,P L L,83,F.wav",83.0,F,Posterior Left Lower (P L L),heart failure,6
+"BP61_COPD,E W,P R L ,53,M.wav",53.0,M,Posterior Right Lower (P R L),copd,4
+"BP62_COPD,E W,P L M,53,M.wav",53.0,M,Posterior Left Middle (P L M),copd,4
+"BP63_COPD,E W,P R L ,58,F.wav",58.0,F,Posterior Right Lower (P R L),copd,4
+"BP64_asthma,E W,P L U,60,M.wav",60.0,M,Posterior Left Upper (P L U),asthma,0
+"BP65_asthma,E W,P R L ,60,F.wav",60.0,F,Posterior Right Lower (P R L),asthma,0
+"BP66_heart failure,Crep,P R L ,43,M.wav",43.0,M,Posterior Right Lower (P R L),heart failure,6
+"BP67_heart failure,Crep,P R L ,24,F.wav",24.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP68_asthma,E W,P R L ,21,F.wav",21.0,F,Posterior Right Lower (P R L),asthma,0
+"BP69_pneumonia,Bronchial,P R L ,64,M.wav",64.0,M,Posterior Right Lower (P R L),pneumonia,12
+"BP6_Plueral Effusion,I C B,P L R,81,M.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP70_N,N,P L U,52,F.wav",52.0,F,Posterior Left Upper (P L U),healthy,5
+"BP71_N,N,P R U,36,M.wav",36.0,M,Posterior Right Upper (P R U),healthy,5
+"BP72_N,N,P R U,24,F.wav",24.0,F,Posterior Right Upper (P R U),healthy,5
+"BP73_N,N,P L L,32,M.wav",32.0,M,Posterior Left Lower (P L L),healthy,5
+"BP74_N,N,P R M,74,M.wav",74.0,M,Posterior Right Middle (P R M),healthy,5
+"BP75_N,N,P L U,73,F.wav",73.0,F,Posterior Left Upper (P L U),healthy,5
+"BP76_N,N,A L U,31,M.wav",31.0,M,Anterior Left Upper (A L U),healthy,5
+"BP77_Asthma,E W,A R L,40,M.wav",40.0,M,Anterior Right Lower (A R L),asthma,0
+"BP78_Asthma,E W,P R M,20,M.wav",20.0,M,Posterior Right Middle (P R M),asthma,0
+"BP79_asthma,E W,A R U,46,M.wav",46.0,M,Anterior Right Upper (A R U),asthma,0
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP80_asthma,E W,A L U,38,M.wav",38.0,M,Anterior Left Upper (A L U),asthma,0
+"BP81_N,N,P L U,33,M.wav",33.0,M,Posterior Left Upper (P L U),healthy,5
+"BP82_N,N,P L U,38,M.wav",38.0,M,Posterior Left Upper (P L U),healthy,5
+"BP83_N,N,A R U,18,F.wav",18.0,F,Anterior Right Upper (A R U),healthy,5
+"BP84_N,N,A R U,65,F.wav",65.0,F,Anterior Right Upper (A R U),healthy,5
+"BP85_N,N,A R U,33,M.wav",33.0,M,Anterior Right Upper (A R U),healthy,5
+"BP86_N,N,P R U,68,F.wav",68.0,F,Posterior Right Upper (P R U),healthy,5
+"BP87_N,N,P R M,72,M.wav",72.0,M,Posterior Right Middle (P R M),healthy,5
+"BP88_N,N,A R U,29,M.wav",29.0,M,Anterior Right Upper (A R U),healthy,5
+"BP89_N,N,P L M,70,M.wav",70.0,M,Posterior Left Middle (P L M),healthy,5
+"BP8_Plueral Effusion,I C B,P L L,70,M.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP90_heart failure,Crep,P L M,74,F.wav",74.0,F,Posterior Left Middle (P L M),heart failure,6
+"BP91_asthma,E W,P R U,43,F.wav",43.0,F,Posterior Right Upper (P R U),asthma,0
+"BP92_N,N,P L L ,43,M.wav",43.0,M,Posterior Left Lower (P L L),healthy,5
+"BP93_N,N,P R M,75,M.wav",75.0,M,Posterior Right Middle (P R M),healthy,5
+"BP94_N,N,P L L,24,M.wav",24.0,M,Posterior Left Lower (P L L),healthy,5
+"BP95_N,N,P L M,18,M.wav",18.0,M,Posterior Left Middle (P L M),healthy,5
+"BP96_N,N,P R L ,66,F.wav",66.0,F,Posterior Right Lower (P R L),healthy,5
+"BP97_Asthma,E W,P R U,24,M.wav",24.0,M,Posterior Right Upper (P R U),asthma,0
+"BP98_N,N,P L L,53,M.wav",53.0,M,Posterior Left Lower (P L L),healthy,5
+"BP99_N,N,P R M,50,M.wav",50.0,M,Posterior Right Middle (P R M),healthy,5
+"BP9_Asthma,E W,P R L ,59,M.wav",59.0,M,Posterior Right Lower (P R L),asthma,0
+"DP100_N,N,P R M,70,F.wav",70.0,F,Posterior Right Middle (P R M),healthy,5
+"DP101_Asthma,E W,P L M,12,F.wav",12.0,F,Posterior Left Middle (P L M),asthma,0
+"DP102_N,N,P L L,41,M.wav",41.0,M,Posterior Left Lower (P L L),healthy,5
+"DP103_N,N,P R U,81,F.wav",81.0,F,Posterior Right Upper (P R U),healthy,5
+"DP104_Asthma,E W,P L U,45,F.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"DP105_Lung Fibrosis,Crep,A U R,44,M.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP106_Asthma,E W,P L U,45,F.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"DP107_Asthma,E W,P L U,59,F.wav",59.0,F,Posterior Left Upper (P L U),asthma,0
+"DP108_COPD,E W,P R L ,63,M.wav",63.0,M,Posterior Right Lower (P R L),copd,4
+"DP109_N,N,P L M,26,M.wav",26.0,M,Posterior Left Middle (P L M),healthy,5
+"DP10_Asthma,E W,P R U,59,M.wav",59.0,M,Posterior Right Upper (P R U),asthma,0
+"DP110_COPD,E W,P L L,62,M.wav",62.0,M,Posterior Left Lower (P L L),copd,4
+"DP111_COPD,E W,P R L ,51,M.wav",51.0,M,Posterior Right Lower (P R L),copd,4
+"DP112_N,N,P L M,30,M.wav",30.0,M,Posterior Left Middle (P L M),healthy,5
+"DP11_Heart Failure,C,P L L,53,M.wav",53.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP12_Asthma,E W,P L L,50,F.wav",50.0,F,Posterior Left Lower (P L L),asthma,0
+"DP13_Heart Failure,C,P L L,55,M.wav",55.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP14_Heart Failure,C,A R M,54,M.wav",54.0,M,Anterior Right Middle (A R M),heart failure,6
+"DP15_Asthma,E W,P R U,49,F.wav",49.0,F,Posterior Right Upper (P R U),asthma,0
+"DP16_heart failure,C,P R U,56,M.wav",56.0,M,Posterior Right Upper (P R U),heart failure,6
+"DP17_COPD,E W,A R M,57,M.wav",57.0,M,Anterior Right Middle (A R M),copd,4
+"DP18_pneumonia,C,P R U,57,M.wav",57.0,M,Posterior Right Upper (P R U),pneumonia,12
+"DP19_heart failure,C,P R U,70,F.wav",70.0,F,Posterior Right Upper (P R U),heart failure,6
+"DP1_Asthma,I E W,P L L,70,M.wav",70.0,M,Posterior Left Lower (P L L),asthma,0
+"DP20_Asthma and lung fibrosis,C,A R M,90,M.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP21_BRON,Crep,P R L ,20,M.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"DP22_BRON,Crep,P R U,24,M.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"DP23_Lung Fibrosis,Crep,P R L ,50,M.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP24_heart failure,Crep,P R L ,76,F.wav",76.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP25_copd,E W,P L L,76,M.wav",76.0,M,Posterior Left Lower (P L L),copd,4
+"DP26_Lung Fibrosis,Crep,P,90,F.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP27_asthma,E W,P R M,53,F.wav",53.0,F,Posterior Right Middle (P R M),asthma,0
+"DP28_BRON,Crep,P L U,68,F.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"DP29_heart failure,Crep,P L L,57,M.wav",57.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP2_Asthma,E W,P L L R,52,F.wav",52.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"DP30_N,N,P R M,18,F.wav",18.0,F,Posterior Right Middle (P R M),healthy,5
+"DP31_N,N,P L M,27,F.wav",27.0,F,Posterior Left Middle (P L M),healthy,5
+"DP32_N,N,A R L,30,M.wav",30.0,M,Anterior Right Lower (A R L),healthy,5
+"DP33_Asthma,E W,P R M,43,F.wav",43.0,F,Posterior Right Middle (P R M),asthma,0
+"DP34_heart failure,Crep,P R M,78,F.wav",78.0,F,Posterior Right Middle (P R M),heart failure,6
+"DP35_Asthma,E W,A R L,38,M.wav",38.0,M,Anterior Right Lower (A R L),asthma,0
+"DP36_pneumonia,Crep,P R M,36,F.wav",36.0,F,Posterior Right Middle (P R M),pneumonia,12
+"DP37_pneumonia,Crep,A R L,70,F.wav",70.0,F,Anterior Right Lower (A R L),pneumonia,12
+"DP38_Asthma,E W,P R M,38,M.wav",38.0,M,Posterior Right Middle (P R M),asthma,0
+"DP39_heart failure,Crep,P R L ,67,M.wav",67.0,M,Posterior Right Lower (P R L),heart failure,6
+"DP3_Asthma,I E W,P L L R,50,F.wav",50.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"DP40_heart failure,Crep,A R M,26,M.wav",26.0,M,Anterior Right Middle (A R M),heart failure,6
+"DP41_pneumonia,Crep,P R M,51,M.wav",51.0,M,Posterior Right Middle (P R M),pneumonia,12
+"DP42_heart failure,Crep,P L L,56,M.wav",56.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP43_asthma,E W,P L M,15,M.wav",15.0,M,Posterior Left Middle (P L M),asthma,0
+"DP44_asthma,E W,P R U,40,M.wav",40.0,M,Posterior Right Upper (P R U),asthma,0
+"DP45_heart failure,Crep,P R L ,30,M.wav",30.0,M,Posterior Right Lower (P R L),heart failure,6
+"DP46_asthma,E W,P L U,41,F.wav",41.0,F,Posterior Left Upper (P L U),asthma,0
+"DP47_asthma,E W,P L M,60,M.wav",60.0,M,Posterior Left Middle (P L M),asthma,0
+"DP48_N,N,P L U,31,M.wav",31.0,M,Posterior Left Upper (P L U),healthy,5
+"DP49_N,N,P R M,21,M.wav",21.0,M,Posterior Right Middle (P R M),healthy,5
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP50_N,N,P R L ,27,M.wav",27.0,M,Posterior Right Lower (P R L),healthy,5
+"DP51_N,N,P L M,30,M.wav",30.0,M,Posterior Left Middle (P L M),healthy,5
+"DP52_Lung Fibrosis,Crep,P L L,76,F.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP53_asthma,E W,P R M,72,F.wav",72.0,F,Posterior Right Middle (P R M),asthma,0
+"DP54_heart failure,Crep,P R L ,73,F.wav",73.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP55_asthma,E W,P R U,72,F.wav",72.0,F,Posterior Right Upper (P R U),asthma,0
+"DP56_asthma,E W,P R M,56,F.wav",56.0,F,Posterior Right Middle (P R M),asthma,0
+"DP57_COPD,E W,P R L ,42,M.wav",42.0,M,Posterior Right Lower (P R L),copd,4
+"DP58_asthma,E W,P L M,40,M.wav",40.0,M,Posterior Left Middle (P L M),asthma,0
+"DP59_heart failure,Crep,P R L ,83,F.wav",83.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP60_heart failure,Crep,P L L,83,F.wav",83.0,F,Posterior Left Lower (P L L),heart failure,6
+"DP61_COPD,E W,P R L ,53,M.wav",53.0,M,Posterior Right Lower (P R L),copd,4
+"DP62_COPD,E W,P L M,53,M.wav",53.0,M,Posterior Left Middle (P L M),copd,4
+"DP63_COPD,E W,P R L ,58,F.wav",58.0,F,Posterior Right Lower (P R L),copd,4
+"DP64_asthma,E W,P L U,60,M.wav",60.0,M,Posterior Left Upper (P L U),asthma,0
+"DP65_asthma,E W,P R L ,60,F.wav",60.0,F,Posterior Right Lower (P R L),asthma,0
+"DP66_heart failure,Crep,P R L ,43,M.wav",43.0,M,Posterior Right Lower (P R L),heart failure,6
+"DP67_heart failure,Crep,P R L ,24,F.wav",24.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP68_asthma,E W,P R L ,21,F.wav",21.0,F,Posterior Right Lower (P R L),asthma,0
+"DP69_pneumonia,Bronchial,P R L ,64,M.wav",64.0,M,Posterior Right Lower (P R L),pneumonia,12
+"DP6_Plueral Effusion,I C B,P L R,81,M.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP70_N,N,P L U,52,F.wav",52.0,F,Posterior Left Upper (P L U),healthy,5
+"DP71_N,N,P R U,36,M.wav",36.0,M,Posterior Right Upper (P R U),healthy,5
+"DP72_N,N,P R U,24,F.wav",24.0,F,Posterior Right Upper (P R U),healthy,5
+"DP73_N,N,P L L,32,M.wav",32.0,M,Posterior Left Lower (P L L),healthy,5
+"DP74_N,N,P R M,74,M.wav",74.0,M,Posterior Right Middle (P R M),healthy,5
+"DP75_N,N,P L U,73,F.wav",73.0,F,Posterior Left Upper (P L U),healthy,5
+"DP76_N,N,A L U,31,M.wav",31.0,M,Anterior Left Upper (A L U),healthy,5
+"DP77_Asthma,E W,A R L,40,M.wav",40.0,M,Anterior Right Lower (A R L),asthma,0
+"DP78_Asthma,E W,P R M,20,M.wav",20.0,M,Posterior Right Middle (P R M),asthma,0
+"DP79_asthma,E W,A R U,46,M.wav",46.0,M,Anterior Right Upper (A R U),asthma,0
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP80_asthma,E W,A L U,38,M.wav",38.0,M,Anterior Left Upper (A L U),asthma,0
+"DP81_N,N,P L U,33,M.wav",33.0,M,Posterior Left Upper (P L U),healthy,5
+"DP82_N,N,P L U,38,M.wav",38.0,M,Posterior Left Upper (P L U),healthy,5
+"DP83_N,N,A R U,18,F.wav",18.0,F,Anterior Right Upper (A R U),healthy,5
+"DP84_N,N,A R U,65,F.wav",65.0,F,Anterior Right Upper (A R U),healthy,5
+"DP85_N,N,A R U,33,M.wav",33.0,M,Anterior Right Upper (A R U),healthy,5
+"DP86_N,N,P R U,68,F.wav",68.0,F,Posterior Right Upper (P R U),healthy,5
+"DP87_N,N,P R M,72,M.wav",72.0,M,Posterior Right Middle (P R M),healthy,5
+"DP88_N,N,A R U,29,M.wav",29.0,M,Anterior Right Upper (A R U),healthy,5
+"DP89_N,N,P L M,70,M.wav",70.0,M,Posterior Left Middle (P L M),healthy,5
+"DP8_Plueral Effusion,I C B,P L L,70,M.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP90_heart failure,Crep,P L M,74,F.wav",74.0,F,Posterior Left Middle (P L M),heart failure,6
+"DP91_asthma,E W,P R U,43,F.wav",43.0,F,Posterior Right Upper (P R U),asthma,0
+"DP92_N,N,P L L ,43,M.wav",43.0,M,Posterior Left Lower (P L L),healthy,5
+"DP93_N,N,P R M,75,M.wav",75.0,M,Posterior Right Middle (P R M),healthy,5
+"DP94_N,N,P L L,24,M.wav",24.0,M,Posterior Left Lower (P L L),healthy,5
+"DP95_N,N,P L M,18,M.wav",18.0,M,Posterior Left Middle (P L M),healthy,5
+"DP96_N,N,P R L ,66,F.wav",66.0,F,Posterior Right Lower (P R L),healthy,5
+"DP97_Asthma,E W,P R U,24,M.wav",24.0,M,Posterior Right Upper (P R U),asthma,0
+"DP98_N,N,P L L,53,M.wav",53.0,M,Posterior Left Lower (P L L),healthy,5
+"DP99_N,N,P R M,50,M.wav",50.0,M,Posterior Right Middle (P R M),healthy,5
+"DP9_Asthma,E W,P R L ,59,M.wav",59.0,M,Posterior Right Lower (P R L),asthma,0
+"EP100_N,N,P R M,70,F.wav",70.0,F,Posterior Right Middle (P R M),healthy,5
+"EP101_Asthma,E W,P L M,12,F.wav",12.0,F,Posterior Left Middle (P L M),asthma,0
+"EP102_N,N,P L L,41,M.wav",41.0,M,Posterior Left Lower (P L L),healthy,5
+"EP103_N,N,P R U,81,F.wav",81.0,F,Posterior Right Upper (P R U),healthy,5
+"EP104_Asthma,E W,P L U,45,F.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"EP105_Lung Fibrosis,Crep,A U R,44,M.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP106_Asthma,E W,P L U,45,F.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"EP107_Asthma,E W,P L U,59,F.wav",59.0,F,Posterior Left Upper (P L U),asthma,0
+"EP108_COPD,E W,P R L ,63,M.wav",63.0,M,Posterior Right Lower (P R L),copd,4
+"EP109_N,N,P L M,26,M.wav",26.0,M,Posterior Left Middle (P L M),healthy,5
+"EP10_Asthma,E W,P R U,59,M.wav",59.0,M,Posterior Right Upper (P R U),asthma,0
+"EP110_COPD,E W,P L L,62,M.wav",62.0,M,Posterior Left Lower (P L L),copd,4
+"EP111_COPD,E W,P R L ,51,M.wav",51.0,M,Posterior Right Lower (P R L),copd,4
+"EP112_N,N,P L M,30,M.wav",30.0,M,Posterior Left Middle (P L M),healthy,5
+"EP11_Heart Failure,C,P L L,53,M.wav",53.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP12_Asthma,E W,P L L,50,F.wav",50.0,F,Posterior Left Lower (P L L),asthma,0
+"EP13_Heart Failure,C,P L L,55,M.wav",55.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP14_Heart Failure,C,A R M,54,M.wav",54.0,M,Anterior Right Middle (A R M),heart failure,6
+"EP15_Asthma,E W,P R U,49,F.wav",49.0,F,Posterior Right Upper (P R U),asthma,0
+"EP16_heart failure,C,P R U,56,M.wav",56.0,M,Posterior Right Upper (P R U),heart failure,6
+"EP17_COPD,E W,A R M,57,M.wav",57.0,M,Anterior Right Middle (A R M),copd,4
+"EP18_pneumonia,C,P R U,57,M.wav",57.0,M,Posterior Right Upper (P R U),pneumonia,12
+"EP19_heart failure,C,P R U,70,F.wav",70.0,F,Posterior Right Upper (P R U),heart failure,6
+"EP1_Asthma,I E W,P L L,70,M.wav",70.0,M,Posterior Left Lower (P L L),asthma,0
+"EP20_Asthma and lung fibrosis,C,A R M,90,M.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP21_BRON,Crep,P R L ,20,M.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"EP22_BRON,Crep,P R U,24,M.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"EP23_Lung Fibrosis,Crep,P R L ,50,M.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP24_heart failure,Crep,P R L ,76,F.wav",76.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP25_copd,E W,P L L,76,M.wav",76.0,M,Posterior Left Lower (P L L),copd,4
+"EP26_Lung Fibrosis,Crep,P,90,F.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP27_asthma,E W,P R M,53,F.wav",53.0,F,Posterior Right Middle (P R M),asthma,0
+"EP28_BRON,Crep,P L U,68,F.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"EP29_heart failure,Crep,P L L,57,M.wav",57.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP2_Asthma,E W,P L L R,52,F.wav",52.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"EP30_N,N,P R M,18,F.wav",18.0,F,Posterior Right Middle (P R M),healthy,5
+"EP31_N,N,P L M,27,F.wav",27.0,F,Posterior Left Middle (P L M),healthy,5
+"EP32_N,N,A R L,30,M.wav",30.0,M,Anterior Right Lower (A R L),healthy,5
+"EP33_Asthma,E W,P R M,43,F.wav",43.0,F,Posterior Right Middle (P R M),asthma,0
+"EP34_heart failure,Crep,P R M,78,F.wav",78.0,F,Posterior Right Middle (P R M),heart failure,6
+"EP35_Asthma,E W,A R L,38,M.wav",38.0,M,Anterior Right Lower (A R L),asthma,0
+"EP36_pneumonia,Crep,P R M,36,F.wav",36.0,F,Posterior Right Middle (P R M),pneumonia,12
+"EP37_pneumonia,Crep,A R L,70,F.wav",70.0,F,Anterior Right Lower (A R L),pneumonia,12
+"EP38_Asthma,E W,P R M,38,M.wav",38.0,M,Posterior Right Middle (P R M),asthma,0
+"EP39_heart failure,Crep,P R L ,67,M.wav",67.0,M,Posterior Right Lower (P R L),heart failure,6
+"EP3_Asthma,I E W,P L L R,50,F.wav",50.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"EP40_heart failure,Crep,A R M,26,M.wav",26.0,M,Anterior Right Middle (A R M),heart failure,6
+"EP41_pneumonia,Crep,P R M,51,M.wav",51.0,M,Posterior Right Middle (P R M),pneumonia,12
+"EP42_heart failure,Crep,P L L,56,M.wav",56.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP43_asthma,E W,P L M,15,M.wav",15.0,M,Posterior Left Middle (P L M),asthma,0
+"EP44_asthma,E W,P R U,40,M.wav",40.0,M,Posterior Right Upper (P R U),asthma,0
+"EP45_heart failure,Crep,P R L ,30,M.wav",30.0,M,Posterior Right Lower (P R L),heart failure,6
+"EP46_asthma,E W,P L U,41,F.wav",41.0,F,Posterior Left Upper (P L U),asthma,0
+"EP47_asthma,E W,P L M,60,M.wav",60.0,M,Posterior Left Middle (P L M),asthma,0
+"EP48_N,N,P L U,31,M.wav",31.0,M,Posterior Left Upper (P L U),healthy,5
+"EP49_N,N,P R M,21,M.wav",21.0,M,Posterior Right Middle (P R M),healthy,5
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP50_N,N,P R L ,27,M.wav",27.0,M,Posterior Right Lower (P R L),healthy,5
+"EP51_N,N,P L M,30,M.wav",30.0,M,Posterior Left Middle (P L M),healthy,5
+"EP52_Lung Fibrosis,Crep,P L L,76,F.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP53_asthma,E W,P R M,72,F.wav",72.0,F,Posterior Right Middle (P R M),asthma,0
+"EP54_heart failure,Crep,P R L ,73,F.wav",73.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP55_asthma,E W,P R U,72,F.wav",72.0,F,Posterior Right Upper (P R U),asthma,0
+"EP56_asthma,E W,P R M,56,F.wav",56.0,F,Posterior Right Middle (P R M),asthma,0
+"EP57_COPD,E W,P R L ,42,M.wav",42.0,M,Posterior Right Lower (P R L),copd,4
+"EP58_asthma,E W,P L M,40,M.wav",40.0,M,Posterior Left Middle (P L M),asthma,0
+"EP59_heart failure,Crep,P R L ,83,F.wav",83.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP60_heart failure,Crep,P L L,83,F.wav",83.0,F,Posterior Left Lower (P L L),heart failure,6
+"EP61_COPD,E W,P R L ,53,M.wav",53.0,M,Posterior Right Lower (P R L),copd,4
+"EP62_COPD,E W,P L M,53,M.wav",53.0,M,Posterior Left Middle (P L M),copd,4
+"EP63_COPD,E W,P R L ,58,F.wav",58.0,F,Posterior Right Lower (P R L),copd,4
+"EP64_asthma,E W,P L U,60,M.wav",60.0,M,Posterior Left Upper (P L U),asthma,0
+"EP65_asthma,E W,P R L ,60,F.wav",60.0,F,Posterior Right Lower (P R L),asthma,0
+"EP66_heart failure,Crep,P R L ,43,M.wav",43.0,M,Posterior Right Lower (P R L),heart failure,6
+"EP67_heart failure,Crep,P R L ,24,F.wav",24.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP68_asthma,E W,P R L ,21,F.wav",21.0,F,Posterior Right Lower (P R L),asthma,0
+"EP69_pneumonia,Bronchial,P R L ,64,M.wav",64.0,M,Posterior Right Lower (P R L),pneumonia,12
+"EP6_Plueral Effusion,I C B,P L R,81,M.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP70_N,N,P L U,52,F.wav",52.0,F,Posterior Left Upper (P L U),healthy,5
+"EP71_N,N,P R U,36,M.wav",36.0,M,Posterior Right Upper (P R U),healthy,5
+"EP72_N,N,P R U,24,F.wav",24.0,F,Posterior Right Upper (P R U),healthy,5
+"EP73_N,N,P L L,32,M.wav",32.0,M,Posterior Left Lower (P L L),healthy,5
+"EP74_N,N,P R M,74,M.wav",74.0,M,Posterior Right Middle (P R M),healthy,5
+"EP75_N,N,P L U,73,F.wav",73.0,F,Posterior Left Upper (P L U),healthy,5
+"EP76_N,N,A L U,31,M.wav",31.0,M,Anterior Left Upper (A L U),healthy,5
+"EP77_Asthma,E W,A R L,40,M.wav",40.0,M,Anterior Right Lower (A R L),asthma,0
+"EP78_Asthma,E W,P R M,20,M.wav",20.0,M,Posterior Right Middle (P R M),asthma,0
+"EP79_asthma,E W,A R U,46,M.wav",46.0,M,Anterior Right Upper (A R U),asthma,0
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP80_asthma,E W,A L U,38,M.wav",38.0,M,Anterior Left Upper (A L U),asthma,0
+"EP81_N,N,P L U,33,M.wav",33.0,M,Posterior Left Upper (P L U),healthy,5
+"EP82_N,N,P L U,38,M.wav",38.0,M,Posterior Left Upper (P L U),healthy,5
+"EP83_N,N,A R U,18,F.wav",18.0,F,Anterior Right Upper (A R U),healthy,5
+"EP84_N,N,A R U,65,F.wav",65.0,F,Anterior Right Upper (A R U),healthy,5
+"EP85_N,N,A R U,33,M.wav",33.0,M,Anterior Right Upper (A R U),healthy,5
+"EP86_N,N,P R U,68,F.wav",68.0,F,Posterior Right Upper (P R U),healthy,5
+"EP87_N,N,P R M,72,M.wav",72.0,M,Posterior Right Middle (P R M),healthy,5
+"EP88_N,N,A R U,29,M.wav",29.0,M,Anterior Right Upper (A R U),healthy,5
+"EP89_N,N,P L M,70,M.wav",70.0,M,Posterior Left Middle (P L M),healthy,5
+"EP8_Plueral Effusion,I C B,P L L,70,M.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP90_heart failure,Crep,P L M,74,F.wav",74.0,F,Posterior Left Middle (P L M),heart failure,6
+"EP91_asthma,E W,P R U,43,F.wav",43.0,F,Posterior Right Upper (P R U),asthma,0
+"EP92_N,N,P L L ,43,M.wav",43.0,M,Posterior Left Lower (P L L),healthy,5
+"EP93_N,N,P R M,75,M.wav",75.0,M,Posterior Right Middle (P R M),healthy,5
+"EP94_N,N,P L L,24,M.wav",24.0,M,Posterior Left Lower (P L L),healthy,5
+"EP95_N,N,P L M,18,M.wav",18.0,M,Posterior Left Middle (P L M),healthy,5
+"EP96_N,N,P R L ,66,F.wav",66.0,F,Posterior Right Lower (P R L),healthy,5
+"EP97_Asthma,E W,P R U,24,M.wav",24.0,M,Posterior Right Upper (P R U),asthma,0
+"EP98_N,N,P L L,53,M.wav",53.0,M,Posterior Left Lower (P L L),healthy,5
+"EP99_N,N,P R M,50,M.wav",50.0,M,Posterior Right Middle (P R M),healthy,5
+"EP9_Asthma,E W,P R L ,59,M.wav",59.0,M,Posterior Right Lower (P R L),asthma,0
+101_1b1_Al_sc_Meditron_aug1.wav,3.0,F,Anterior Left (A L),urti,13
+101_1b1_Al_sc_Meditron_aug2.wav,3.0,F,Anterior Left (A L),urti,13
+101_1b1_Al_sc_Meditron_aug3.wav,3.0,F,Anterior Left (A L),urti,13
+101_1b1_Al_sc_Meditron_aug4.wav,3.0,F,Anterior Left (A L),urti,13
+101_1b1_Pr_sc_Meditron_aug1.wav,3.0,F,Posterior Right (P R),urti,13
+101_1b1_Pr_sc_Meditron_aug2.wav,3.0,F,Posterior Right (P R),urti,13
+101_1b1_Pr_sc_Meditron_aug3.wav,3.0,F,Posterior Right (P R),urti,13
+101_1b1_Pr_sc_Meditron_aug4.wav,3.0,F,Posterior Right (P R),urti,13
+103_2b2_Ar_mc_LittC2SE_aug1.wav,70.0,F,Anterior Right (A R),asthma,0
+105_1b1_Tc_sc_Meditron_aug1.wav,7.0,F,Trachea (Tc),urti,13
+105_1b1_Tc_sc_Meditron_aug2.wav,7.0,F,Trachea (Tc),urti,13
+105_1b1_Tc_sc_Meditron_aug3.wav,7.0,F,Trachea (Tc),urti,13
+105_1b1_Tc_sc_Meditron_aug4.wav,7.0,F,Trachea (Tc),urti,13
+108_1b1_Al_sc_Meditron_aug1.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug10.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug11.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug12.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug13.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug14.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug15.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug16.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug17.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug18.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug19.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug2.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug20.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug21.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug22.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug23.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug24.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug25.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug26.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug27.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug28.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug29.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug3.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug30.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug31.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug32.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug33.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug34.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug35.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug36.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug37.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug38.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug39.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug4.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug40.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug41.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug42.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug43.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug44.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug45.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug46.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug47.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug48.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug49.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug5.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug50.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug6.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug7.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug8.wav,3.0,M,Anterior Left (A L),lrti,9
+108_1b1_Al_sc_Meditron_aug9.wav,3.0,M,Anterior Left (A L),lrti,9
+111_1b2_Tc_sc_Meditron_aug1.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b2_Tc_sc_Meditron_aug2.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b2_Tc_sc_Meditron_aug3.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b2_Tc_sc_Meditron_aug4.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b3_Tc_sc_Meditron_aug1.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b3_Tc_sc_Meditron_aug2.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b3_Tc_sc_Meditron_aug3.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+111_1b3_Tc_sc_Meditron_aug4.wav,63.0,M,Trachea (Tc),bronchiectasis,2
+115_1b1_Ar_sc_Meditron_aug1.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug10.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug11.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug12.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug13.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug14.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug15.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug16.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug17.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug18.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug19.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug2.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug20.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug21.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug22.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug23.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug24.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug25.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug26.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug27.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug28.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug29.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug3.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug30.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug31.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug32.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug33.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug34.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug35.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug36.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug37.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug38.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug39.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug4.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug40.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug41.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug42.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug43.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug44.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug45.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug46.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug47.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug48.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug49.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug5.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug50.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug6.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug7.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug8.wav,0.58,M,Anterior Right (A R),lrti,9
+115_1b1_Ar_sc_Meditron_aug9.wav,0.58,M,Anterior Right (A R),lrti,9
+116_1b2_Pl_sc_Meditron_aug1.wav,56.0,M,Posterior Left (P L),bronchiectasis,2
+116_1b2_Pl_sc_Meditron_aug2.wav,56.0,M,Posterior Left (P L),bronchiectasis,2
+116_1b2_Pl_sc_Meditron_aug3.wav,56.0,M,Posterior Left (P L),bronchiectasis,2
+116_1b2_Pl_sc_Meditron_aug4.wav,56.0,M,Posterior Left (P L),bronchiectasis,2
+116_1b2_Tc_sc_Meditron_aug1.wav,56.0,M,Trachea (Tc),bronchiectasis,2
+116_1b2_Tc_sc_Meditron_aug2.wav,56.0,M,Trachea (Tc),bronchiectasis,2
+116_1b2_Tc_sc_Meditron_aug3.wav,56.0,M,Trachea (Tc),bronchiectasis,2
+116_1b2_Tc_sc_Meditron_aug4.wav,56.0,M,Trachea (Tc),bronchiectasis,2
+119_1b1_Ar_sc_Meditron_aug1.wav,2.0,F,Anterior Right (A R),urti,13
+119_1b1_Ar_sc_Meditron_aug2.wav,2.0,F,Anterior Right (A R),urti,13
+119_1b1_Ar_sc_Meditron_aug3.wav,2.0,F,Anterior Right (A R),urti,13
+119_1b1_Ar_sc_Meditron_aug4.wav,2.0,F,Anterior Right (A R),urti,13
+122_2b1_Al_mc_LittC2SE_aug1.wav,66.0,M,Anterior Left (A L),pneumonia,12
+122_2b1_Ar_mc_LittC2SE_aug1.wav,66.0,M,Anterior Right (A R),pneumonia,12
+122_2b1_Tc_mc_LittC2SE_aug1.wav,66.0,M,Trachea (Tc),pneumonia,12
+122_2b2_Al_mc_LittC2SE_aug1.wav,66.0,M,Anterior Left (A L),pneumonia,12
+122_2b2_Ar_mc_LittC2SE_aug1.wav,66.0,M,Anterior Right (A R),pneumonia,12
+122_2b2_Tc_mc_LittC2SE_aug1.wav,66.0,M,Trachea (Tc),pneumonia,12
+122_2b3_Al_mc_LittC2SE_aug1.wav,66.0,M,Anterior Left (A L),pneumonia,12
+122_2b3_Ar_mc_LittC2SE_aug1.wav,66.0,M,Anterior Right (A R),pneumonia,12
+122_2b3_Tc_mc_LittC2SE_aug1.wav,66.0,M,Trachea (Tc),pneumonia,12
+129_1b1_Ar_sc_Meditron_aug1.wav,6.0,M,Anterior Right (A R),urti,13
+129_1b1_Ar_sc_Meditron_aug2.wav,6.0,M,Anterior Right (A R),urti,13
+129_1b1_Ar_sc_Meditron_aug3.wav,6.0,M,Anterior Right (A R),urti,13
+129_1b1_Ar_sc_Meditron_aug4.wav,6.0,M,Anterior Right (A R),urti,13
+131_1b1_Al_sc_Meditron_aug1.wav,3.0,M,Anterior Left (A L),urti,13
+131_1b1_Al_sc_Meditron_aug2.wav,3.0,M,Anterior Left (A L),urti,13
+131_1b1_Al_sc_Meditron_aug3.wav,3.0,M,Anterior Left (A L),urti,13
+131_1b1_Al_sc_Meditron_aug4.wav,3.0,M,Anterior Left (A L),urti,13
+135_2b1_Al_mc_LittC2SE_aug1.wav,70.0,M,Anterior Left (A L),pneumonia,12
+135_2b1_Ar_mc_LittC2SE_aug1.wav,70.0,M,Anterior Right (A R),pneumonia,12
+135_2b1_Pl_mc_LittC2SE_aug1.wav,70.0,M,Posterior Left (P L),pneumonia,12
+135_2b1_Tc_mc_LittC2SE_aug1.wav,70.0,M,Trachea (Tc),pneumonia,12
+135_2b2_Al_mc_LittC2SE_aug1.wav,70.0,M,Anterior Left (A L),pneumonia,12
+135_2b2_Ar_mc_LittC2SE_aug1.wav,70.0,M,Anterior Right (A R),pneumonia,12
+135_2b2_Pl_mc_LittC2SE_aug1.wav,70.0,M,Posterior Left (P L),pneumonia,12
+135_2b2_Tc_mc_LittC2SE_aug1.wav,70.0,M,Trachea (Tc),pneumonia,12
+135_2b3_Al_mc_LittC2SE_aug1.wav,70.0,M,Anterior Left (A L),pneumonia,12
+135_2b3_Ar_mc_LittC2SE_aug1.wav,70.0,M,Anterior Right (A R),pneumonia,12
+135_2b3_Pl_mc_LittC2SE_aug1.wav,70.0,M,Posterior Left (P L),pneumonia,12
+135_2b3_Pr_mc_LittC2SE_aug1.wav,70.0,M,Posterior Right (P R),pneumonia,12
+135_2b3_Tc_mc_LittC2SE_aug1.wav,70.0,M,Trachea (Tc),pneumonia,12
+137_1b1_Ar_sc_Meditron_aug1.wav,4.0,M,Anterior Right (A R),urti,13
+137_1b1_Ar_sc_Meditron_aug2.wav,4.0,M,Anterior Right (A R),urti,13
+137_1b1_Ar_sc_Meditron_aug3.wav,4.0,M,Anterior Right (A R),urti,13
+137_1b1_Ar_sc_Meditron_aug4.wav,4.0,M,Anterior Right (A R),urti,13
+137_1b1_Ll_sc_Meditron_aug1.wav,4.0,M,Lateral Left (L L),urti,13
+137_1b1_Ll_sc_Meditron_aug2.wav,4.0,M,Lateral Left (L L),urti,13
+137_1b1_Ll_sc_Meditron_aug3.wav,4.0,M,Lateral Left (L L),urti,13
+137_1b1_Ll_sc_Meditron_aug4.wav,4.0,M,Lateral Left (L L),urti,13
+140_2b2_Ll_mc_LittC2SE_aug1.wav,79.0,F,Lateral Left (L L),pneumonia,12
+140_2b2_Tc_mc_LittC2SE_aug1.wav,79.0,F,Trachea (Tc),pneumonia,12
+140_2b3_Ll_mc_LittC2SE_aug1.wav,79.0,F,Lateral Left (L L),pneumonia,12
+140_2b3_Tc_mc_LittC2SE_aug1.wav,79.0,F,Trachea (Tc),pneumonia,12
+148_1b1_Al_sc_Meditron_aug1.wav,4.0,M,Anterior Left (A L),urti,13
+148_1b1_Al_sc_Meditron_aug2.wav,4.0,M,Anterior Left (A L),urti,13
+148_1b1_Al_sc_Meditron_aug3.wav,4.0,M,Anterior Left (A L),urti,13
+148_1b1_Al_sc_Meditron_aug4.wav,4.0,M,Anterior Left (A L),urti,13
+149_1b1_Al_sc_Meditron_aug1.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Al_sc_Meditron_aug2.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Al_sc_Meditron_aug3.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Al_sc_Meditron_aug4.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Al_sc_Meditron_aug5.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Al_sc_Meditron_aug6.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Al_sc_Meditron_aug7.wav,0.67,M,Anterior Left (A L),bronchiolitis,3
+149_1b1_Lr_sc_Meditron_aug1.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Lr_sc_Meditron_aug2.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Lr_sc_Meditron_aug3.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Lr_sc_Meditron_aug4.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Lr_sc_Meditron_aug5.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Lr_sc_Meditron_aug6.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Lr_sc_Meditron_aug7.wav,0.67,M,Lateral Right (L R),bronchiolitis,3
+149_1b1_Pl_sc_Meditron_aug1.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+149_1b1_Pl_sc_Meditron_aug2.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+149_1b1_Pl_sc_Meditron_aug3.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+149_1b1_Pl_sc_Meditron_aug4.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+149_1b1_Pl_sc_Meditron_aug5.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+149_1b1_Pl_sc_Meditron_aug6.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+149_1b1_Pl_sc_Meditron_aug7.wav,0.67,M,Posterior Left (P L),bronchiolitis,3
+150_1b2_Al_sc_Meditron_aug1.wav,0.67,F,Anterior Left (A L),urti,13
+150_1b2_Al_sc_Meditron_aug2.wav,0.67,F,Anterior Left (A L),urti,13
+150_1b2_Al_sc_Meditron_aug3.wav,0.67,F,Anterior Left (A L),urti,13
+150_1b2_Al_sc_Meditron_aug4.wav,0.67,F,Anterior Left (A L),urti,13
+161_1b1_Al_sc_Meditron_aug1.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Al_sc_Meditron_aug2.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Al_sc_Meditron_aug3.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Al_sc_Meditron_aug4.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Al_sc_Meditron_aug5.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Al_sc_Meditron_aug6.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Al_sc_Meditron_aug7.wav,2.0,F,Anterior Left (A L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron_aug1.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron_aug2.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron_aug3.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron_aug4.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron_aug5.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron_aug6.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+161_1b1_Pl_sc_Meditron_aug7.wav,2.0,F,Posterior Left (P L),bronchiolitis,3
+164_1b1_Ll_sc_Meditron_aug1.wav,1.0,M,Lateral Left (L L),urti,13
+164_1b1_Ll_sc_Meditron_aug2.wav,1.0,M,Lateral Left (L L),urti,13
+164_1b1_Ll_sc_Meditron_aug3.wav,1.0,M,Lateral Left (L L),urti,13
+164_1b1_Ll_sc_Meditron_aug4.wav,1.0,M,Lateral Left (L L),urti,13
+165_1b1_Ar_sc_Meditron_aug1.wav,2.0,F,Anterior Right (A R),urti,13
+165_1b1_Ar_sc_Meditron_aug2.wav,2.0,F,Anterior Right (A R),urti,13
+165_1b1_Ar_sc_Meditron_aug3.wav,2.0,F,Anterior Right (A R),urti,13
+165_1b1_Ar_sc_Meditron_aug4.wav,2.0,F,Anterior Right (A R),urti,13
+165_1b1_Pl_sc_Meditron_aug1.wav,2.0,F,Posterior Left (P L),urti,13
+165_1b1_Pl_sc_Meditron_aug2.wav,2.0,F,Posterior Left (P L),urti,13
+165_1b1_Pl_sc_Meditron_aug3.wav,2.0,F,Posterior Left (P L),urti,13
+165_1b1_Pl_sc_Meditron_aug4.wav,2.0,F,Posterior Left (P L),urti,13
+165_1b1_Pr_sc_Meditron_aug1.wav,2.0,F,Posterior Right (P R),urti,13
+165_1b1_Pr_sc_Meditron_aug2.wav,2.0,F,Posterior Right (P R),urti,13
+165_1b1_Pr_sc_Meditron_aug3.wav,2.0,F,Posterior Right (P R),urti,13
+165_1b1_Pr_sc_Meditron_aug4.wav,2.0,F,Posterior Right (P R),urti,13
+167_1b1_Al_sc_Meditron_aug1.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Al_sc_Meditron_aug2.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Al_sc_Meditron_aug3.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Al_sc_Meditron_aug4.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Al_sc_Meditron_aug5.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Al_sc_Meditron_aug6.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Al_sc_Meditron_aug7.wav,1.0,F,Anterior Left (A L),bronchiolitis,3
+167_1b1_Pr_sc_Meditron_aug1.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+167_1b1_Pr_sc_Meditron_aug2.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+167_1b1_Pr_sc_Meditron_aug3.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+167_1b1_Pr_sc_Meditron_aug4.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+167_1b1_Pr_sc_Meditron_aug5.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+167_1b1_Pr_sc_Meditron_aug6.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+167_1b1_Pr_sc_Meditron_aug7.wav,1.0,F,Posterior Right (P R),bronchiolitis,3
+168_1b1_Al_sc_Meditron_aug1.wav,19.0,F,Anterior Left (A L),bronchiectasis,2
+168_1b1_Al_sc_Meditron_aug2.wav,19.0,F,Anterior Left (A L),bronchiectasis,2
+168_1b1_Al_sc_Meditron_aug3.wav,19.0,F,Anterior Left (A L),bronchiectasis,2
+168_1b1_Al_sc_Meditron_aug4.wav,19.0,F,Anterior Left (A L),bronchiectasis,2
+169_1b1_Lr_sc_Meditron_aug1.wav,50.0,F,Lateral Right (L R),bronchiectasis,2
+169_1b1_Lr_sc_Meditron_aug2.wav,50.0,F,Lateral Right (L R),bronchiectasis,2
+169_1b1_Lr_sc_Meditron_aug3.wav,50.0,F,Lateral Right (L R),bronchiectasis,2
+169_1b1_Lr_sc_Meditron_aug4.wav,50.0,F,Lateral Right (L R),bronchiectasis,2
+169_1b2_Ll_sc_Meditron_aug1.wav,50.0,F,Lateral Left (L L),bronchiectasis,2
+169_1b2_Ll_sc_Meditron_aug2.wav,50.0,F,Lateral Left (L L),bronchiectasis,2
+169_1b2_Ll_sc_Meditron_aug3.wav,50.0,F,Lateral Left (L L),bronchiectasis,2
+169_1b2_Ll_sc_Meditron_aug4.wav,50.0,F,Lateral Left (L L),bronchiectasis,2
+173_1b1_Al_sc_Meditron_aug1.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+173_1b1_Al_sc_Meditron_aug2.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+173_1b1_Al_sc_Meditron_aug3.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+173_1b1_Al_sc_Meditron_aug4.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+173_1b1_Al_sc_Meditron_aug5.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+173_1b1_Al_sc_Meditron_aug6.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+173_1b1_Al_sc_Meditron_aug7.wav,3.0,M,Anterior Left (A L),bronchiolitis,3
+188_1b1_Al_sc_Meditron_aug1.wav,3.0,M,Anterior Left (A L),urti,13
+188_1b1_Al_sc_Meditron_aug2.wav,3.0,M,Anterior Left (A L),urti,13
+188_1b1_Al_sc_Meditron_aug3.wav,3.0,M,Anterior Left (A L),urti,13
+188_1b1_Al_sc_Meditron_aug4.wav,3.0,M,Anterior Left (A L),urti,13
+188_1b1_Ar_sc_Meditron_aug1.wav,3.0,M,Anterior Right (A R),urti,13
+188_1b1_Ar_sc_Meditron_aug2.wav,3.0,M,Anterior Right (A R),urti,13
+188_1b1_Ar_sc_Meditron_aug3.wav,3.0,M,Anterior Right (A R),urti,13
+188_1b1_Ar_sc_Meditron_aug4.wav,3.0,M,Anterior Right (A R),urti,13
+188_1b1_Pl_sc_Meditron_aug1.wav,3.0,M,Posterior Left (P L),urti,13
+188_1b1_Pl_sc_Meditron_aug2.wav,3.0,M,Posterior Left (P L),urti,13
+188_1b1_Pl_sc_Meditron_aug3.wav,3.0,M,Posterior Left (P L),urti,13
+188_1b1_Pl_sc_Meditron_aug4.wav,3.0,M,Posterior Left (P L),urti,13
+188_1b1_Tc_sc_Meditron_aug1.wav,3.0,M,Trachea (Tc),urti,13
+188_1b1_Tc_sc_Meditron_aug2.wav,3.0,M,Trachea (Tc),urti,13
+188_1b1_Tc_sc_Meditron_aug3.wav,3.0,M,Trachea (Tc),urti,13
+188_1b1_Tc_sc_Meditron_aug4.wav,3.0,M,Trachea (Tc),urti,13
+190_1b1_Tc_sc_Meditron_aug1.wav,3.0,F,Trachea (Tc),urti,13
+190_1b1_Tc_sc_Meditron_aug2.wav,3.0,F,Trachea (Tc),urti,13
+190_1b1_Tc_sc_Meditron_aug3.wav,3.0,F,Trachea (Tc),urti,13
+190_1b1_Tc_sc_Meditron_aug4.wav,3.0,F,Trachea (Tc),urti,13
+191_2b1_Pl_mc_LittC2SE_aug1.wav,74.0,F,Posterior Left (P L),pneumonia,12
+191_2b1_Pr_mc_LittC2SE_aug1.wav,74.0,F,Posterior Right (P R),pneumonia,12
+191_2b2_Tc_mc_LittC2SE_aug1.wav,74.0,F,Trachea (Tc),pneumonia,12
+196_1b1_Pr_sc_Meditron_aug1.wav,21.0,F,Posterior Right (P R),bronchiectasis,2
+196_1b1_Pr_sc_Meditron_aug2.wav,21.0,F,Posterior Right (P R),bronchiectasis,2
+196_1b1_Pr_sc_Meditron_aug3.wav,21.0,F,Posterior Right (P R),bronchiectasis,2
+196_1b1_Pr_sc_Meditron_aug4.wav,21.0,F,Posterior Right (P R),bronchiectasis,2
+197_1b1_Al_sc_Meditron_aug1.wav,16.0,F,Anterior Left (A L),urti,13
+197_1b1_Al_sc_Meditron_aug2.wav,16.0,F,Anterior Left (A L),urti,13
+197_1b1_Al_sc_Meditron_aug3.wav,16.0,F,Anterior Left (A L),urti,13
+197_1b1_Al_sc_Meditron_aug4.wav,16.0,F,Anterior Left (A L),urti,13
+197_1b1_Tc_sc_Meditron_aug1.wav,16.0,F,Trachea (Tc),urti,13
+197_1b1_Tc_sc_Meditron_aug2.wav,16.0,F,Trachea (Tc),urti,13
+197_1b1_Tc_sc_Meditron_aug3.wav,16.0,F,Trachea (Tc),urti,13
+197_1b1_Tc_sc_Meditron_aug4.wav,16.0,F,Trachea (Tc),urti,13
+201_1b1_Al_sc_Meditron_aug1.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b1_Al_sc_Meditron_aug2.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b1_Al_sc_Meditron_aug3.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b1_Al_sc_Meditron_aug4.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b1_Ar_sc_Meditron_aug1.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b1_Ar_sc_Meditron_aug2.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b1_Ar_sc_Meditron_aug3.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b1_Ar_sc_Meditron_aug4.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b2_Al_sc_Meditron_aug1.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b2_Al_sc_Meditron_aug2.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b2_Al_sc_Meditron_aug3.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b2_Al_sc_Meditron_aug4.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b2_Ar_sc_Meditron_aug1.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b2_Ar_sc_Meditron_aug2.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b2_Ar_sc_Meditron_aug3.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b2_Ar_sc_Meditron_aug4.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b3_Al_sc_Meditron_aug1.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b3_Al_sc_Meditron_aug2.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b3_Al_sc_Meditron_aug3.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b3_Al_sc_Meditron_aug4.wav,73.0,F,Anterior Left (A L),bronchiectasis,2
+201_1b3_Ar_sc_Meditron_aug1.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b3_Ar_sc_Meditron_aug2.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b3_Ar_sc_Meditron_aug3.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+201_1b3_Ar_sc_Meditron_aug4.wav,73.0,F,Anterior Right (A R),bronchiectasis,2
+206_1b1_Ar_sc_Meditron_aug1.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Ar_sc_Meditron_aug2.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Ar_sc_Meditron_aug3.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Ar_sc_Meditron_aug4.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Ar_sc_Meditron_aug5.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Ar_sc_Meditron_aug6.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Ar_sc_Meditron_aug7.wav,3.0,M,Anterior Right (A R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron_aug1.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron_aug2.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron_aug3.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron_aug4.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron_aug5.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron_aug6.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Lr_sc_Meditron_aug7.wav,3.0,M,Lateral Right (L R),bronchiolitis,3
+206_1b1_Pl_sc_Meditron_aug1.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+206_1b1_Pl_sc_Meditron_aug2.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+206_1b1_Pl_sc_Meditron_aug3.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+206_1b1_Pl_sc_Meditron_aug4.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+206_1b1_Pl_sc_Meditron_aug5.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+206_1b1_Pl_sc_Meditron_aug6.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+206_1b1_Pl_sc_Meditron_aug7.wav,3.0,M,Posterior Left (P L),bronchiolitis,3
+210_1b1_Al_sc_Meditron_aug1.wav,1.0,F,Anterior Left (A L),urti,13
+210_1b1_Al_sc_Meditron_aug2.wav,1.0,F,Anterior Left (A L),urti,13
+210_1b1_Al_sc_Meditron_aug3.wav,1.0,F,Anterior Left (A L),urti,13
+210_1b1_Al_sc_Meditron_aug4.wav,1.0,F,Anterior Left (A L),urti,13
+210_1b1_Ar_sc_Meditron_aug1.wav,1.0,F,Anterior Right (A R),urti,13
+210_1b1_Ar_sc_Meditron_aug2.wav,1.0,F,Anterior Right (A R),urti,13
+210_1b1_Ar_sc_Meditron_aug3.wav,1.0,F,Anterior Right (A R),urti,13
+210_1b1_Ar_sc_Meditron_aug4.wav,1.0,F,Anterior Right (A R),urti,13
+215_1b2_Ar_sc_Meditron_aug1.wav,56.0,F,Anterior Right (A R),bronchiectasis,2
+215_1b2_Ar_sc_Meditron_aug2.wav,56.0,F,Anterior Right (A R),bronchiectasis,2
+215_1b2_Ar_sc_Meditron_aug3.wav,56.0,F,Anterior Right (A R),bronchiectasis,2
+215_1b2_Ar_sc_Meditron_aug4.wav,56.0,F,Anterior Right (A R),bronchiectasis,2
+215_1b3_Tc_sc_Meditron_aug1.wav,56.0,F,Trachea (Tc),bronchiectasis,2
+215_1b3_Tc_sc_Meditron_aug2.wav,56.0,F,Trachea (Tc),bronchiectasis,2
+215_1b3_Tc_sc_Meditron_aug3.wav,56.0,F,Trachea (Tc),bronchiectasis,2
+215_1b3_Tc_sc_Meditron_aug4.wav,56.0,F,Trachea (Tc),bronchiectasis,2
+216_1b1_Al_sc_Meditron_aug1.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Al_sc_Meditron_aug2.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Al_sc_Meditron_aug3.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Al_sc_Meditron_aug4.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Al_sc_Meditron_aug5.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Al_sc_Meditron_aug6.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Al_sc_Meditron_aug7.wav,1.0,M,Anterior Left (A L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron_aug1.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron_aug2.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron_aug3.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron_aug4.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron_aug5.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron_aug6.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+216_1b1_Pl_sc_Meditron_aug7.wav,1.0,M,Posterior Left (P L),bronchiolitis,3
+219_2b1_Ar_mc_LittC2SE_aug1.wav,81.0,M,Anterior Right (A R),pneumonia,12
+219_2b1_Tc_mc_LittC2SE_aug1.wav,81.0,M,Trachea (Tc),pneumonia,12
+219_2b2_Ar_mc_LittC2SE_aug1.wav,81.0,M,Anterior Right (A R),pneumonia,12
+219_2b2_Tc_mc_LittC2SE_aug1.wav,81.0,M,Trachea (Tc),pneumonia,12
+219_2b3_Tc_mc_LittC2SE_aug1.wav,81.0,M,Trachea (Tc),pneumonia,12
+226_1b1_Al_sc_Meditron_aug1.wav,4.0,M,Anterior Left (A L),pneumonia,12
+226_1b1_Ll_sc_Meditron_aug1.wav,4.0,M,Lateral Left (L L),pneumonia,12
+226_1b1_Pl_sc_LittC2SE_aug1.wav,4.0,M,Posterior Left (P L),pneumonia,12
+"BP101_Asthma,E W,P L M,12,F_aug1.wav",12.0,F,Posterior Left Middle (P L M),asthma,0
+"BP104_Asthma,E W,P L U,45,F_aug1.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug1.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug2.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug3.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug4.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug5.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug6.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug7.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP105_Lung Fibrosis,Crep,A U R,44,M_aug8.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"BP106_Asthma,E W,P L U,45,F_aug1.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"BP107_Asthma,E W,P L U,59,F_aug1.wav",59.0,F,Posterior Left Upper (P L U),asthma,0
+"BP10_Asthma,E W,P R U,59,M_aug1.wav",59.0,M,Posterior Right Upper (P R U),asthma,0
+"BP11_Heart Failure,C,P L L,53,M_aug1.wav",53.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP12_Asthma,E W,P L L,50,F_aug1.wav",50.0,F,Posterior Left Lower (P L L),asthma,0
+"BP13_Heart Failure,C,P L L,55,M_aug1.wav",55.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP14_Heart Failure,C,A R M,54,M_aug1.wav",54.0,M,Anterior Right Middle (A R M),heart failure,6
+"BP15_Asthma,E W,P R U,49,F_aug1.wav",49.0,F,Posterior Right Upper (P R U),asthma,0
+"BP16_heart failure,C,P R U,56,M_aug1.wav",56.0,M,Posterior Right Upper (P R U),heart failure,6
+"BP18_pneumonia,C,P R U,57,M_aug1.wav",57.0,M,Posterior Right Upper (P R U),pneumonia,12
+"BP19_heart failure,C,P R U,70,F_aug1.wav",70.0,F,Posterior Right Upper (P R U),heart failure,6
+"BP1_Asthma,I E W,P L L,70,M_aug1.wav",70.0,M,Posterior Left Lower (P L L),asthma,0
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug1.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug10.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug11.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug12.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug13.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug14.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug15.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug16.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug17.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug18.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug19.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug2.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug20.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug21.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug22.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug23.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug24.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug25.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug26.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug27.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug28.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug29.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug3.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug30.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug31.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug32.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug33.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug4.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug5.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug6.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug7.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug8.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP20_Asthma and lung fibrosis,C,A R M,90,M_aug9.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"BP21_BRON,Crep,P R L ,20,M_aug1.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"BP21_BRON,Crep,P R L ,20,M_aug2.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"BP21_BRON,Crep,P R L ,20,M_aug3.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"BP21_BRON,Crep,P R L ,20,M_aug4.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"BP22_BRON,Crep,P R U,24,M_aug1.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"BP22_BRON,Crep,P R U,24,M_aug2.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"BP22_BRON,Crep,P R U,24,M_aug3.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"BP22_BRON,Crep,P R U,24,M_aug4.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug1.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug2.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug3.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug4.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug5.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug6.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug7.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP23_Lung Fibrosis,Crep,P R L ,50,M_aug8.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"BP24_heart failure,Crep,P R L ,76,F_aug1.wav",76.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP26_Lung Fibrosis,Crep,P,90,F_aug1.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP26_Lung Fibrosis,Crep,P,90,F_aug2.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP26_Lung Fibrosis,Crep,P,90,F_aug3.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP26_Lung Fibrosis,Crep,P,90,F_aug4.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP26_Lung Fibrosis,Crep,P,90,F_aug5.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP26_Lung Fibrosis,Crep,P,90,F_aug6.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP26_Lung Fibrosis,Crep,P,90,F_aug7.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP26_Lung Fibrosis,Crep,P,90,F_aug8.wav",90.0,F,Posterior (P),lung fibrosis,10
+"BP27_asthma,E W,P R M,53,F_aug1.wav",53.0,F,Posterior Right Middle (P R M),asthma,0
+"BP28_BRON,Crep,P L U,68,F_aug1.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"BP28_BRON,Crep,P L U,68,F_aug2.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"BP28_BRON,Crep,P L U,68,F_aug3.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"BP28_BRON,Crep,P L U,68,F_aug4.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"BP29_heart failure,Crep,P L L,57,M_aug1.wav",57.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP2_Asthma,E W,P L L R,52,F_aug1.wav",52.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"BP33_Asthma,E W,P R M,43,F_aug1.wav",43.0,F,Posterior Right Middle (P R M),asthma,0
+"BP34_heart failure,Crep,P R M,78,F_aug1.wav",78.0,F,Posterior Right Middle (P R M),heart failure,6
+"BP35_Asthma,E W,A R L,38,M_aug1.wav",38.0,M,Anterior Right Lower (A R L),asthma,0
+"BP36_pneumonia,Crep,P R M,36,F_aug1.wav",36.0,F,Posterior Right Middle (P R M),pneumonia,12
+"BP37_pneumonia,Crep,A R L,70,F_aug1.wav",70.0,F,Anterior Right Lower (A R L),pneumonia,12
+"BP38_Asthma,E W,P R M,38,M_aug1.wav",38.0,M,Posterior Right Middle (P R M),asthma,0
+"BP39_heart failure,Crep,P R L ,67,M_aug1.wav",67.0,M,Posterior Right Lower (P R L),heart failure,6
+"BP3_Asthma,I E W,P L L R,50,F_aug1.wav",50.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"BP40_heart failure,Crep,A R M,26,M_aug1.wav",26.0,M,Anterior Right Middle (A R M),heart failure,6
+"BP41_pneumonia,Crep,P R M,51,M_aug1.wav",51.0,M,Posterior Right Middle (P R M),pneumonia,12
+"BP42_heart failure,Crep,P L L,56,M_aug1.wav",56.0,M,Posterior Left Lower (P L L),heart failure,6
+"BP43_asthma,E W,P L M,15,M_aug1.wav",15.0,M,Posterior Left Middle (P L M),asthma,0
+"BP44_asthma,E W,P R U,40,M_aug1.wav",40.0,M,Posterior Right Upper (P R U),asthma,0
+"BP45_heart failure,Crep,P R L ,30,M_aug1.wav",30.0,M,Posterior Right Lower (P R L),heart failure,6
+"BP46_asthma,E W,P L U,41,F_aug1.wav",41.0,F,Posterior Left Upper (P L U),asthma,0
+"BP47_asthma,E W,P L M,60,M_aug1.wav",60.0,M,Posterior Left Middle (P L M),asthma,0
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug1.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug10.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug11.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug12.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug13.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug14.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug15.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug16.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug17.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug18.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug19.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug2.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug20.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug21.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug22.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug23.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug24.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug25.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug26.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug27.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug28.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug29.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug3.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug30.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug31.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug32.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug33.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug4.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug5.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug6.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug7.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug8.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug9.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug1.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug2.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug3.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug4.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug5.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug6.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug7.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP52_Lung Fibrosis,Crep,P L L,76,F_aug8.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"BP53_asthma,E W,P R M,72,F_aug1.wav",72.0,F,Posterior Right Middle (P R M),asthma,0
+"BP54_heart failure,Crep,P R L ,73,F_aug1.wav",73.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP55_asthma,E W,P R U,72,F_aug1.wav",72.0,F,Posterior Right Upper (P R U),asthma,0
+"BP56_asthma,E W,P R M,56,F_aug1.wav",56.0,F,Posterior Right Middle (P R M),asthma,0
+"BP58_asthma,E W,P L M,40,M_aug1.wav",40.0,M,Posterior Left Middle (P L M),asthma,0
+"BP59_heart failure,Crep,P R L ,83,F_aug1.wav",83.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug1.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug10.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug11.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug12.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug13.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug14.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug15.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug16.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug2.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug3.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug4.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug5.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug6.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug7.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug8.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug9.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP60_heart failure,Crep,P L L,83,F_aug1.wav",83.0,F,Posterior Left Lower (P L L),heart failure,6
+"BP64_asthma,E W,P L U,60,M_aug1.wav",60.0,M,Posterior Left Upper (P L U),asthma,0
+"BP65_asthma,E W,P R L ,60,F_aug1.wav",60.0,F,Posterior Right Lower (P R L),asthma,0
+"BP66_heart failure,Crep,P R L ,43,M_aug1.wav",43.0,M,Posterior Right Lower (P R L),heart failure,6
+"BP67_heart failure,Crep,P R L ,24,F_aug1.wav",24.0,F,Posterior Right Lower (P R L),heart failure,6
+"BP68_asthma,E W,P R L ,21,F_aug1.wav",21.0,F,Posterior Right Lower (P R L),asthma,0
+"BP69_pneumonia,Bronchial,P R L ,64,M_aug1.wav",64.0,M,Posterior Right Lower (P R L),pneumonia,12
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug1.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug10.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug11.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug12.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug13.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug14.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug15.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug16.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug2.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug3.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug4.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug5.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug6.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug7.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug8.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP6_Plueral Effusion,I C B,P L R,81,M_aug9.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"BP77_Asthma,E W,A R L,40,M_aug1.wav",40.0,M,Anterior Right Lower (A R L),asthma,0
+"BP78_Asthma,E W,P R M,20,M_aug1.wav",20.0,M,Posterior Right Middle (P R M),asthma,0
+"BP79_asthma,E W,A R U,46,M_aug1.wav",46.0,M,Anterior Right Upper (A R U),asthma,0
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug1.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug10.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug11.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug12.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug13.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug14.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug15.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug16.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug2.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug3.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug4.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug5.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug6.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug7.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug8.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP7_Heart Failure + COPD,I C E W,P L R,65,M_aug9.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"BP80_asthma,E W,A L U,38,M_aug1.wav",38.0,M,Anterior Left Upper (A L U),asthma,0
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug1.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug10.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug11.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug12.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug13.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug14.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug15.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug16.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug2.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug3.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug4.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug5.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug6.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug7.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug8.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP8_Plueral Effusion,I C B,P L L,70,M_aug9.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"BP90_heart failure,Crep,P L M,74,F_aug1.wav",74.0,F,Posterior Left Middle (P L M),heart failure,6
+"BP91_asthma,E W,P R U,43,F_aug1.wav",43.0,F,Posterior Right Upper (P R U),asthma,0
+"BP97_Asthma,E W,P R U,24,M_aug1.wav",24.0,M,Posterior Right Upper (P R U),asthma,0
+"BP9_Asthma,E W,P R L ,59,M_aug1.wav",59.0,M,Posterior Right Lower (P R L),asthma,0
+"DP101_Asthma,E W,P L M,12,F_aug1.wav",12.0,F,Posterior Left Middle (P L M),asthma,0
+"DP104_Asthma,E W,P L U,45,F_aug1.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug1.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug2.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug3.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug4.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug5.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug6.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug7.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP105_Lung Fibrosis,Crep,A U R,44,M_aug8.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"DP106_Asthma,E W,P L U,45,F_aug1.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"DP107_Asthma,E W,P L U,59,F_aug1.wav",59.0,F,Posterior Left Upper (P L U),asthma,0
+"DP10_Asthma,E W,P R U,59,M_aug1.wav",59.0,M,Posterior Right Upper (P R U),asthma,0
+"DP11_Heart Failure,C,P L L,53,M_aug1.wav",53.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP12_Asthma,E W,P L L,50,F_aug1.wav",50.0,F,Posterior Left Lower (P L L),asthma,0
+"DP13_Heart Failure,C,P L L,55,M_aug1.wav",55.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP14_Heart Failure,C,A R M,54,M_aug1.wav",54.0,M,Anterior Right Middle (A R M),heart failure,6
+"DP15_Asthma,E W,P R U,49,F_aug1.wav",49.0,F,Posterior Right Upper (P R U),asthma,0
+"DP16_heart failure,C,P R U,56,M_aug1.wav",56.0,M,Posterior Right Upper (P R U),heart failure,6
+"DP18_pneumonia,C,P R U,57,M_aug1.wav",57.0,M,Posterior Right Upper (P R U),pneumonia,12
+"DP19_heart failure,C,P R U,70,F_aug1.wav",70.0,F,Posterior Right Upper (P R U),heart failure,6
+"DP1_Asthma,I E W,P L L,70,M_aug1.wav",70.0,M,Posterior Left Lower (P L L),asthma,0
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug1.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug10.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug11.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug12.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug13.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug14.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug15.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug16.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug17.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug18.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug19.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug2.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug20.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug21.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug22.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug23.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug24.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug25.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug26.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug27.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug28.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug29.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug3.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug30.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug31.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug32.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug33.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug4.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug5.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug6.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug7.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug8.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP20_Asthma and lung fibrosis,C,A R M,90,M_aug9.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"DP21_BRON,Crep,P R L ,20,M_aug1.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"DP21_BRON,Crep,P R L ,20,M_aug2.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"DP21_BRON,Crep,P R L ,20,M_aug3.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"DP21_BRON,Crep,P R L ,20,M_aug4.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"DP22_BRON,Crep,P R U,24,M_aug1.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"DP22_BRON,Crep,P R U,24,M_aug2.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"DP22_BRON,Crep,P R U,24,M_aug3.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"DP22_BRON,Crep,P R U,24,M_aug4.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug1.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug2.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug3.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug4.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug5.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug6.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug7.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP23_Lung Fibrosis,Crep,P R L ,50,M_aug8.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"DP24_heart failure,Crep,P R L ,76,F_aug1.wav",76.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP26_Lung Fibrosis,Crep,P,90,F_aug1.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP26_Lung Fibrosis,Crep,P,90,F_aug2.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP26_Lung Fibrosis,Crep,P,90,F_aug3.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP26_Lung Fibrosis,Crep,P,90,F_aug4.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP26_Lung Fibrosis,Crep,P,90,F_aug5.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP26_Lung Fibrosis,Crep,P,90,F_aug6.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP26_Lung Fibrosis,Crep,P,90,F_aug7.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP26_Lung Fibrosis,Crep,P,90,F_aug8.wav",90.0,F,Posterior (P),lung fibrosis,10
+"DP27_asthma,E W,P R M,53,F_aug1.wav",53.0,F,Posterior Right Middle (P R M),asthma,0
+"DP28_BRON,Crep,P L U,68,F_aug1.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"DP28_BRON,Crep,P L U,68,F_aug2.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"DP28_BRON,Crep,P L U,68,F_aug3.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"DP28_BRON,Crep,P L U,68,F_aug4.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"DP29_heart failure,Crep,P L L,57,M_aug1.wav",57.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP2_Asthma,E W,P L L R,52,F_aug1.wav",52.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"DP33_Asthma,E W,P R M,43,F_aug1.wav",43.0,F,Posterior Right Middle (P R M),asthma,0
+"DP34_heart failure,Crep,P R M,78,F_aug1.wav",78.0,F,Posterior Right Middle (P R M),heart failure,6
+"DP35_Asthma,E W,A R L,38,M_aug1.wav",38.0,M,Anterior Right Lower (A R L),asthma,0
+"DP36_pneumonia,Crep,P R M,36,F_aug1.wav",36.0,F,Posterior Right Middle (P R M),pneumonia,12
+"DP37_pneumonia,Crep,A R L,70,F_aug1.wav",70.0,F,Anterior Right Lower (A R L),pneumonia,12
+"DP38_Asthma,E W,P R M,38,M_aug1.wav",38.0,M,Posterior Right Middle (P R M),asthma,0
+"DP39_heart failure,Crep,P R L ,67,M_aug1.wav",67.0,M,Posterior Right Lower (P R L),heart failure,6
+"DP3_Asthma,I E W,P L L R,50,F_aug1.wav",50.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"DP40_heart failure,Crep,A R M,26,M_aug1.wav",26.0,M,Anterior Right Middle (A R M),heart failure,6
+"DP41_pneumonia,Crep,P R M,51,M_aug1.wav",51.0,M,Posterior Right Middle (P R M),pneumonia,12
+"DP42_heart failure,Crep,P L L,56,M_aug1.wav",56.0,M,Posterior Left Lower (P L L),heart failure,6
+"DP43_asthma,E W,P L M,15,M_aug1.wav",15.0,M,Posterior Left Middle (P L M),asthma,0
+"DP44_asthma,E W,P R U,40,M_aug1.wav",40.0,M,Posterior Right Upper (P R U),asthma,0
+"DP45_heart failure,Crep,P R L ,30,M_aug1.wav",30.0,M,Posterior Right Lower (P R L),heart failure,6
+"DP46_asthma,E W,P L U,41,F_aug1.wav",41.0,F,Posterior Left Upper (P L U),asthma,0
+"DP47_asthma,E W,P L M,60,M_aug1.wav",60.0,M,Posterior Left Middle (P L M),asthma,0
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug1.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug10.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug11.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug12.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug13.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug14.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug15.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug16.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug17.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug18.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug19.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug2.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug20.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug21.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug22.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug23.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug24.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug25.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug26.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug27.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug28.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug29.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug3.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug30.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug31.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug32.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug33.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug4.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug5.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug6.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug7.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug8.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug9.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug1.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug2.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug3.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug4.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug5.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug6.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug7.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP52_Lung Fibrosis,Crep,P L L,76,F_aug8.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"DP53_asthma,E W,P R M,72,F_aug1.wav",72.0,F,Posterior Right Middle (P R M),asthma,0
+"DP54_heart failure,Crep,P R L ,73,F_aug1.wav",73.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP55_asthma,E W,P R U,72,F_aug1.wav",72.0,F,Posterior Right Upper (P R U),asthma,0
+"DP56_asthma,E W,P R M,56,F_aug1.wav",56.0,F,Posterior Right Middle (P R M),asthma,0
+"DP58_asthma,E W,P L M,40,M_aug1.wav",40.0,M,Posterior Left Middle (P L M),asthma,0
+"DP59_heart failure,Crep,P R L ,83,F_aug1.wav",83.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug1.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug10.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug11.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug12.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug13.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug14.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug15.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug16.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug2.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug3.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug4.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug5.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug6.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug7.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug8.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug9.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP60_heart failure,Crep,P L L,83,F_aug1.wav",83.0,F,Posterior Left Lower (P L L),heart failure,6
+"DP64_asthma,E W,P L U,60,M_aug1.wav",60.0,M,Posterior Left Upper (P L U),asthma,0
+"DP65_asthma,E W,P R L ,60,F_aug1.wav",60.0,F,Posterior Right Lower (P R L),asthma,0
+"DP66_heart failure,Crep,P R L ,43,M_aug1.wav",43.0,M,Posterior Right Lower (P R L),heart failure,6
+"DP67_heart failure,Crep,P R L ,24,F_aug1.wav",24.0,F,Posterior Right Lower (P R L),heart failure,6
+"DP68_asthma,E W,P R L ,21,F_aug1.wav",21.0,F,Posterior Right Lower (P R L),asthma,0
+"DP69_pneumonia,Bronchial,P R L ,64,M_aug1.wav",64.0,M,Posterior Right Lower (P R L),pneumonia,12
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug1.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug10.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug11.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug12.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug13.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug14.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug15.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug16.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug2.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug3.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug4.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug5.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug6.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug7.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug8.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP6_Plueral Effusion,I C B,P L R,81,M_aug9.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"DP77_Asthma,E W,A R L,40,M_aug1.wav",40.0,M,Anterior Right Lower (A R L),asthma,0
+"DP78_Asthma,E W,P R M,20,M_aug1.wav",20.0,M,Posterior Right Middle (P R M),asthma,0
+"DP79_asthma,E W,A R U,46,M_aug1.wav",46.0,M,Anterior Right Upper (A R U),asthma,0
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug1.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug10.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug11.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug12.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug13.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug14.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug15.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug16.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug2.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug3.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug4.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug5.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug6.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug7.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug8.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP7_Heart Failure + COPD,I C E W,P L R,65,M_aug9.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"DP80_asthma,E W,A L U,38,M_aug1.wav",38.0,M,Anterior Left Upper (A L U),asthma,0
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug1.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug10.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug11.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug12.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug13.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug14.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug15.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug16.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug2.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug3.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug4.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug5.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug6.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug7.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug8.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP8_Plueral Effusion,I C B,P L L,70,M_aug9.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"DP90_heart failure,Crep,P L M,74,F_aug1.wav",74.0,F,Posterior Left Middle (P L M),heart failure,6
+"DP91_asthma,E W,P R U,43,F_aug1.wav",43.0,F,Posterior Right Upper (P R U),asthma,0
+"DP97_Asthma,E W,P R U,24,M_aug1.wav",24.0,M,Posterior Right Upper (P R U),asthma,0
+"DP9_Asthma,E W,P R L ,59,M_aug1.wav",59.0,M,Posterior Right Lower (P R L),asthma,0
+"EP101_Asthma,E W,P L M,12,F_aug1.wav",12.0,F,Posterior Left Middle (P L M),asthma,0
+"EP104_Asthma,E W,P L U,45,F_aug1.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug1.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug2.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug3.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug4.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug5.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug6.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug7.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP105_Lung Fibrosis,Crep,A U R,44,M_aug8.wav",44.0,M,Anterior Upper Right (A U R),lung fibrosis,10
+"EP106_Asthma,E W,P L U,45,F_aug1.wav",45.0,F,Posterior Left Upper (P L U),asthma,0
+"EP107_Asthma,E W,P L U,59,F_aug1.wav",59.0,F,Posterior Left Upper (P L U),asthma,0
+"EP10_Asthma,E W,P R U,59,M_aug1.wav",59.0,M,Posterior Right Upper (P R U),asthma,0
+"EP11_Heart Failure,C,P L L,53,M_aug1.wav",53.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP12_Asthma,E W,P L L,50,F_aug1.wav",50.0,F,Posterior Left Lower (P L L),asthma,0
+"EP13_Heart Failure,C,P L L,55,M_aug1.wav",55.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP14_Heart Failure,C,A R M,54,M_aug1.wav",54.0,M,Anterior Right Middle (A R M),heart failure,6
+"EP15_Asthma,E W,P R U,49,F_aug1.wav",49.0,F,Posterior Right Upper (P R U),asthma,0
+"EP16_heart failure,C,P R U,56,M_aug1.wav",56.0,M,Posterior Right Upper (P R U),heart failure,6
+"EP18_pneumonia,C,P R U,57,M_aug1.wav",57.0,M,Posterior Right Upper (P R U),pneumonia,12
+"EP19_heart failure,C,P R U,70,F_aug1.wav",70.0,F,Posterior Right Upper (P R U),heart failure,6
+"EP1_Asthma,I E W,P L L,70,M_aug1.wav",70.0,M,Posterior Left Lower (P L L),asthma,0
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug1.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug10.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug11.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug12.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug13.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug14.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug15.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug16.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug17.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug18.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug19.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug2.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug20.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug21.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug22.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug23.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug24.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug25.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug26.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug27.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug28.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug29.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug3.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug30.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug31.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug32.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug33.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug4.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug5.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug6.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug7.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug8.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP20_Asthma and lung fibrosis,C,A R M,90,M_aug9.wav",90.0,M,Anterior Right Middle (A R M),asthma and lung fibrosis,1
+"EP21_BRON,Crep,P R L ,20,M_aug1.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"EP21_BRON,Crep,P R L ,20,M_aug2.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"EP21_BRON,Crep,P R L ,20,M_aug3.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"EP21_BRON,Crep,P R L ,20,M_aug4.wav",20.0,M,Posterior Right Lower (P R L),bronchiectasis,2
+"EP22_BRON,Crep,P R U,24,M_aug1.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"EP22_BRON,Crep,P R U,24,M_aug2.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"EP22_BRON,Crep,P R U,24,M_aug3.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"EP22_BRON,Crep,P R U,24,M_aug4.wav",24.0,M,Posterior Right Upper (P R U),bronchiectasis,2
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug1.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug2.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug3.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug4.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug5.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug6.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug7.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP23_Lung Fibrosis,Crep,P R L ,50,M_aug8.wav",50.0,M,Posterior Right Lower (P R L),lung fibrosis,10
+"EP24_heart failure,Crep,P R L ,76,F_aug1.wav",76.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP26_Lung Fibrosis,Crep,P,90,F_aug1.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP26_Lung Fibrosis,Crep,P,90,F_aug2.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP26_Lung Fibrosis,Crep,P,90,F_aug3.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP26_Lung Fibrosis,Crep,P,90,F_aug4.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP26_Lung Fibrosis,Crep,P,90,F_aug5.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP26_Lung Fibrosis,Crep,P,90,F_aug6.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP26_Lung Fibrosis,Crep,P,90,F_aug7.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP26_Lung Fibrosis,Crep,P,90,F_aug8.wav",90.0,F,Posterior (P),lung fibrosis,10
+"EP27_asthma,E W,P R M,53,F_aug1.wav",53.0,F,Posterior Right Middle (P R M),asthma,0
+"EP28_BRON,Crep,P L U,68,F_aug1.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"EP28_BRON,Crep,P L U,68,F_aug2.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"EP28_BRON,Crep,P L U,68,F_aug3.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"EP28_BRON,Crep,P L U,68,F_aug4.wav",68.0,F,Posterior Left Upper (P L U),bronchiectasis,2
+"EP29_heart failure,Crep,P L L,57,M_aug1.wav",57.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP2_Asthma,E W,P L L R,52,F_aug1.wav",52.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"EP33_Asthma,E W,P R M,43,F_aug1.wav",43.0,F,Posterior Right Middle (P R M),asthma,0
+"EP34_heart failure,Crep,P R M,78,F_aug1.wav",78.0,F,Posterior Right Middle (P R M),heart failure,6
+"EP35_Asthma,E W,A R L,38,M_aug1.wav",38.0,M,Anterior Right Lower (A R L),asthma,0
+"EP36_pneumonia,Crep,P R M,36,F_aug1.wav",36.0,F,Posterior Right Middle (P R M),pneumonia,12
+"EP37_pneumonia,Crep,A R L,70,F_aug1.wav",70.0,F,Anterior Right Lower (A R L),pneumonia,12
+"EP38_Asthma,E W,P R M,38,M_aug1.wav",38.0,M,Posterior Right Middle (P R M),asthma,0
+"EP39_heart failure,Crep,P R L ,67,M_aug1.wav",67.0,M,Posterior Right Lower (P R L),heart failure,6
+"EP3_Asthma,I E W,P L L R,50,F_aug1.wav",50.0,F,Posterior Left Lower & Right (P L L & P R),asthma,0
+"EP40_heart failure,Crep,A R M,26,M_aug1.wav",26.0,M,Anterior Right Middle (A R M),heart failure,6
+"EP41_pneumonia,Crep,P R M,51,M_aug1.wav",51.0,M,Posterior Right Middle (P R M),pneumonia,12
+"EP42_heart failure,Crep,P L L,56,M_aug1.wav",56.0,M,Posterior Left Lower (P L L),heart failure,6
+"EP43_asthma,E W,P L M,15,M_aug1.wav",15.0,M,Posterior Left Middle (P L M),asthma,0
+"EP44_asthma,E W,P R U,40,M_aug1.wav",40.0,M,Posterior Right Upper (P R U),asthma,0
+"EP45_heart failure,Crep,P R L ,30,M_aug1.wav",30.0,M,Posterior Right Lower (P R L),heart failure,6
+"EP46_asthma,E W,P L U,41,F_aug1.wav",41.0,F,Posterior Left Upper (P L U),asthma,0
+"EP47_asthma,E W,P L M,60,M_aug1.wav",60.0,M,Posterior Left Middle (P L M),asthma,0
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug1.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug10.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug11.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug12.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug13.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug14.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug15.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug16.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug17.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug18.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug19.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug2.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug20.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug21.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug22.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug23.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug24.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug25.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug26.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug27.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug28.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug29.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug3.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug30.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug31.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug32.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug33.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug4.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug5.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug6.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug7.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug8.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP4_Heart Failure + Lung Fibrosis ,I C,P L R,72,F_aug9.wav",72.0,F,Posterior Left Right (P L & P R),heart failure + lung fibrosis ,8
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug1.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug2.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug3.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug4.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug5.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug6.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug7.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP52_Lung Fibrosis,Crep,P L L,76,F_aug8.wav",76.0,F,Posterior Left Lower (P L L),lung fibrosis,10
+"EP53_asthma,E W,P R M,72,F_aug1.wav",72.0,F,Posterior Right Middle (P R M),asthma,0
+"EP54_heart failure,Crep,P R L ,73,F_aug1.wav",73.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP55_asthma,E W,P R U,72,F_aug1.wav",72.0,F,Posterior Right Upper (P R U),asthma,0
+"EP56_asthma,E W,P R M,56,F_aug1.wav",56.0,F,Posterior Right Middle (P R M),asthma,0
+"EP58_asthma,E W,P L M,40,M_aug1.wav",40.0,M,Posterior Left Middle (P L M),asthma,0
+"EP59_heart failure,Crep,P R L ,83,F_aug1.wav",83.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug1.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug10.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug11.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug12.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug13.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug14.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug15.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug16.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug2.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug3.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug4.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug5.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug6.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug7.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug8.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP5_Heart Failure + COPD,I C E W,P L R ,71,M_aug9.wav",71.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP60_heart failure,Crep,P L L,83,F_aug1.wav",83.0,F,Posterior Left Lower (P L L),heart failure,6
+"EP64_asthma,E W,P L U,60,M_aug1.wav",60.0,M,Posterior Left Upper (P L U),asthma,0
+"EP65_asthma,E W,P R L ,60,F_aug1.wav",60.0,F,Posterior Right Lower (P R L),asthma,0
+"EP66_heart failure,Crep,P R L ,43,M_aug1.wav",43.0,M,Posterior Right Lower (P R L),heart failure,6
+"EP67_heart failure,Crep,P R L ,24,F_aug1.wav",24.0,F,Posterior Right Lower (P R L),heart failure,6
+"EP68_asthma,E W,P R L ,21,F_aug1.wav",21.0,F,Posterior Right Lower (P R L),asthma,0
+"EP69_pneumonia,Bronchial,P R L ,64,M_aug1.wav",64.0,M,Posterior Right Lower (P R L),pneumonia,12
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug1.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug10.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug11.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug12.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug13.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug14.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug15.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug16.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug2.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug3.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug4.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug5.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug6.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug7.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug8.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP6_Plueral Effusion,I C B,P L R,81,M_aug9.wav",81.0,M,Posterior Left Right (P L & P R),plueral effusion,11
+"EP77_Asthma,E W,A R L,40,M_aug1.wav",40.0,M,Anterior Right Lower (A R L),asthma,0
+"EP78_Asthma,E W,P R M,20,M_aug1.wav",20.0,M,Posterior Right Middle (P R M),asthma,0
+"EP79_asthma,E W,A R U,46,M_aug1.wav",46.0,M,Anterior Right Upper (A R U),asthma,0
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug1.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug10.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug11.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug12.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug13.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug14.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug15.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug16.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug2.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug3.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug4.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug5.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug6.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug7.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug8.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP7_Heart Failure + COPD,I C E W,P L R,65,M_aug9.wav",65.0,M,Posterior Left Right (P L & P R),heart failure + copd,7
+"EP80_asthma,E W,A L U,38,M_aug1.wav",38.0,M,Anterior Left Upper (A L U),asthma,0
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug1.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug10.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug11.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug12.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug13.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug14.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug15.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug16.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug2.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug3.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug4.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug5.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug6.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug7.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug8.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP8_Plueral Effusion,I C B,P L L,70,M_aug9.wav",70.0,M,Posterior Left Lower (P L L),plueral effusion,11
+"EP90_heart failure,Crep,P L M,74,F_aug1.wav",74.0,F,Posterior Left Middle (P L M),heart failure,6
+"EP91_asthma,E W,P R U,43,F_aug1.wav",43.0,F,Posterior Right Upper (P R U),asthma,0
+"EP97_Asthma,E W,P R U,24,M_aug1.wav",24.0,M,Posterior Right Upper (P R U),asthma,0
+"EP9_Asthma,E W,P R L ,59,M_aug1.wav",59.0,M,Posterior Right Lower (P R L),asthma,0

@@ -6,14 +6,20 @@ const Prediction = new mongoose.Schema({
   name: String,
   age: Number,
   gender: String,
-  chestLocation: String,
+  chest_location: String,
   filename: String,
-  predictions: Object,
+  predictions: [
+    {
+      label: String,
+      confidence: Number,
+    },
+  ],
   createdAt: {
     type: Date,
     default: Date.now,
   },
 });
+
 
 const Predicter = mongoose.model("Prediction", Prediction);
 

@@ -1,96 +1,115 @@
-from fastapi import FastAPI, UploadFile, File
-import uvicorn
+from fastapi import FastAPI, File, UploadFile, Form
+from fastapi.responses import JSONResponse
 import numpy as np
-import pywt
-from tensorflow.keras.models import load_model
+import pandas as pd
 import librosa
-import io
-import soundfile as sf
-from scipy.signal import butter, lfilter
+import tensorflow as tf
+import os
+import uvicorn
+from sklearn.preprocessing import MinMaxScaler
 
+# Load model
+model = tf.keras.models.load_model("biosonic_balanced_model.h5") 
+
+# Load and clean metadata
+metadata = pd.read_csv("metadata_balanced.csv")
+metadata.columns = [col.strip().lower() for col in metadata.columns]  # Normalize column names
+
+# Encoding mappings
+chest_locations = sorted(metadata["chest location"].dropna().unique())
+genders = sorted(metadata["gender"].dropna().unique())
+diagnosis_labels = metadata[['encoded_diagnosis', 'diagnosis']].drop_duplicates()
+label_map = dict(zip(diagnosis_labels['encoded_diagnosis'], diagnosis_labels['diagnosis']))
+
+# Input shape
+MFCC_SHAPE = (100, 13)
+
+# FastAPI app
 app = FastAPI()
 
-# Load model and labels
-model = load_model("biosonic_augmented_model.h5")
-DISEASE_LABELS = [
-    "asthma", "asthma + lung fibrosis", "bronchiectasis", "bronchiolitis", "copd",
-    "healthy", "heart failure", "heart failure + copd", "heart failure + lung fibrosis",
-    "lrti", "lung fibrosis", "pleural effusion", "pneumonia", "urti"
-]
+# 🎧 Preprocess audio
+def preprocess_audio(file_path):
+    y, sr = librosa.load(file_path, sr=4000)
+    mfcc = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=13).T
+    mfcc = mfcc[:MFCC_SHAPE[0]]
+    if mfcc.shape[0] < MFCC_SHAPE[0]:
+        pad = np.zeros((MFCC_SHAPE[0] - mfcc.shape[0], 13))
+        mfcc = np.vstack([mfcc, pad])
+    return mfcc.astype(np.float32)
 
-# Wavelet Denoising
-def wavelet_denoise(y, wavelet='db8', level=1):
-    coeffs = pywt.wavedec(y, wavelet, mode="per")
-    sigma = np.median(np.abs(coeffs[-level])) / 0.6745
-    uthresh = sigma * np.sqrt(2 * np.log(len(y)))
-    coeffs_thresh = [pywt.threshold(c, value=uthresh, mode='soft') if i > 0 else c for i, c in enumerate(coeffs)]
-    return pywt.waverec(coeffs_thresh, wavelet, mode="per")
+# 🧬 Normalize age
+def normalize_age(age):
+    scaler = MinMaxScaler()
+    age_array = metadata['age'].dropna().values.reshape(-1, 1)
+    scaler.fit(age_array)
+    return float(scaler.transform([[age]])[0][0])
 
-# High-pass filter
-def highpass_filter(y, sr, cutoff=100.0):
-    nyq = 0.5 * sr
-    norm_cutoff = cutoff / nyq
-    b, a = butter(4, norm_cutoff, btype='high')
-    return lfilter(b, a, y)
+# 🚻 One-hot encode gender
+def encode_gender(gender):
+    gender = gender.upper().strip()
+    if gender not in ["F", "M"]:
+        raise ValueError("Gender must be 'F' or 'M'")
+    return np.array([1.0 if gender == "F" else 0.0, 1.0 if gender == "M" else 0.0], dtype=np.float32)
 
-# Bandpass filter
-def bandpass_filter(y, sr, lowcut=100.0, highcut=2000.0):
-    nyq = 0.5 * sr
-    low = max(lowcut / nyq, 0.001)
-    high = min(highcut / nyq, 0.999)
+# 📍 One-hot encode chest location
+def encode_chest(chest_location):
+    if chest_location not in chest_locations:
+        raise ValueError(f"Invalid chest location. Choose one of: {chest_locations}")
+    one_hot = np.zeros(len(chest_locations), dtype=np.float32)
+    one_hot[chest_locations.index(chest_location)] = 1.0
+    return one_hot
 
-    if high <= low:
-        return y  # skip filtering if invalid
-    b, a = butter(4, [low, high], btype='band')
-    return lfilter(b, a, y)
-
-
-# Notch filter
-def notch_filter(y, sr, notch_freq=50.0, Q=30.0):
-    nyq = 0.5 * sr
-    notch = notch_freq / nyq
-    low = max(notch - 0.01, 0.001)
-    high = min(notch + 0.01, 0.999)
-
-    if high <= low:
-        return y
-    b, a = butter(2, [low, high], btype='bandstop')
-    return lfilter(b, a, y)
-
-
-# Process audio: applies denoising, filters, then extracts MFCC
-def process_audio(file_bytes, max_len=100, n_mfcc=13):
-    y, sr = sf.read(io.BytesIO(file_bytes))
-    if len(y.shape) > 1:
-        y = np.mean(y, axis=1)  # Convert stereo to mono
-
-    y = wavelet_denoise(y)
-    y = highpass_filter(y, sr)
-    y = bandpass_filter(y, sr)
-    y = notch_filter(y, sr)
-
-    mfcc = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=n_mfcc).T
-
-    if mfcc.shape[0] < max_len:
-        mfcc = np.pad(mfcc, ((0, max_len - mfcc.shape[0]), (0, 0)))
-    else:
-        mfcc = mfcc[:max_len, :]
-
-    return np.expand_dims(mfcc, axis=0)
-
+# 🔮 Predict API
 @app.post("/predict")
-async def predict(audio: UploadFile = File(...)):
-    file_bytes = await audio.read()
-    mfcc_features = process_audio(file_bytes)
+async def predict(
+    file: UploadFile = File(...),
+    age: float = Form(...),
+    gender: str = Form(...),
+    chest_location: str = Form(...)
+):
+    try:
+        # Save uploaded file temporarily
+        temp_file = f"temp.wav"
+        with open(temp_file, "wb") as f:
+            f.write(await file.read())
 
-    
+        # Preprocess inputs
+        mfcc = preprocess_audio(temp_file)
+        os.remove(temp_file)
 
-    prediction = model.predict([mfcc_features])[0]
-    top_indices = prediction.argsort()[-3:][::-1]
-    result = {DISEASE_LABELS[i]: f"{round(prediction[i]*100, 2)}%" for i in top_indices}
-    return {"Top-3 Predictions": result}
+        age_input = normalize_age(age)
+        gender_input = encode_gender(gender)
+        chest_input = encode_chest(chest_location)
 
+        # 🔁 Pad chest_input to 42 if model expects 42-length input
+        if chest_input.shape[0] < 42:
+            padded = np.zeros(42, dtype=np.float32)
+            padded[:chest_input.shape[0]] = chest_input
+            chest_input = padded
+
+        # Prepare inputs for model
+        inputs = {
+            'audio_input': np.expand_dims(mfcc, axis=0),
+            'age_input': np.expand_dims(age_input, axis=0),
+            'gender_input': np.expand_dims(gender_input, axis=0),
+            'chest_input': np.expand_dims(chest_input, axis=0)
+        }
+
+        # Predict
+        probs = model.predict(inputs)[0]
+        top3_indices = probs.argsort()[-3:][::-1]
+        top3 = [
+            {"label": label_map.get(i, "Unknown"), "confidence": float(f"{probs[i]*100:.2f}")}
+            for i in top3_indices
+        ]
+        return JSONResponse({"predictions": top3})
+
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": str(e)})
+
+
+
+# 🚀 Start server
 if __name__ == "__main__":
-    uvicorn.run("app:app", host="127.0.0.1", port=7860)
-
-# uvicorn app:app --reload --host 127.0.0.1 --port 7860
+    
+    uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)

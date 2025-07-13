@@ -3,45 +3,8 @@ import { Card, Button, Row, Col, Badge, Spinner, Alert } from 'react-bootstrap';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
 
-const genderMap = (genderInput) => {
-  if (typeof genderInput === 'string') {
-    const genderArray = genderInput.split(',').map(num => parseInt(num, 10));
-
-    if (!Array.isArray(genderArray) || genderArray.length !== 3) return 'Unknown';
-
-    const [male, female, other] = genderArray;
-    if (male === 1) return 'Male';
-    if (female === 1) return 'Female';
-    if (other === 1) return 'Other';
-  }
-
-  return 'Unknown';
-};
-
-
-const chestLocationLabels = [
-  'Anterior Left', 'Anterior Left Upper', 'Anterior Right', 'Anterior Right Lower',
-  'Anterior Right Middle', 'Anterior Right Upper', 'Anterior Upper Right', 'Lateral Left',
-  'Lateral Right', 'Posterior', 'Posterior Left', 'Posterior Left Lower & Right',
-  'Posterior Left Lower', 'Posterior Left Middle', 'Posterior Left Right',
-  'Posterior Left Upper', 'Posterior Right', 'Posterior Right Lower',
-  'Posterior Right Middle', 'Posterior Right Upper', 'Trachea'
-];
-const chestLocationMap = (locationInput) => {
-  if (typeof locationInput === 'string') {
-    const locationArray = locationInput.split(',').map(num => parseInt(num, 10));
-
-    if (!Array.isArray(locationArray) || locationArray.length !== 21) return 'Unknown';
-
-    const index = locationArray.findIndex(val => val === 1);
-    return chestLocationLabels[index] || 'Unknown';
-  }
-
-  return 'Unknown';
-};
-
 const Prediction = () => {
-  const { id } = useParams(); 
+  const { id } = useParams();
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -79,25 +42,27 @@ const Prediction = () => {
   const patientInfo = {
     name: data.name,
     age: data.age,
-    gender: genderMap(data.gender),
-    chestLocation: chestLocationMap(data.chestLocation),
+    gender: data.gender,
+    chest_location: data.chest_location,
   };
 
   const getDiagnosisResults = () => {
-    const predictions = data.predictions || {};
-    return Object.entries(predictions)
-      .map(([name, value]) => {
-        const confidence = parseFloat(value.replace('%', ''));
+    const predictions = data.predictions || [];
+
+    return predictions
+      .map((item) => {
+        const confidence = parseFloat(item.confidence);
         return {
-          name: name.charAt(0).toUpperCase() + name.slice(1),
+          name: item.label.charAt(0).toUpperCase() + item.label.slice(1),
           confidence: confidence.toFixed(1),
           status: confidence > 70 ? 'High confidence' : '',
           color: confidence > 70 ? 'success' : 'danger',
-          highlighted: confidence > 70
+          highlighted: confidence > 70,
         };
       })
       .sort((a, b) => b.confidence - a.confidence);
   };
+
 
   const diagnosisResults = getDiagnosisResults();
 
@@ -112,8 +77,7 @@ const Prediction = () => {
           <Row className="mb-2"><Col xs={4}>Name:</Col><Col>{patientInfo.name}</Col></Row>
           <Row className="mb-2"><Col xs={4}>Age:</Col><Col>{patientInfo.age}</Col></Row>
           <Row className="mb-2"><Col xs={4}>Gender:</Col><Col>{patientInfo.gender}</Col></Row>
-          <Row className="mb-2"><Col xs={4}>Chest Location:</Col><Col>{patientInfo.chestLocation}</Col></Row>
- 
+          <Row className="mb-2"><Col xs={4}>Chest Location:</Col><Col>{patientInfo.chest_location}</Col></Row>
         </Card.Body>
       </Card>
 

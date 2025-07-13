@@ -18,41 +18,42 @@ const HomePage = () => {
   const navigate = useNavigate();
 
   const chestLocationMap = {
-    0: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    1: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    2: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    3: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    4: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    5: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    6: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    7: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    8: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    9: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    10: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    11: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    12: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
-    13: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
-    14: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0],
-    15: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
-    16: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-    17: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
-    18: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0],
-    19: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
-    20: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+    0: "Anterior Left (A L)",
+    1: "Anterior Left Upper (A L U)",
+    2: "Anterior Right (A R)",
+    3: "Anterior Right Lower (A R L)",
+    4: "Anterior Right Middle (A R M)",
+    5: "Anterior Right Upper (A R U)",
+    6: "Anterior Upper Right (A U R)",
+    7: "Lateral Left (L L)",
+    8: "Lateral Right (L R)",
+    9: "Posterior (P)",
+    10: "Posterior Left (P L)",
+    11: "Posterior Left Lower & Right (P L L & P R)",
+    12: "Posterior Left Lower (P L L)",
+    13: "Posterior Left Middle (P L M)",
+    14: "Posterior Left Right (P L & P R)",
+    15: "Posterior Left Upper (P L U)",
+    16: "Posterior Right (P R)",
+    17: "Posterior Right Lower (P R L)",
+    18: "Posterior Right Middle (P R M)",
+    19: "Posterior Right Upper (P R U)",
+    20: "Trachea (Tc)",
   };
 
   const [name, setName] = useState("Asma");
   const [age, setAge] = useState(72);
   const [gender, setGender] = useState("female");
-  const [chestLocation, setChestLocation] = useState([]);
+  const [chestLocation, setChestLocation] = useState("");
   const [selectedFile, setSelectedFile] = useState(null);
   const [fileError, setFileError] = useState("");
-  const [predictions, setPredictions] = useState(null);
+  const [predictions, setPredictions] = useState([]);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [selectedKey, setSelectedKey] = useState("");
   const { user, logout } = useAuth();
 
   const fileInputRef = useRef();
+
   const handleLogout = () => {
     logout();
     navigate("/login");
@@ -74,7 +75,7 @@ const HomePage = () => {
   const handleChestChange = (e) => {
     const key = e.target.value;
     setSelectedKey(key);
-    setChestLocation(chestLocationMap[key] || []);
+    setChestLocation(chestLocationMap[key] || "");
   };
 
   const handleSubmit = async (e) => {
@@ -89,26 +90,26 @@ const HomePage = () => {
     formData.append("name", name);
     formData.append("age", age);
     formData.append("gender", gender);
-    formData.append("chestLocation", JSON.stringify(chestLocation));
+    formData.append("chest_location", chestLocation);
 
     setIsSubmitting(true);
-    setPredictions(null);
+    setPredictions([]);
     setFileError("");
 
     try {
-      const token = localStorage.getItem("token"); // 👈 Get token from localStorage
+      const token = localStorage.getItem("token");
 
       const res = await fetch("http://localhost:8080/api/predict", {
         method: "POST",
         body: formData,
         headers: {
-          Authorization: `Bearer ${token}`, // 👈 Include in Authorization header
+          Authorization: `Bearer ${token}`,
         },
       });
 
       const data = await res.json();
 
-      if (data.predictions) {
+      if (Array.isArray(data.predictions)) {
         setPredictions(data.predictions);
       } else {
         setFileError(data.error || "Analysis failed.");
@@ -133,17 +134,14 @@ const HomePage = () => {
         </div>
         <div className="text-end">
           <div className="fw-semibold mb-1">
-            Welcome,{" "}
-            <span className="text-primary">{user?.name || "User"}</span>
+            Welcome, <span className="text-primary">{user?.name || "User"}</span>
           </div>
-          <div className="d-flex align-items-center justify-content-end gap-2">
-            <button
-              className="btn btn-outline-danger btn-sm d-flex align-items-center gap-1"
-              onClick={handleLogout}
-            >
-              <FaSignOutAlt /> Logout
-            </button>
-          </div>
+          <button
+            className="btn btn-outline-danger btn-sm d-flex align-items-center gap-1"
+            onClick={handleLogout}
+          >
+            <FaSignOutAlt /> Logout
+          </button>
         </div>
       </div>
 
@@ -154,9 +152,7 @@ const HomePage = () => {
           <Card className="mb-4 shadow-sm">
             <Card.Body className="text-center">
               <h5 className="mb-3">Upload Chest Recording</h5>
-              <p className="text-muted">
-                Only WAV format, 4000 Hz sampling rate
-              </p>
+              <p className="text-muted">Only WAV format, 4000 Hz sampling rate</p>
 
               <input
                 type="file"
@@ -221,24 +217,17 @@ const HomePage = () => {
                   >
                     <ToggleButton
                       id="gender-male"
-                      value="1,0,0"
+                      value="M"
                       variant="outline-secondary"
                     >
                       Male
                     </ToggleButton>
                     <ToggleButton
                       id="gender-female"
-                      value="0,1,0"
+                      value="F"
                       variant="outline-primary"
                     >
                       Female
-                    </ToggleButton>
-                    <ToggleButton
-                      id="gender-other"
-                      value="0,0,1"
-                      variant="outline-secondary"
-                    >
-                      Other
                     </ToggleButton>
                   </ToggleButtonGroup>
                 </Form.Group>
@@ -247,29 +236,9 @@ const HomePage = () => {
                   <Form.Label>Chest Location</Form.Label>
                   <Form.Select value={selectedKey} onChange={handleChestChange}>
                     <option value="">Select Location</option>
-                    <option value="0">Anterior Left (A L)</option>
-                    <option value="1">Anterior Left Upper (A L U)</option>
-                    <option value="2">Anterior Right (A R)</option>
-                    <option value="3">Anterior Right Lower (A R L)</option>
-                    <option value="4">Anterior Right Middle (A R M)</option>
-                    <option value="5">Anterior Right Upper (A R U)</option>
-                    <option value="6">Anterior Upper Right (A U R)</option>
-                    <option value="7">Lateral Left (L L)</option>
-                    <option value="8">Lateral Right (L R)</option>
-                    <option value="9">Posterior (P)</option>
-                    <option value="10">Posterior Left (P L)</option>
-                    <option value="11">
-                      Posterior Left Lower & Right (P L L & P R)
-                    </option>
-                    <option value="12">Posterior Left Lower (P L L)</option>
-                    <option value="13">Posterior Left Middle (P L M)</option>
-                    <option value="14">Posterior Left Right (P L & P R)</option>
-                    <option value="15">Posterior Left Upper (P L U)</option>
-                    <option value="16">Posterior Right (P R)</option>
-                    <option value="17">Posterior Right Lower (P R L)</option>
-                    <option value="18">Posterior Right Middle (P R M)</option>
-                    <option value="19">Posterior Right Upper (P R U)</option>
-                    <option value="20">Trachea (Tc)</option>
+                    {Object.entries(chestLocationMap).map(([key, label]) => (
+                      <option key={key} value={key}>{label}</option>
+                    ))}
                   </Form.Select>
                 </Form.Group>
 
@@ -282,7 +251,6 @@ const HomePage = () => {
                   {isSubmitting ? "Analyzing..." : "Analyze Recording"}
                 </Button>
 
-                {/* Progress Bar shown during submission */}
                 {isSubmitting && (
                   <ProgressBar
                     animated
@@ -297,13 +265,13 @@ const HomePage = () => {
           </Card>
 
           {/* Predictions Output */}
-          {predictions && (
+          {Array.isArray(predictions) && predictions.length > 0 && (
             <Card className="mt-4 shadow-sm">
               <Card.Body>
                 <Card.Title>Top-3 Predictions</Card.Title>
-                {Object.entries(predictions).map(([label, score]) => (
-                  <p key={label} className="mb-1">
-                    <strong>{label}</strong>: {score}
+                {predictions.map((pred, i) => (
+                  <p key={i} className="mb-1">
+                    <strong>{pred.label}</strong>: {pred.confidence.toFixed(1)}%
                   </p>
                 ))}
               </Card.Body>

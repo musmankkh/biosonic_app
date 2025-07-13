@@ -3,44 +3,81 @@ const fs = require("fs");
 const FormData = require("form-data");
 const { Predicter } = require("../models/Prediction");
 
-function getTopPrediction(predictionObj) {
-  if (!predictionObj) return { label: "N/A", confidence: "0.0" };
+// List of valid chest locations matching FastAPI enum
+const validChestLocations = [
+  "Anterior Left (A L)",
+  "Anterior Left Upper (A L U)",
+  "Anterior Right (A R)",
+  "Anterior Right Lower (A R L)",
+  "Anterior Right Middle (A R M)",
+  "Anterior Right Upper (A R U)",
+  "Anterior Upper Right (A U R)",
+  "Lateral Left (L L)",
+  "Lateral Right (L R)",
+  "Posterior (P)",
+  "Posterior Left (P L)",
+  "Posterior Left Lower & Right (P L L & P R)",
+  "Posterior Left Lower (P L L)",
+  "Posterior Left Middle (P L M)",
+  "Posterior Left Right (P L & P R)",
+  "Posterior Left Upper (P L U)",
+  "Posterior Right (P R)",
+  "Posterior Right Lower (P R L)",
+  "Posterior Right Middle (P R M)",
+  "Posterior Right Upper (P R U)",
+  "Trachea (Tc)",
+];
 
-  const entries = Object.entries(predictionObj).map(([key, val]) => {
-    // Strip '%' and parse to float
-    const confidence = parseFloat(val.replace("%", "")) || 0;
-    return [key, confidence];
-  });
+// Helper to get top prediction
+function getTopPrediction(predictions = []) {
+  if (!Array.isArray(predictions) || predictions.length === 0)
+    return { label: "N/A", confidence: "0.0" };
 
-  entries.sort((a, b) => b[1] - a[1]);
+  const top = predictions[0]; // Since array is already sorted
   return {
-    label: entries[0]?.[0] || "N/A",
-    confidence: entries[0]?.[1].toFixed(1) || "0.0",
+    label: top.label || "N/A",
+    confidence: top.confidence?.toFixed(1) || "0.0",
   };
 }
 
+
+// POST /predict
 const predictdisease = async (req, res) => {
   try {
-    const { name, age, gender, chestLocation } = req.body;
+    const { name, age, gender, chest_location } = req.body;
     const file = req.file;
 
     if (!file) return res.status(400).json({ error: "No file uploaded" });
-    const form = new FormData();
-    form.append("audio", fs.createReadStream(file.path));
 
-    const response = await axios.post("http://127.0.0.1:7860/predict", form, {
+    // Validate chest location
+    if (!validChestLocations.includes(chest_location)) {
+      return res.status(400).json({
+        error: "Invalid chest location. Must match predefined enum values.",
+        validOptions: validChestLocations,
+      });
+    }
+
+    // Build form data
+    const form = new FormData();
+    form.append("file", fs.createReadStream(file.path));
+    form.append("age", parseFloat(age));
+    form.append("gender", gender);
+    form.append("chest_location", chest_location); // exact match to enum
+
+    const response = await axios.post("http://127.0.0.1:8000/predict", form, {
       headers: form.getHeaders(),
     });
 
-    const predictions = response.data["Top-3 Predictions"] || {};
+    const predictions = response.data["predictions"] || [];
+
 
     // Save to MongoDB
     const patient = new Predicter({
       user: req.user.id,
       name,
-      age,
+      age: parseFloat(age),
       gender,
-      chestLocation,
+      chest_location,
       filename: file.filename,
       predictions,
     });
@@ -49,11 +86,12 @@ const predictdisease = async (req, res) => {
 
     res.json({ message: "Analysis complete", predictions });
   } catch (err) {
-    console.error(err);
+    console.error("Prediction error:", err?.response?.data || err.message);
     res.status(500).json({ error: "Internal server error" });
   }
 };
 
+// GET /predict/:id
 const getPredictById = async (req, res) => {
   try {
     const data = await Predicter.findById(req.params.id);
@@ -64,6 +102,7 @@ const getPredictById = async (req, res) => {
   }
 };
 
+// GET /predict/history
 const getAllHistory = async (req, res) => {
   try {
     const results = await Predicter.find({ user: req.user.id }).sort({
